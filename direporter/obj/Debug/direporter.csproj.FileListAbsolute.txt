@@ -1,0 +1,11 @@
+C:\Users\szumo\source\repos\direporter\direporter\obj\Debug\direporter.Form1.resources
+C:\Users\szumo\source\repos\direporter\direporter\obj\Debug\direporter.Properties.Resources.resources
+C:\Users\szumo\source\repos\direporter\direporter\obj\Debug\direporter.csproj.GenerateResource.cache
+C:\Users\szumo\source\repos\direporter\direporter\obj\Debug\direporter.csproj.CoreCompileInputs.cache
+C:\Users\szumo\source\repos\direporter\direporter\bin\Debug\Raport Maker V2.exe.config
+C:\Users\szumo\source\repos\direporter\direporter\bin\Debug\Raport Maker V2.exe
+C:\Users\szumo\source\repos\direporter\direporter\bin\Debug\Raport Maker V2.pdb
+C:\Users\szumo\source\repos\direporter\direporter\obj\Debug\Raport Maker V2.exe
+C:\Users\szumo\source\repos\direporter\direporter\obj\Debug\Raport Maker V2.pdb
+C:\Users\szumo\source\repos\direporter\direporter\obj\Debug\direporter.csprojAssemblyReference.cache
+C:\Users\szumo\source\repos\direporter\direporter\obj\Debug\direporter.csproj.ResolveComReference.cache
