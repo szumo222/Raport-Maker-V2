@@ -1,0 +1,21 @@
+﻿2018-12-10|16:00|16:00|WSZYSTKO NA GORĄCO|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:28|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|15:59|WSZYSTKO NA GORĄCO|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:4:14|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|00:00|WSZYSTKO NA GORĄCO|n_NEWS_czujny tel|nd|nd||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|16:00|00:00|WSZYSTKO NA GORĄCO|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|16:00|16:00|WSZYSTKO NA GORĄCO|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:41|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:04|WSZYSTKO NA GORĄCO|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|16:00|16:03|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:6:38|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:11|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:3:52|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:14|WSZYSTKO NA GORĄCO|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:39|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:16|WSZYSTKO NA GORĄCO|X_STRS_POD CHOINKĄ_02|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|16:00|16:16|WSZYSTKO NA GORĄCO|n_POD_WNG_LONG_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:22|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:16|WSZYSTKO NA GORĄCO|n_POD_WNG_Samorządowa przeplatanka|Sans - "Infobahn"|PRS||0:10:13|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-10|16:00|16:17|WSZYSTKO NA GORĄCO|n_POD_WNG_LONG_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:14|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:27|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_END|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:32|WSZYSTKO NA GORĄCO|n_NEWS_head v.3 do flesza|Agim Dżeljilji|nd||0:1:40|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:32|WSZYSTKO NA GORĄCO|n_POD_WNG_wykładnik Drzonka|Agim Dżeljilji|Agim Dżeljilji||0:3:56|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:37|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:5:54|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:43|WSZYSTKO NA GORĄCO|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:25|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:43|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:8:20|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:52|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_END|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|16:00|16:53|WSZYSTKO NA GORĄCO|P_PRACA 162 BARDZO DOBRE POŁĄCZENIE|Kenny Korade - "We Are Young Tonight"|PRS||0:1:4|Jacek Brzostyński|PRS / Szwaja W.||

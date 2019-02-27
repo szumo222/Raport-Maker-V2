@@ -1,0 +1,40 @@
+﻿2018-12-01|17:00|17:00|FILMÓWKA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:21|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|17:00|16:59|FILMÓWKA|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:22|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|17:00|00:00|FILMÓWKA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|17:00|17:00|FILMÓWKA|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:25|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|17:00|17:03|FILMÓWKA|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|17:00|17:03|FILMÓWKA|START A FIRE|HURWITZ/PASEK/PAUL|HURWITZ/PASEK/PAUL||0:3:7|JOHN LEGEND|INTERSCOPE|INTERSCOPE|
+2018-12-01|17:00|17:06|FILMÓWKA|n_WH_WEEKEND_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:9|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|17:00|17:06|FILMÓWKA|I'LL NEVER LOVE AGAIN|GAGA/HEMBY/LINDSEY/RAITIERE/RICE|GAGA/HEMBY/LINDSEY/RAITIERE/RICE||0:5:26|LADY GAGA|INTERSCOPE|INTERSCOPE|
+2018-12-01|17:00|17:11|FILMÓWKA|n_POD_21_slow_instr|Agim Dżeljilji|nd||0:0:37|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|17:00|17:12|FILMÓWKA|n_JRS_21_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:23|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|17:00|17:12|FILMÓWKA|BARCELONA|GIULIA Y LOS TELLARINI|||0:2:19|GIULIA Y LOS TELLARINI|TELARC DISTRIBUTION|TELARC DISTRIBUTION|
+2018-12-01|17:00|17:15|FILMÓWKA|n_WH_W DOMU_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|17:00|17:15|FILMÓWKA|TAKE FIVE|PAUL DESMOND|ND.||0:5:21|THE DAVE BRUBECK QUARTET||COLUMBIA/LEGACY|
+2018-12-01|17:00|17:20|FILMÓWKA|n_POD_16_med_instr|Agim Dżeljilji|nd||0:0:35|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|17:00|17:20|FILMÓWKA|n_JRS_16_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|17:00|17:21|FILMÓWKA|VOLARE (NEL BLU DIPINTO DI BLU)|MODUGNO, MIGLIACCI|MODUGNO, MIGLIACCI||0:2:30|DOMENICO MODUGNO|CURCI RECORDS|BMG|
+2018-12-01|17:00|17:23|FILMÓWKA|COME ALIVE|PASEK/PAUL|PASEK/PAUL||0:3:31|YEARS&YEARS AND JESS GLYNNE|ATLANTIC|ATLANTIC|
+2018-12-01|17:00|17:23|FILMÓWKA|n_WH_RS_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|17:00|17:26|FILMÓWKA|n_POD_06_med_instr|Agim Dżeljilji|nd||0:0:27|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|17:00|17:27|FILMÓWKA|n_JRS_06_med|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|17:00|17:27|FILMÓWKA|A MILLION DREAMS|PASEK/PAUL|PASEK/PAUL||0:4:29|P!NK|ATLANTIC|ATLANTIC|
+2018-12-01|17:00|17:31|FILMÓWKA|n_WH_W DOMU_05_km|Agim Dżeljilji|Agim Dżeljilji||0:0:6|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|17:00|17:31|FILMÓWKA|REWRITE THE STARS|PASEK/PAUL|PASEK/PAUL||0:3:33|ANNE-MARIE, JAMES ARTHUR|ATLANTIC|ATLANTIC|
+2018-12-01|17:00|17:35|FILMÓWKA|n_POD_23_med_instr|Agim Dżeljilji|nd||0:0:40|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|17:00|17:36|FILMÓWKA|n_JRS_23_med|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|17:00|17:36|FILMÓWKA|SI TU VOIS MA MERE|SIDNEY JOSEPH BECHET|||0:3:12|SIDNEY JOSEPH BECHET|MADISON GATE RECORDS|MADISON GATE RECORDS|
+2018-12-01|17:00|17:39|FILMÓWKA|n_STG_WEEKEND_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|17:00|17:39|FILMÓWKA|YOUR SHINING EYES|BIEL BALLESTER|||0:4:27|BIEL BALLESTER TRIO|TELARC DISTRIBUTION|TELARC DISTRIBUTION|
+2018-12-01|17:00|17:43|FILMÓWKA|n_POD_14_med_instr|Agim Dżeljilji|nd||0:0:17|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|17:00|17:44|FILMÓWKA|n_JRS_14_med1|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|17:00|17:44|FILMÓWKA|SHAKE YOUR TAILFEATHER|WILLIAMS A.,HAYES O.|RICE VERLIE|ND|0:2:42|THE BLUES BROTHERS|TISCHLER BOB|ATLANTIC|
+2018-12-01|17:00|17:46|FILMÓWKA|n_WH_TO JEST_01_km|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|17:00|17:46|FILMÓWKA|FROM NOW ON|PASEK/PAUL|PASEK/PAUL||0:4:16|ZAC BROWN BAND|ATLANTIC|ATLANTIC|
+2018-12-01|17:00|17:51|FILMÓWKA|n_WH_SŁUCHASZ_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|17:00|17:51|FILMÓWKA|NEVER ENOUGH|PASEK/PAUL|PASEK/PAUL||0:3:20|KELLY CLARKSON|ATLANTIC|ATLANTIC|
+2018-12-01|17:00|17:54|FILMÓWKA|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|17:00|17:54|FILMÓWKA|STRAJK!|RADZIMIR DĘBSKI|RADZIMIR DĘBSKI||0:1:47|JIMEK|AGORA|AGORA|
+2018-12-01|17:00|17:56|FILMÓWKA|n_JRS_02_slow_instr|Agim Dżeljilji|nd||0:0:13|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|17:00|17:56|FILMÓWKA|P_PORANEK 95 KTO SKROBAŁ|Jaco Caraco - "Im Gonna Find A Way"|PRS||0:0:58|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|17:00|17:59|FILMÓWKA|n_P_CZĘSTOTLIWOŚĆ_01|Agim Dżeljilji|PRS||0:0:22|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||

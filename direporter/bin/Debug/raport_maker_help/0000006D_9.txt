@@ -1,0 +1,36 @@
+﻿2018-12-01|16:00|16:00|MIĘDZY FILMAMI|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:24|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|16:00|15:59|MIĘDZY FILMAMI|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:14|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|16:00|00:00|MIĘDZY FILMAMI|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|16:00|16:00|MIĘDZY FILMAMI|n_NEWS_poleca|Agim Dżeljilji|Agim Dżeljilji||0:1:20|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|16:00|16:03|MIĘDZY FILMAMI|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:27|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|16:00|16:04|MIĘDZY FILMAMI|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|16:00|16:04|MIĘDZY FILMAMI|RIGHT BESIDE YOU|HAWKINS S.B.|CHERTOFF/LERMAN|NDD|0:3:55|SOPHIE B. HAWKINS|LIPSON STEPHENN|COLUMBIAA|
+2018-12-01|16:00|16:08|MIĘDZY FILMAMI|n_WH_TO JEST_04_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|16:00|16:08|MIĘDZY FILMAMI|ELLA|Soler/Triebel/Zuckowski/Chil/Bernard|Soler/Triebel/Zuckowski/Chil/Bernard||0:3:29|ALVARO SOLER||UNIVERSAL|
+2018-12-01|16:00|16:11|MIĘDZY FILMAMI|n_POD_21_slow_instr|Agim Dżeljilji|nd||0:1:32|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|16:00|16:13|MIĘDZY FILMAMI|n_JRS_21_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:23|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|16:00|16:13|MIĘDZY FILMAMI|NIECH POMYŚLĄ, ŻE TO JA|Grzegorz Hyży, Konrad Biliński|Grzegorz Hyży, Karolina Kozak||0:3:42|GRZEGORZ HYŻY||SONY|
+2018-12-01|16:00|16:17|MIĘDZY FILMAMI|BETTE DAVIES EYES|Donna Weiss, Jackie DeShannon|Donna Weiss, Jackie DeShannon||0:3:39|KIM CARNES||EMI|
+2018-12-01|16:00|16:17|MIĘDZY FILMAMI|n_WH_WEEKEND_06_km|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|16:00|16:20|MIĘDZY FILMAMI|n_POD_15_med_instr|Agim Dżeljilji|nd||0:2:3|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|16:00|16:22|MIĘDZY FILMAMI|n_JRS_15_med|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|16:00|16:23|MIĘDZY FILMAMI|THUNDERCLOUDS|AGINCOURT, ALLEN|SIA FURLER||0:3:3|LSD FEAT. SIA, DIPLO & LABRINTH|||
+2018-12-01|16:00|16:26|MIĘDZY FILMAMI|n_WH_W DOMU_01_km|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|16:00|16:26|MIĘDZY FILMAMI|HORYZONTY|ZIELONY|KOSIARKIEWICZ||0:3:21|SOUND'N'GRACE FEAT. MATEUSZ ZIÓŁKO|||
+2018-12-01|16:00|16:29|MIĘDZY FILMAMI|n_POD_16_med_instr|Agim Dżeljilji|nd||0:1:53|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|16:00|16:31|MIĘDZY FILMAMI|n_JRS_16_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|16:00|16:31|MIĘDZY FILMAMI|WIND OF HOPE|Vlasova/Kaminskiy/Krasnookiy|Vlasova/Kaminskiy/Krasnookiy||0:3:43|EUGENIA VLASOVA & ANDRU DONALD|EUGENIA VLASOVA & ANDRU DONALD|UNIVERSAL|
+2018-12-01|16:00|16:35|MIĘDZY FILMAMI|n_JRS_24_med|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|16:00|16:35|MIĘDZY FILMAMI|MOVES|Broadus Jr./Malik/Sheeran/Mac|Broadus Jr./Malik/Sheeran/Mac||0:2:43|OLLY MURS FEAT. SNOOP DOGG||SONY|
+2018-12-01|16:00|16:37|MIĘDZY FILMAMI|n_POD_23_med_instr|Agim Dżeljilji|nd||0:1:16|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|16:00|16:39|MIĘDZY FILMAMI|n_JRS_23_med|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|16:00|16:39|MIĘDZY FILMAMI|NIEWINNOŚĆ|BARTOSIEWICZ|BARTOSIEWICZ|ND|0:3:59|EDYTA BARTOSIEWICZ|BARTOSIEWICZ|BMG|
+2018-12-01|16:00|16:43|MIĘDZY FILMAMI|NEW LIGHT|John Mayer|John Mayer||0:3:23|JOHN MAYER||SONY|
+2018-12-01|16:00|16:43|MIĘDZY FILMAMI|n_STG_SŁUCHASZ_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|16:00|16:46|MIĘDZY FILMAMI|n_POD_06_med_instr|Agim Dżeljilji|nd||0:1:19|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|16:00|16:47|MIĘDZY FILMAMI|n_JRS_06_med|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|16:00|16:48|MIĘDZY FILMAMI|HIGHER|Taio Cruz, Sandy Vee|Taio Cruz, Sandy Vee||0:3:7|TAIO CRUZ FEAT. KYLIE MINOGUE||Island|
+2018-12-01|16:00|16:51|MIĘDZY FILMAMI|TUESDAY|Burak Yeter|Burak Yeter||0:3:57|BURAK YETER FEAT. DANELLE SANDOVAL||WARNER|
+2018-12-01|16:00|16:51|MIĘDZY FILMAMI|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|16:00|16:55|MIĘDZY FILMAMI|n_JRS_09_med_instr3|Agim Dżeljilji|nd||0:0:18|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|16:00|16:55|MIĘDZY FILMAMI|P_PRACA 164 KUBICA WRACA|Kenny Korade - "We Are Young Tonight"|PRS||0:0:53|Jacek Brzostyński|PRS / Szwaja W.||

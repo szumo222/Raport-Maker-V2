@@ -1,0 +1,29 @@
+﻿2018-12-11|02:00|02:03|NOC Z RADIEM SZCZECIN|GERONIMO|SHEPPARD|SHEPPARD||0:3:31|SHEPPARD||Empire of Song|
+2018-12-11|02:00|02:07|NOC Z RADIEM SZCZECIN|GOLD|Laurent Pautrat / Sandy Wilhelm|Ester Omondi Olwago /  Shamel Shepherd||0:3:18|ANTOINE CLAMARAN|CLAMARAN|SONY BMG|
+2018-12-11|02:00|02:07|NOC Z RADIEM SZCZECIN|n_WH_SŁUCHASZ_04_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-11|02:00|02:10|NOC Z RADIEM SZCZECIN|n_JRS_11_fast_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-11|02:00|02:10|NOC Z RADIEM SZCZECIN|PRZESTRZEŃ|BIG DAY|CIURAPIŃSKI MARCIN|ND|0:4:48|BIG DAY|PRUSZKOWSKI JAROSŁAW/BIG DAY|IZABELIN|
+2018-12-11|02:00|02:15|NOC Z RADIEM SZCZECIN|n_WH_TO JEST_02_k|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-11|02:00|02:15|NOC Z RADIEM SZCZECIN|NA JEDEN MOMENT|Bartosz Zielony Tabb|Arek Kłusowski||0:3:11|ZOUZY|||
+2018-12-11|02:00|02:18|NOC Z RADIEM SZCZECIN|n_STG_TO JEST_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:8|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-11|02:00|02:18|NOC Z RADIEM SZCZECIN|FLASHDANCE (WHAT A FEELING)|Giorgio Moroder|Keith Forsey & Irene Cara||0:3:55|IRENE CARA||Casablanca|
+2018-12-11|02:00|02:22|NOC Z RADIEM SZCZECIN|n_WH_SŁUCHASZ_04_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-11|02:00|02:22|NOC Z RADIEM SZCZECIN|W PIĘCIU SMAKACH|M. BRODKA, B. DZIEDZIC|R. ŁUKASIEWICZ||0:3:36|BRODKA|SONY MUSIC ENTERTAINMENT|SONY MUSIC|
+2018-12-11|02:00|02:25|NOC Z RADIEM SZCZECIN|n_JRS_20_med2|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-11|02:00|02:25|NOC Z RADIEM SZCZECIN|NEVERMIND|Nir T., Dennis Lloyd|Nir T., Dennis Lloyd||0:2:35|DENNIS LLOYD|||
+2018-12-11|02:00|02:28|NOC Z RADIEM SZCZECIN|n_JRS_09_med|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-11|02:00|02:28|NOC Z RADIEM SZCZECIN|ANGELS (LOVE IS THE ANSWER)|Marius Moga, Andrei Ropcea|Marius Moga, Andrei Ropcea||0:3:45|MORANDI|MORANDI|UNIVERSAL|
+2018-12-11|02:00|02:33|NOC Z RADIEM SZCZECIN|SPOKOJNIE|Rosalie Hoffman, Piotr Suwalski|Rosalie Hoffman, Arek Sitarz||0:2:50|ROSALIE||Alkopoligamia|
+2018-12-11|02:00|02:35|NOC Z RADIEM SZCZECIN|n_WH_SŁUCHASZ_03_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-11|02:00|02:36|NOC Z RADIEM SZCZECIN|IRIS|John Rzeznik|John Rzeznik||0:3:30|GOO GOO DOLLS||WARNER|
+2018-12-11|02:00|02:39|NOC Z RADIEM SZCZECIN|n_WH_RS_03_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:6|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-11|02:00|02:39|NOC Z RADIEM SZCZECIN|WITHOUT ME|Bell/Allen/Frangipane/Delacey/|Timberlake/Mosley/Storch||0:3:20|HALSEY||UNIVERSAL|
+2018-12-11|02:00|02:42|NOC Z RADIEM SZCZECIN|n_JRS_07_med|Agim Dzeljilji|Agim Dzeljilji||0:0:13|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-11|02:00|02:42|NOC Z RADIEM SZCZECIN|NIC DO STRACENIA|Łukasz Mróz|Łukasz Mróz||0:3:31|MROZU FEAT. SOUND N' GRACE||WARNER|
+2018-12-11|02:00|02:46|NOC Z RADIEM SZCZECIN|DANCING IN THE MOONLIGHT|TOPLOADER|TOPLOADER|ND|0:3:40|TOPLOADER|DRAKOULIAS G.|SONY MUSIC|
+2018-12-11|02:00|02:46|NOC Z RADIEM SZCZECIN|n_WH_TO JEST_06_m|Agim Dżeljilji|Agim Dżeljilji||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-11|02:00|02:49|NOC Z RADIEM SZCZECIN|n_JRS_13_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-11|02:00|02:49|NOC Z RADIEM SZCZECIN|THE RIDDLE|KERSHAW|KERSHAW||0:3:44|NIK KERSHAW|KERSHAW|MCA|
+2018-12-11|02:00|02:53|NOC Z RADIEM SZCZECIN|HEJ WY|Trafalska|Trafalska / Kortez||0:4:3|KORTEZ|||
+2018-12-11|02:00|02:57|NOC Z RADIEM SZCZECIN|n_JRS_16_slow_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-11|02:00|02:57|NOC Z RADIEM SZCZECIN|MARVIN GAYE|Charlie Puth/Julie Frost|Charlie Puth/Julie Frost||0:3:6|CHARLIE PUTH FEAT. MEGHAN TRAINOR||ATLANTIC/WARNER|

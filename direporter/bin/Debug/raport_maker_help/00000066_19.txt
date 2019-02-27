@@ -1,0 +1,17 @@
+﻿2018-12-10|02:00|02:00|NA SZCZECIŃSKIEJ ZIEMI|n_P_CZĘSTOTLIWOŚĆ_02|Agim Dżeljilji|PRS||0:0:24|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||
+2018-12-10|02:00|02:00|NA SZCZECIŃSKIEJ ZIEMI|n_STG_POWTÓRKA czoło|Aumueller, Gargani -"Information Age"|PRS||0:0:6|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-10|02:00|02:00|NA SZCZECIŃSKIEJ ZIEMI|NSZ_POD_SPONSOR Izba Rolnicza|Ingo Herrmann - "Momental"|PRS||0:3:34|Ćwiek Tomasz|PRS / Szwaja W.||
+2018-12-10|02:00|02:03|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_21_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:23|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|02:00|02:09|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_13_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|02:00|02:17|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_10_trans|Agim Dzeljilji|Agim Dzeljilji||0:0:17|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|02:00|02:22|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_18_med|Agim Dzeljilji|Agim Dzeljilji||0:0:14|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|02:00|02:28|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_24_med|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|02:00|02:41|NA SZCZECIŃSKIEJ ZIEMI|Akademia Działkowca-sygnał bez sponsora|Stelita - "Solo Tu"|PRS||0:0:15|Ćwiek Tomasz|PRS / Szwaja W.||
+2018-12-10|02:00|02:46|NA SZCZECIŃSKIEJ ZIEMI|Akademia Działkowca-sygnał bez sponsora|Stelita - "Solo Tu"|PRS||0:0:15|Ćwiek Tomasz|PRS / Szwaja W.||
+2018-12-10|02:00|02:47|NA SZCZECIŃSKIEJ ZIEMI|n_STG_POWTÓRKA end|Aumueller, Gargani -"Information Age"|PRS||0:0:7|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-10|02:00|02:47|NA SZCZECIŃSKIEJ ZIEMI|W SPODNIACH CZY W SUKIENCE|DĄBROWSKA|DĄBROWSKA||0:3:52|ANIA|DĄBROWSKA|SONY BMG|
+2018-12-10|02:00|02:50|NA SZCZECIŃSKIEJ ZIEMI|LIST|Henryk Bednarek|Henryk Bednarek||0:3:29|BEDNAREK||LouRocked|
+2018-12-10|02:00|02:54|NA SZCZECIŃSKIEJ ZIEMI|n_WH_TO JEST_02_k|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|02:00|02:54|NA SZCZECIŃSKIEJ ZIEMI|W DRODZE DO MARZEŃ|Robert Gawliński, Mikis Cupas|MONIKA GAWLIŃSKA||0:3:18|WILKI||SONY|
+2018-12-10|02:00|02:57|NA SZCZECIŃSKIEJ ZIEMI|n_WH_SŁUCHASZ_04_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|02:00|02:57|NA SZCZECIŃSKIEJ ZIEMI|ORŁA CIEŃ|JANSON ROBERT|STANKIEWICZ KATARZYNA||0:3:3|VARIUS MANX|ZIC ZAC|ZIC ZAC|

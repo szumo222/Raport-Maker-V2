@@ -1,0 +1,21 @@
+﻿2018-12-14|16:00|16:00|WSZYSTKO NA GORĄCO|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:27|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|15:59|WSZYSTKO NA GORĄCO|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:27|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|00:00|WSZYSTKO NA GORĄCO|n_NEWS_to są|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-14|16:00|16:00|WSZYSTKO NA GORĄCO|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:36|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:03|WSZYSTKO NA GORĄCO|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|16:00|16:03|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:5:58|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:08|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:3:54|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:13|WSZYSTKO NA GORĄCO|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:49|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:15|WSZYSTKO NA GORĄCO|X_STRS_POD CHOINKĄ_02|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|16:00|16:15|WSZYSTKO NA GORĄCO|n_POD_WNG_LONG_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:20|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:15|WSZYSTKO NA GORĄCO|n_POD_WNG_Samorządowa przeplatanka|Sans - "Infobahn"|PRS||0:10:13|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-14|16:00|16:15|WSZYSTKO NA GORĄCO|n_POD_WNG_LONG_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:13|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:25|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_END|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:31|WSZYSTKO NA GORĄCO|n_NEWS_head v.3 do flesza|Agim Dżeljilji|nd||0:1:15|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:31|WSZYSTKO NA GORĄCO|n_POD_WNG_felieton niepolityczny|Agim Dżeljilji|Agim Dżeljilji||0:4:3|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:36|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:7:49|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:43|WSZYSTKO NA GORĄCO|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:23|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:44|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:1:57|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:46|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:6:2|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:52|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_END|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|16:00|16:53|WSZYSTKO NA GORĄCO|P_DOMÓWKA 19 (sob)|Zaremba - "Melbourne"|PRS||0:0:43|Jacek Brzostyński|PRS / Szwaja W.||

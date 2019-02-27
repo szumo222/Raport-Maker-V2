@@ -1,0 +1,165 @@
+﻿2018-12-01|10:00|10:00|AKTYWNA SOBOTA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:24|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|09:59|AKTYWNA SOBOTA|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:4:40|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|00:00|AKTYWNA SOBOTA|n_NEWS_czujny tel|nd|nd||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|00:00|AKTYWNA SOBOTA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|10:00|AKTYWNA SOBOTA|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:19|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|10:04|AKTYWNA SOBOTA|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|10:04|AKTYWNA SOBOTA|DREAMS|CRANBERRIES|CRANBERRIES||0:4:13|THE CRANBERRIES|CRANBERRIES|UNIVERSAL|
+2018-12-01|10:00|10:09|AKTYWNA SOBOTA|JACKIE CHAN|Bell/Humphrey/Post/Dzeko/Torres/Verwest|Bell/Humphrey/Post/Dzeko/Torres/Verwest||0:3:35|TIESTO & DZEKO FT. PREME & POST MALONE||UNIVERSAL|
+2018-12-01|10:00|10:09|AKTYWNA SOBOTA|n_STG_WEEKEND_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|10:12|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_06_med|Agim Dżeljilji|Agim Dżeljilji||0:3:4|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|10:12|AKTYWNA SOBOTA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|10:15|AKTYWNA SOBOTA|SERCE NIE SŁUGA|A. Dąbrowska|A. Dąbrowska, D. Melosik, M. Melosik||0:3:9|ANIA DĄBROWSKA||SONY|
+2018-12-01|10:00|10:18|AKTYWNA SOBOTA|n_JRS_21_slow_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|10:18|AKTYWNA SOBOTA|MIRACLE|Clément Boucaux, Julian Perretta|Clément Boucaux, Julian Perretta||0:2:39|JULIAN PERRETTA||SONY|
+2018-12-01|10:00|10:21|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_16_med|Agim Dżeljilji|Agim Dżeljilji||0:3:56|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|10:21|AKTYWNA SOBOTA|n_JRS_16_slow_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|10:25|AKTYWNA SOBOTA|P_TROCHĘ KULTURY 02.12|Laszlo/Wheeler - "Dreams Come True"|PRS||0:1:2|Jacek Brzostyński, Konrad Wojtyła|PRS / Szwaja W.||
+2018-12-01|10:00|10:29|AKTYWNA SOBOTA|LA ISLA BONITA|LEONARD PAT,GAITSCH BRUCE|MADONNA|ND|0:3:27|MADONNA|MADONNA,LEONARD PATRICK|SIRE RECORDS|
+2018-12-01|10:00|10:33|AKTYWNA SOBOTA|n_JRS_02_slow_short1|Agim Dzeljilji|Agim Dzeljilji||0:0:10|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|10:33|AKTYWNA SOBOTA|POWER OVER ME|Kennedy, Kozmeniuk, Harris|Kennedy, Kozmeniuk, Harris||0:3:17|DERMOT KENNEDY||UNIVERSAL|
+2018-12-01|10:00|10:36|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_06_med|Agim Dżeljilji|Agim Dżeljilji||0:3:2|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|10:36|AKTYWNA SOBOTA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|10:39|AKTYWNA SOBOTA|TRAMWAJE I GWIAZDY|Maciej Sawoch (Soxso/Jóga)|MIUOSH & NOSOWSKA||0:3:25|MIUOSH & NOSOWSKA||FDG|
+2018-12-01|10:00|10:42|AKTYWNA SOBOTA|THE WEEKEND|IRVIN / STILL / MCCORD / CHEATHAM|IRVIN / STILL / MCCORD / CHEATHAM||0:3:12|MICHAEL GRAY|GRAY|MAGIC|
+2018-12-01|10:00|10:42|AKTYWNA SOBOTA|n_STG_SŁUCHASZ_02_m|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|10:45|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_14_med|Agim Dżeljilji|Agim Dżeljilji||0:3:17|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|10:46|AKTYWNA SOBOTA|n_JRS_14_med1|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|10:49|AKTYWNA SOBOTA|GIRLS LIKE YOU|Levine/Walter/Hazzard/Evigan/Stone|Levine/Walter/Hazzard/Evigan/Stone||0:3:55|MAROON 5 FEAT. CARDI B||UNIVERSAL POLSKA|
+2018-12-01|10:00|10:53|AKTYWNA SOBOTA|RUN TO YOU|Jim Vallance, Bryan Adams|Jim Vallance, Bryan Adams||0:3:44|BRYAN ADAMS||A&M|
+2018-12-01|10:00|10:53|AKTYWNA SOBOTA|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|10:56|AKTYWNA SOBOTA|P_SPÓR W KINIE 01.12|Loi - "Glitter Swing Symphony"|PRS||0:0:39|Jacek Brzostyński, Krzysztof Spór|PRS / Szwaja W.||
+2018-12-01|10:00|11:00|AKTYWNA SOBOTA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:24|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|10:59|AKTYWNA SOBOTA|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:30|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|00:00|AKTYWNA SOBOTA|n_NEWS_czujny tel|nd|nd||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|00:00|AKTYWNA SOBOTA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|11:00|AKTYWNA SOBOTA|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:18|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|11:03|AKTYWNA SOBOTA|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|11:04|AKTYWNA SOBOTA|BE MINE|de Rummel, West, Lauduique|de Rummel, West, Lauduique||0:2:39|OFENBACH||WARNER|
+2018-12-01|10:00|11:06|AKTYWNA SOBOTA|n_WH_SŁUCHASZ_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|11:06|AKTYWNA SOBOTA|KSIĘŻNICZKA|GRZESZCZAK|PIOTROWSKI||0:3:1|SYLWIA GRZESZCZAK||EMI|
+2018-12-01|10:00|11:09|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_06_med|Agim Dżeljilji|Agim Dżeljilji||0:2:41|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|11:12|AKTYWNA SOBOTA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|11:12|AKTYWNA SOBOTA|ELECTRICITY (FEAT. DIPLO & MARK RONSON)|PICARD, GORDON, LIPA|OLOFSON, RONSON||0:4:0|SILK CITY & DUA LIPA|||
+2018-12-01|10:00|11:16|AKTYWNA SOBOTA|DON'T YOU|FORSEY K.|CHIFF S.|ND|0:4:14|SIMPLE MINDS|FORSEY K.|EMI REC.|
+2018-12-01|10:00|11:16|AKTYWNA SOBOTA|n_STG_TO JEST_02_m|Agim Dżeljilji|Agim Dżeljilji||0:0:9|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|11:20|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_16_med|Agim Dżeljilji|Agim Dżeljilji||0:2:45|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|11:22|AKTYWNA SOBOTA|n_JRS_16_slow_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|11:23|AKTYWNA SOBOTA|PRZED EPOKĄ WSTYDU|JANSON|STANKIEWICZ||0:3:17|KASIA STANKIEWICZ & VARIUS MANX||AGORA|
+2018-12-01|10:00|11:26|AKTYWNA SOBOTA|HIGH HOPES|URIE|SINCLAIR||0:3:9|PANIC! AT THE DISCO|||
+2018-12-01|10:00|11:26|AKTYWNA SOBOTA|n_STG_WEEKEND_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|11:29|AKTYWNA SOBOTA|n_JRS_01_trans_instr|Agim Dżeljilji|nd||0:0:13|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|11:29|AKTYWNA SOBOTA|P_OJCOWIE DMOWSKI 02 (od pon)|Yoni Gileadi/Amy Gileadi-"The Company"|PRS||0:0:52|Jacek Brzostyński, Jerzy Zelnik|PRS / Szwaja W.||
+2018-12-01|10:00|11:32|AKTYWNA SOBOTA|n_WH_W DOMU_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|11:33|AKTYWNA SOBOTA|ECSTASY|TANNEBERGER / ELLIOTT-SMITH / LARSEN|TANNEBERGER / ELLIOTT-SMITH / LARSEN||0:3:9|ATB||MAGIC|
+2018-12-01|10:00|11:36|AKTYWNA SOBOTA|n_WH_SŁUCHASZ_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:8|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|11:36|AKTYWNA SOBOTA|KRAWIEC|Bartosz Zielony|Anna Saraniecka||0:3:15|FILIP LATO||GORGO|
+2018-12-01|10:00|11:39|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_06_med|Agim Dżeljilji|Agim Dżeljilji||0:3:22|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|11:42|AKTYWNA SOBOTA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|11:42|AKTYWNA SOBOTA|YOU KEEP ME HANGIN' ON|HOLLAND|DOZIER/HOLLAND||0:3:57|KIM WILDE||MCA|
+2018-12-01|10:00|11:46|AKTYWNA SOBOTA|n_JRS_13_med_short (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:16|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|11:46|AKTYWNA SOBOTA|IN MY MIND|Leoni/Kingsley/Montagner/Di Agostino/|Soon/Sandrini/Forte/Gough||0:2:54|DYNORO & GIGI D'AGOSTINO||SONY|
+2018-12-01|10:00|11:49|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_06_med|Agim Dżeljilji|Agim Dżeljilji||0:2:10|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|11:51|AKTYWNA SOBOTA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|11:51|AKTYWNA SOBOTA|TAMAGOTCHI|Forxst|F. Szcześniak, K. Grabowski||0:3:21|TACONAFIDE||Taconafidex|
+2018-12-01|10:00|11:55|AKTYWNA SOBOTA|n_JRS_06_med_instr2|Agim Dżeljilji|nd||0:0:19|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|11:55|AKTYWNA SOBOTA|P_PRACA 160 SŁUCHALNOŚĆ NUDA|Kenny Korade - "We Are Young Tonight"|PRS||0:0:57|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|10:00|11:59|AKTYWNA SOBOTA|n_P_CZĘSTOTLIWOŚĆ_01|Agim Dżeljilji|PRS||0:0:22|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||
+2018-12-01|10:00|12:00|AKTYWNA SOBOTA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|11:59|AKTYWNA SOBOTA|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:34|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|00:00|AKTYWNA SOBOTA|n_NEWS_czujny tel|nd|nd||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|00:00|AKTYWNA SOBOTA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|12:00|AKTYWNA SOBOTA|n_NEWS_poleca|Agim Dżeljilji|Agim Dżeljilji||0:1:22|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|12:03|AKTYWNA SOBOTA|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:18|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|12:04|AKTYWNA SOBOTA|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|12:04|AKTYWNA SOBOTA|MANEATER|OATES/HALL/ALLEN|OATES/HALL/ALLEN||0:4:20|HALL & OATES||BMG|
+2018-12-01|10:00|12:09|AKTYWNA SOBOTA|n_JRS_24_med|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|12:09|AKTYWNA SOBOTA|SPEECHLESS|Dohr/Bierbrodt/Schulz/Brunila/Dabruck/|Kramer/Braide||0:3:28|ROBIN SCHULZ FEAT. ERIKA SIROLA||WARNER|
+2018-12-01|10:00|12:12|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_06_med|Agim Dżeljilji|Agim Dżeljilji||0:3:29|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|12:16|AKTYWNA SOBOTA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|12:16|AKTYWNA SOBOTA|SKRZYDŁA|Bartosz TABB Zielony|Patrycja Kosiarkiewicz||0:3:32|ZOUZY||GORGO|
+2018-12-01|10:00|12:19|AKTYWNA SOBOTA|n_WH_TO JEST_01_km|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|12:19|AKTYWNA SOBOTA|SACRIFICE|JOHN ELTON/TAUPIN|JOHN ELTON/TAUPIN|ND|0:5:6|ELTON JOHN|THOMAS CHRIS|MERCURY RECORDS|
+2018-12-01|10:00|12:24|AKTYWNA SOBOTA|n_JRS_21_slow_short|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|12:24|AKTYWNA SOBOTA|NATURAL|Reynolds/Sermon/McKee/Fredriksson|Larsson/Tranter/Platzman||0:3:6|IMAGINE DRAGONS||UNIVERSAL|
+2018-12-01|10:00|12:27|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_06_med|Agim Dżeljilji|Agim Dżeljilji||0:3:54|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|12:31|AKTYWNA SOBOTA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|12:31|AKTYWNA SOBOTA|RHYTHM OF THE NIGHT|A. Gordon, F. Bontempi, G. Spagna|A. Gordon, F. Bontempi, G. Spagna||0:3:34|FEDDE LE GRAND||MAGIC RECORDS|
+2018-12-01|10:00|12:35|AKTYWNA SOBOTA|n_JRS_14_med_instr|Agim Dżeljilji|nd||0:0:9|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|12:35|AKTYWNA SOBOTA|n_JRS_14_med1|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|12:35|AKTYWNA SOBOTA|JA IKAR|Ukeje, Marcin Bors|Ukeje, Kasia Lins, Elżbieta Grymuza||0:3:33|DAMIAN UKEJE||UNIVERSAL|
+2018-12-01|10:00|12:38|AKTYWNA SOBOTA|SI JAMAIS J'OUBLIE|Jean-Etienne Maillard|YCARE||0:3:26|ZAZ||WARNER|
+2018-12-01|10:00|12:38|AKTYWNA SOBOTA|n_STG_SŁUCHASZ_04_km|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|12:42|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_06_med|Agim Dżeljilji|Agim Dżeljilji||0:3:5|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|12:45|AKTYWNA SOBOTA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|12:45|AKTYWNA SOBOTA|HAPPY NOW|Kyrre G?rvell-Dahll, Sandro Cavazza|Sandro Cavazza||0:3:29|KYGO FEAT. SANDRO CAVAZZA||SONY|
+2018-12-01|10:00|12:48|AKTYWNA SOBOTA|MYŚLĘ O TOBIE|SKAWIŃSKI|TKACZYK||0:3:45|KOMBII||UNIVERSAL MUSIC POLSKA|
+2018-12-01|10:00|12:48|AKTYWNA SOBOTA|n_STG_SŁUCHASZ_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|12:52|AKTYWNA SOBOTA|n_JRS_11_fast_short|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|12:52|AKTYWNA SOBOTA|EUPHORIA|Thomas G:son, Peter Boström|Thomas G:son, Peter Boström||0:2:58|LOREEN||WARNER|
+2018-12-01|10:00|12:55|AKTYWNA SOBOTA|n_JRS_14_med_instr2|Agim Dżeljilji|nd||0:0:15|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|12:55|AKTYWNA SOBOTA|P_TROCHĘ KULTURY 02.12|Laszlo/Wheeler - "Dreams Come True"|PRS||0:1:2|Jacek Brzostyński, Konrad Wojtyła|PRS / Szwaja W.||
+2018-12-01|10:00|13:00|AKTYWNA SOBOTA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:24|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|13:00|AKTYWNA SOBOTA|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:51|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|00:00|AKTYWNA SOBOTA|n_NEWS_czujny tel|nd|nd||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|00:00|AKTYWNA SOBOTA|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|00:00|AKTYWNA SOBOTA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|13:00|AKTYWNA SOBOTA|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:17|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|13:04|AKTYWNA SOBOTA|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|13:04|AKTYWNA SOBOTA|THIS TIME IT'S MY LIFE|Mick Jagger, Keith Richards|Mick Jagger, Keith Richards||0:3:7|MICAR||MAGIC RECORDS|
+2018-12-01|10:00|13:07|AKTYWNA SOBOTA|GIRLS GO WILD|Pergolizzi/Gonzalez/Campany|Pergolizzi/Gonzalez/Campany||0:3:35|LP||UNIVERSAL|
+2018-12-01|10:00|13:07|AKTYWNA SOBOTA|n_STG_WEEKEND_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|13:11|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_06_med|Agim Dżeljilji|Agim Dżeljilji||0:3:1|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|13:11|AKTYWNA SOBOTA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|13:14|AKTYWNA SOBOTA|PECH TO NIE GRZECH|Grzegorz Hyży, Konrad Biliński|Grzegorz Hyży||0:3:38|GRZEGORZ HYŻY||SONY|
+2018-12-01|10:00|13:17|AKTYWNA SOBOTA|n_WH_SŁUCHASZ_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:8|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|13:17|AKTYWNA SOBOTA|THE POWER OF LOVE|DE ROUGE C.-MENDE G.|RUSH J.-APPLEGATE M.S.|ND|0:4:39|JENNIFER RUSH|SONY MUSIC|SONY MUSIC|
+2018-12-01|10:00|13:22|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_06_med|Agim Dżeljilji|Agim Dżeljilji||0:4:4|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|13:22|AKTYWNA SOBOTA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|13:26|AKTYWNA SOBOTA|BODY|Fedyk, De Pace, Lopes, McClain|Fedyk, De Pace, Lopes, McClain||0:2:42|LOUD LUXURY FEAT. BRANDO||SONY|
+2018-12-01|10:00|13:29|AKTYWNA SOBOTA|n_STG_TO JEST_04_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|13:29|AKTYWNA SOBOTA|ODPROWADŹ|Koteluk, Rasz, Krawczyk, Kasiukiewicz|Koteluk||0:3:44|MELA KOTELUK||Warner|
+2018-12-01|10:00|13:32|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_06_med|Agim Dżeljilji|Agim Dżeljilji||0:3:44|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|13:32|AKTYWNA SOBOTA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|13:36|AKTYWNA SOBOTA|WONDERFUL LIFE|ADAM ANDERSON,THEO HUTCHCRAFT,JOE CROSS|ADAM ANDERSON,THEO HUTCHCRAFT,JOE CROSS||0:3:42|HURTS||SONY MUSIC|
+2018-12-01|10:00|13:40|AKTYWNA SOBOTA|n_STG_WEEKEND_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|13:40|AKTYWNA SOBOTA|HEY DJ|Trainor/Henriques/Barrera/Wallace/|Miranda/Radosevich/de la Torre||0:3:6|CNCO, MEGHAN TRAINOR & SEAN PAUL||SONY|
+2018-12-01|10:00|13:43|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_06_med|Agim Dżeljilji|Agim Dżeljilji||0:3:47|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|13:43|AKTYWNA SOBOTA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|13:46|AKTYWNA SOBOTA|YOU'RE NOT ALONE (AIRPLAY CHILL MIX)|Tim Kellett, Robin Taylor-Firth|Tim Kellett, Robin Taylor-Firth||0:3:11|ATB||KONTOR|
+2018-12-01|10:00|13:50|AKTYWNA SOBOTA|OUTSIDE|MICHAEL G.|MICHAEL G.|ND|0:4:45|GEORGE MICHAEL|MICHAEL G., DOUGLAS J.|SONY MUSIC|
+2018-12-01|10:00|13:50|AKTYWNA SOBOTA|n_STG_SŁUCHASZ_04_km|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|13:54|AKTYWNA SOBOTA|n_JRS_16_med_instr|Agim Dżeljilji|nd||0:0:15|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|13:54|AKTYWNA SOBOTA|P_DOMÓWKA 19 (sob)|Zaremba - "Melbourne"|PRS||0:0:43|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|10:00|13:59|AKTYWNA SOBOTA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:26|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|13:59|AKTYWNA SOBOTA|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:38|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|00:00|AKTYWNA SOBOTA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|10:00|14:00|AKTYWNA SOBOTA|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:25|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|14:03|AKTYWNA SOBOTA|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|14:04|AKTYWNA SOBOTA|SAY IT RIGHT|Furtado/Mosley/Hill|Furtado/Mosley/Hill||0:3:38|NELLY FURTADO|FURTADO NELLY|UNIVERSAL|
+2018-12-01|10:00|14:07|AKTYWNA SOBOTA|FADING|Marengo/Montilla/Omar/Gashi/Skött/Deima|Zuber/Oestmann/Zimmer/Dabruck/Kramer/Do||0:3:26|ALLE FARBEN & ILIRA||SONY|
+2018-12-01|10:00|14:07|AKTYWNA SOBOTA|n_WH_WEEKEND_02_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|14:10|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_07_med|Agim Dżeljilji|Agim Dżeljilji||0:4:44|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|14:10|AKTYWNA SOBOTA|n_JRS_07_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|14:15|AKTYWNA SOBOTA|FOOTLOOSE|Kenny Loggins, Dean Pitchford|Kenny Loggins, Dean Pitchford||0:3:45|KENNY LOGGINS||Columbia|
+2018-12-01|10:00|14:19|AKTYWNA SOBOTA|NIE MUSZĘ|Julia Wieniawa, Wojtek Urbański|Arek Sitarz (Ras)||0:3:6|JULIA WIENIAWA|||
+2018-12-01|10:00|14:19|AKTYWNA SOBOTA|n_WH_W DOMU_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|14:22|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_16_med|Agim Dżeljilji|Agim Dżeljilji||0:4:16|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|14:22|AKTYWNA SOBOTA|n_JRS_16_slow_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|14:26|AKTYWNA SOBOTA|SONG ON FIRE|Kroeger/Peake/Warner/Jones/Spraker|Kroeger/Peake/Warner/Jones/Spraker||0:3:43|NICKELBACK||Mystic Production|
+2018-12-01|10:00|14:30|AKTYWNA SOBOTA|n_STG_TO JEST_04_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|14:30|AKTYWNA SOBOTA|SWEET BUT PSYCHO|Love/Koci/Walter/Haukeland|Love/Koci/Walter/Haukeland||0:3:4|AVA MAX||WARNER|
+2018-12-01|10:00|14:33|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_18_med|Agim Dżeljilji|Agim Dżeljilji||0:3:0|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|14:36|AKTYWNA SOBOTA|n_JRS_18_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:10|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|14:36|AKTYWNA SOBOTA|NIE MA FAL|Bartek Dziedzic, Dawid Podsiadło|Dawid Podsiadło||0:3:57|DAWID PODSIADŁO||SONY|
+2018-12-01|10:00|14:40|AKTYWNA SOBOTA|n_WH_WEEKEND_03_k|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|14:40|AKTYWNA SOBOTA|LITTLE LIES|CHRISTINE MCVIE/EDDY QUINTELA|CHRISTINE MCVIE/EDDY QUINTELA|ND|0:3:26|FLEETWOOD MAC|DASHUT RICHARD|WARNER|
+2018-12-01|10:00|14:43|AKTYWNA SOBOTA|n_POD_AKTYWNA SOBOTA_13_med|Agim Dżeljilji|Agim Dżeljilji||0:2:42|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|14:46|AKTYWNA SOBOTA|n_JRS_13_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|10:00|14:46|AKTYWNA SOBOTA|WISH YOU WERE MINE|Sylvia Moy, Henry Cosby, Stevie Wonder|Sylvia Moy, Henry Cosby, Stevie Wonder||0:2:54|PHILIP GEORGE||UNIVERSAL|
+2018-12-01|10:00|14:49|AKTYWNA SOBOTA|BONFIRE HEART|JAMES BLUNT|JAMES BLUNT||0:3:53|JAMES BLUNT||WARNER|
+2018-12-01|10:00|14:49|AKTYWNA SOBOTA|n_STG_SŁUCHASZ_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|14:52|AKTYWNA SOBOTA|n_WH_W DOMU_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|10:00|14:52|AKTYWNA SOBOTA|FEEL IT STILL|Hill/Bateman/Taccone/Portugal. The Man|Gorman/Holland||0:2:40|PORTUGAL. THE MAN||WARNER|
+2018-12-01|10:00|14:55|AKTYWNA SOBOTA|n_JRS_20_med_instr3|Agim Dżeljilji|nd||0:0:21|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|10:00|14:55|AKTYWNA SOBOTA|P_SPÓR W KINIE 01.12|Loi - "Glitter Swing Symphony"|PRS||0:0:39|Jacek Brzostyński, Krzysztof Spór|PRS / Szwaja W.||

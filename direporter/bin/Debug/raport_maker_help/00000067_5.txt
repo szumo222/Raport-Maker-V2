@@ -1,0 +1,57 @@
+﻿2018-12-01|04:00|04:00|POLSKI PORANEK|ZEGAR|BARTOSIEWICZ EDYTA|BARTOSIEWICZ EDYTA|ND|0:3:58|EDYTA BARTOSIEWICZ|POLYGRAM POLSKA|POLYGRAM POLSKA|
+2018-12-01|04:00|04:04|POLSKI PORANEK|n_JRS_09_med|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|04:00|04:04|POLSKI PORANEK|SAM NA SAM|Szymon Chodyniecki|Szymon Chodyniecki||0:3:24|SZYMON CHODYNIECKI||SONY|
+2018-12-01|04:00|04:10|POLSKI PORANEK|PRZYJDZIE TAKI DZIEŃ|Tomek Konfederak, Adam Drywa|Katarzyna Popowska||0:3:22|KASIA POPOWSKA||Universal|
+2018-12-01|04:00|04:13|POLSKI PORANEK|RAJ|JUSTYNA ŚWIĘS, JAKUB KARAŚ|JUSTYNA ŚWIĘS, JAKUB KARAŚ||0:3:30|THE DUMPLINGS||WARNER|
+2018-12-01|04:00|04:13|POLSKI PORANEK|n_WH_POLSKI PORANEK_02_m|Agim Dżeljilji|Agim Dżeljilji||0:0:9|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|04:00|04:18|POLSKI PORANEK|ANIOŁ WIE...|ZYBOWSKI S.|KASPRZAK U.|ND|0:4:0|URSZULA|ZYBOWSKI S.|BMG POLAND|
+2018-12-01|04:00|04:22|POLSKI PORANEK|MY SŁOWIANIE|Witold "Donatan" Czamara|Klepko, Czamara, Krawczyk||0:3:9|DONATAN feat. CLEO||New Media s.c. (UrbanRec)|
+2018-12-01|04:00|04:25|POLSKI PORANEK|P_PORANEK 93 DZIŃ DYBRY HANKA|Jaco Caraco - "Im Gonna Find A Way"|PRS||0:0:55|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|04:00|04:26|POLSKI PORANEK|CHWILE JAK TE|Bednarek/Stanclik/Szyszkowski/Pilarz|Bednarek/Stanclik/Szyszkowski/Pilarz||0:4:17|KAMIL BEDNAREK FEAT. STAFF||Lou & Rocked Boys|
+2018-12-01|04:00|04:30|POLSKI PORANEK|NIE STAŁO SIĘ NIC|GAWLIŃSKI|GAWLIŃSKI|ND|0:3:4|ROBERT GAWLIŃSKI|STARLING|STARLING|
+2018-12-01|04:00|04:30|POLSKI PORANEK|n_WH_SŁUCHASZ_04_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|04:33|POLSKI PORANEK|n_WH_WEEKEND_02_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|04:33|POLSKI PORANEK|PO DRUGIEJ STRONIE CHMUR|BORZYM|BYRSKI||0:3:19|BRACIA||SONY|
+2018-12-01|04:00|04:36|POLSKI PORANEK|DRAPACZ CHMUR (THE FOXXES REMIX)|Natalia Wójcik|Natalia Wójcik||0:3:20|ZAGI||POMATON|
+2018-12-01|04:00|04:36|POLSKI PORANEK|n_WH_W DOMU_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|04:40|POLSKI PORANEK|n_WH_PORANEK_10_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|04:00|04:40|POLSKI PORANEK|LORNETKA|GOLEC Ł.P.|GOLEC R.|ND|0:4:52|GOLEC UORKIESTRA|GOLEC U ORKIESTRA|BCF STUDIO|
+2018-12-01|04:00|04:45|POLSKI PORANEK|n_WH_RS_02_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|04:45|POLSKI PORANEK|ŚRODA CZWARTEK|Marek Jan Kisieliński|Wojciech Łuszczyk||0:3:21|VIDEO||POMATON|
+2018-12-01|04:00|04:48|POLSKI PORANEK|ZASADY|Sahm/Bogdon/Ehnström/Hinrichs/Skarbek/|Ptak||0:3:7|HONORATA SKARBEK||MAGIC RECORDS|
+2018-12-01|04:00|04:48|POLSKI PORANEK|n_WH_TO JEST_04_km|Agim Dżeljilji|Agim Dżeljilji||0:0:6|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|04:51|POLSKI PORANEK|KOMU BIJE DZWON|KULT|STASZEWSKI KAZIK|ND|0:3:44|KULT|SP RECORDS|SP RECORDS|
+2018-12-01|04:00|04:51|POLSKI PORANEK|n_WH_POLSKIE GRANIE_05_m|Agim Dżeljilji|Agim Dżeljilji||0:0:10|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|04:00|04:55|POLSKI PORANEK|NIKT TAK PIĘKNIE NIE MÓWIŁ, ŻE SIĘ BOI MIŁOŚCI|GRABOWSKI KRZYSZTOF|GRABOWSKI KRZYSZTOF||0:4:51|PIDŻAMA PORNO||S.P. RECORDS|
+2018-12-01|04:00|05:00|POLSKI PORANEK|ĆMA (GROMEE REMIX)|Reni Jusis, Stendek|WERONIKA LEWANDOWSKA||0:3:11|RENI JUSIS||SONY|
+2018-12-01|04:00|05:03|POLSKI PORANEK|CHCĘ KOCHAĆ|Katarzyna Stasiak, Emilian Waluchowski|Katarzyna Stasiak||0:3:7|STASHKA||UNIVERSAL|
+2018-12-01|04:00|05:03|POLSKI PORANEK|n_STG_SŁUCHASZ_04_km|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|05:07|POLSKI PORANEK|CO SIĘ STAŁO Z MAGDĄ K|HOŁDYS ZBIGNIEW|OLEWICZ BOGDAN|ND|0:4:9|PERFECT|INTER SONUS|INTER SONUS|
+2018-12-01|04:00|05:07|POLSKI PORANEK|n_WH_POLSKI PORANEK_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:10|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|04:00|05:11|POLSKI PORANEK|n_WH_RS_03_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|05:11|POLSKI PORANEK|UTOPIENI|Michał Pietrzak|ADAM STACHOWIAK||0:3:26|ADAM STACHOWIAK||UNIVERSAL|
+2018-12-01|04:00|05:14|POLSKI PORANEK|MIMOCHODEM|Bidiuk, Cugowski, Raduli|MACIEJ DURCZAK||0:4:9|ANNA WYSZKONI||UNIVERSAL|
+2018-12-01|04:00|05:18|POLSKI PORANEK|n_WH_W DOMU_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|05:18|POLSKI PORANEK|DYM|Wojciech Baranowski|Wojciech Baranowski||0:3:33|BARANOVSKI||POMATON|
+2018-12-01|04:00|05:22|POLSKI PORANEK|NA JĘZYKACH|KAYAH|KAYAH||0:4:14|KAYAH||BMG|
+2018-12-01|04:00|05:22|POLSKI PORANEK|n_WH_PORANEK_02_km|Agim Dżeljilji|Agim Dżeljilji||0:0:6|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|05:26|POLSKI PORANEK|n_JRS_02_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:14|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|04:00|05:26|POLSKI PORANEK|HALO ZIEMIA|BARTOSZ ZIELONY|ANNA SARANIECKA||0:3:3|FILIP LATO||MYMUSIC|
+2018-12-01|04:00|05:29|POLSKI PORANEK|P_SPÓR W KINIE 01.12|Loi - "Glitter Swing Symphony"|PRS||0:0:39|Jacek Brzostyński, Krzysztof Spór|PRS / Szwaja W.||
+2018-12-01|04:00|05:30|POLSKI PORANEK|ZAŁOGA G|MOTKOWICZ PIOTR/KUROWICKI MACIEJ|Kurowicki||0:3:31|HURT||Luna Music|
+2018-12-01|04:00|05:30|POLSKI PORANEK|n_WH_RS_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|05:33|POLSKI PORANEK|JESZCZE CIĘ NIE MA|NADIA DALIN|SONIA KRASNY||0:3:27|TULIA||UNIVERSAL|
+2018-12-01|04:00|05:36|POLSKI PORANEK|BATUMI|Dagmara, Martyna Melosik|Dagmara, Martyna Melosik/Ania Dąbrowska||0:3:37|SIOSTRY MELOSIK||Siostry Melosik|
+2018-12-01|04:00|05:36|POLSKI PORANEK|n_WH_POLSKIE GRANIE_02_m|Agim Dżeljilji|Agim Dżeljilji||0:0:9|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|04:00|05:40|POLSKI PORANEK|ŚNIADANIE DO ŁÓŻKA|Piaseczny|Piaseczny||0:2:56|ANDRZEJ PIASECZNY||SONY|
+2018-12-01|04:00|05:40|POLSKI PORANEK|n_WH_W DOMU_01_km|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|05:43|POLSKI PORANEK|n_WH_TO JEST_02_k|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|05:43|POLSKI PORANEK|SKRZYDŁA|Bartosz TABB Zielony|Patrycja Kosiarkiewicz||0:3:32|ZOUZY||GORGO|
+2018-12-01|04:00|05:46|POLSKI PORANEK|LUCY|Kondracki/Łukaszewski/Spenner/Mroczek|Karolina Kozak, Marcin Spenner||0:3:30|MARCIN SPENNER||SONY|
+2018-12-01|04:00|05:46|POLSKI PORANEK|n_STG_SŁUCHASZ_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|05:50|POLSKI PORANEK|5 BIEG|LIPKO R.|MOGIELNICKI A.|ND|0:4:52|BUDKA SUFLERA|NEW ABRA|NEW ABRA|
+2018-12-01|04:00|05:50|POLSKI PORANEK|n_STG_PORANEK_05_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|04:00|05:55|POLSKI PORANEK|NIE MUSZĘ|Julia Wieniawa, Wojtek Urbański|Arek Sitarz (Ras)||0:3:10|JULIA WIENIAWA|||
+2018-12-01|04:00|05:55|POLSKI PORANEK|n_WH_WEEKEND_02_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|04:00|05:58|POLSKI PORANEK|NIC TU PO MNIE|Kumór/Pietrzak/|Buczkowski-Wojtaszek/Bielecki||0:2:37|MICHAŁ SZCZYGIEŁ||UNIVERSAL|
+2018-12-01|04:00|05:58|POLSKI PORANEK|n_WH_RS_02_km|Agim Dżeljilji|Agim Dżeljilji||0:0:5|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||

@@ -1,0 +1,8 @@
+﻿2018-12-10|22:00|22:00|FONOSFERA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:24|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|22:00|21:59|FONOSFERA|n_NEWS_main_bez_pików_long|Agim Dżeljilji|Agim Dżeljilji||0:6:6|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|22:00|00:00|FONOSFERA|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|22:00|00:00|FONOSFERA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|22:00|22:00|FONOSFERA|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:19|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|22:00|22:06|FONOSFERA|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|22:00|22:08|FONOSFERA|n_POD_WYKŁADNIK DRZONKA|Green/Stone - "Spin Spin Spin"|PRS||0:3:52|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-10|22:00|22:06|FONOSFERA|n_JRS_18_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:10|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||

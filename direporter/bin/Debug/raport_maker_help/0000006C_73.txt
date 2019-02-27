@@ -1,0 +1,13 @@
+﻿2018-12-13|12:00|12:00|CZAS REAKCJI|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:26|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|12:00|11:59|CZAS REAKCJI|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:49|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|12:00|00:00|CZAS REAKCJI|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|12:00|00:00|CZAS REAKCJI|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|12:00|00:00|CZAS REAKCJI|n_NEWS_to są|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|12:00|12:00|CZAS REAKCJI|n_NEWS_poleca|Agim Dżeljilji|Agim Dżeljilji||0:1:29|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|12:00|12:05|CZAS REAKCJI|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:39|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|12:00|12:05|CZAS REAKCJI|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|12:00|12:05|CZAS REAKCJI|n_POD_CZR|Tomasz Lewandowski|PRS||0:26:51|Jacek Brzostyński, Tomasz Lewandowski|PRS / Szwaja W.||
+2018-12-13|12:00|12:14|CZAS REAKCJI|n_POD_CZR_END|Tomasz Lewandowski|PRS||0:0:10|Jacek Brzostyński, Tomasz Lewandowski|PRS / Szwaja W.||
+2018-12-13|12:00|12:32|CZAS REAKCJI|P_DOMÓWKA 18 (sob)|Zaremba - "Melbourne"|PRS||0:0:46|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-13|12:00|12:36|CZAS REAKCJI|n_POD_CZR|Tomasz Lewandowski|PRS||0:17:36|Jacek Brzostyński, Tomasz Lewandowski|PRS / Szwaja W.||
+2018-12-13|12:00|12:55|CZAS REAKCJI|n_POD_CZR_END|Tomasz Lewandowski|PRS||0:0:10|Jacek Brzostyński, Tomasz Lewandowski|PRS / Szwaja W.||

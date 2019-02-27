@@ -1,0 +1,8 @@
+﻿2018-12-10|01:00|01:00|KAWIARENKA POLITYCZNA|n_P_CZĘSTOTLIWOŚĆ_03|Agim Dżeljilji|PRS||0:0:22|J. Brzostyński, A. Aleksandrowicz|PRS / Szwaja W.||
+2018-12-10|01:00|01:00|KAWIARENKA POLITYCZNA|n_STG_POWTÓRKA czoło|Aumueller, Gargani -"Information Age"|PRS||0:0:6|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-10|01:00|01:00|KAWIARENKA POLITYCZNA|n_POD_KAWIARENKA POLIT|Agim Dżeljilji|Agim Dżeljilji||0:52:10|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|01:00|01:52|KAWIARENKA POLITYCZNA|n_POD_KAWIARENKA POLIT_END|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|01:00|01:52|KAWIARENKA POLITYCZNA|n_STG_POWTÓRKA end|Aumueller, Gargani -"Information Age"|PRS||0:0:7|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-10|01:00|01:52|KAWIARENKA POLITYCZNA|BALKANICA|Adam Asanov, Zbigniew Moździerski|Adam Asanov||0:3:8|PIERSI|||
+2018-12-10|01:00|01:55|KAWIARENKA POLITYCZNA|n_JRS_08_fast_v2|Agim Dzeljilji|Agim Dzeljilji||0:0:14|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|01:00|01:56|KAWIARENKA POLITYCZNA|DZIEŃ ZA DNIEM|Horny, Sędek, Runowski|Patrycja Markowska, Rafał Sędek||0:4:11|PATRYCJA MARKOWSKA||EMI|

@@ -1,0 +1,9 @@
+﻿2018-12-15|20:00|20:00|MACHINA CZASU|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:26|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|20:00|19:59|MACHINA CZASU|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:49|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|20:00|00:00|MACHINA CZASU|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|20:00|00:00|MACHINA CZASU|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|20:00|20:00|MACHINA CZASU|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:24|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|20:00|20:03|MACHINA CZASU|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|20:00|20:54|MACHINA CZASU|LAST CHRISTMAS|GEORGE MICHAEL|GEORGE MICHAEL||0:4:24|WHAM||EPIC|
+2018-12-15|20:00|20:58|MACHINA CZASU|P_DOMÓWKA 20 (sob)|Zaremba - "Melbourne"|PRS||0:0:46|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-15|20:00|20:59|MACHINA CZASU|n_P_CZĘSTOTLIWOŚĆ_02|Agim Dżeljilji|PRS||0:0:24|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||

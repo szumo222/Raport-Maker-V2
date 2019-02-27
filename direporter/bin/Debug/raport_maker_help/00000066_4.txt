@@ -1,0 +1,8 @@
+﻿2018-12-01|03:00|03:00|CZAS REAKCJI|n_P_CZĘSTOTLIWOŚĆ_01|Agim Dżeljilji|PRS||0:0:22|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||
+2018-12-01|03:00|03:00|CZAS REAKCJI|n_STG_POWTÓRKA czoło|Aumueller, Gargani -"Information Age"|PRS||0:0:6|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|03:00|03:47|CZAS REAKCJI|n_STG_POWTÓRKA end|Aumueller, Gargani -"Information Age"|PRS||0:0:7|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|03:00|03:47|CZAS REAKCJI|KSIĘŻYCOWY|J.Runowski, R.Sędek, S.Piekarek|P.Markowska, R.Sędek||0:3:30|PATRYCJA MARKOWSKA||EMI|
+2018-12-01|03:00|03:51|CZAS REAKCJI|n_JRS_13_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|03:00|03:51|CZAS REAKCJI|DZIEWCZYNY LUBIA BRĄZ|RYNKOWSKI R.|CYGAN J.|ND|0:4:31|RYSZARD RYNKOWSKI|PACZKOWSKI R.|POMATON EMI|
+2018-12-01|03:00|03:55|CZAS REAKCJI|n_JRS_15_med|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|03:00|03:55|CZAS REAKCJI|Z MIASTA|ANITA LIPNICKA|ANITA LIPNICKA||0:4:21|ANITA LIPNICKA||WARNER|

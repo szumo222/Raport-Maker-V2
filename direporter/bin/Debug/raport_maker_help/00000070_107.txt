@@ -1,0 +1,41 @@
+﻿2018-12-15|21:00|21:00|HIT SOBOTA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:29|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|21:00|20:59|HIT SOBOTA|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:4:27|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|21:00|00:00|HIT SOBOTA|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|21:00|00:00|HIT SOBOTA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|21:00|21:00|HIT SOBOTA|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:20|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|21:00|21:04|HIT SOBOTA|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|21:00|21:04|HIT SOBOTA|ZABIERZ MNIE DO DOMU|SKRZYNECKA|SKRZYNECKA||0:4:10|SKRZYNECKA KASIA & MIETEK SZCZEŚNIAK|PISKORZ|POMATON|
+2018-12-15|21:00|21:08|HIT SOBOTA|X_WH_WEEKEND_02_m|Agim Dżeljilji|Agim Dżeljilji||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|21:00|21:08|HIT SOBOTA|MISTLETOE AND WINE|STRACHAN|PAUL,STEWART|ND|0:4:2|CLIFF RICHARD|RTL TELEVISIN|RTL TELEVISION|
+2018-12-15|21:00|21:12|HIT SOBOTA|n_POD_06_med_instr|Agim Dżeljilji|nd||0:0:27|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|21:00|21:12|HIT SOBOTA|n_JRS_06_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|21:00|21:12|HIT SOBOTA|PASTORAŁKA NA PLANIE GWIAZD|Olek Różanek|Olek Różanek||0:3:46|OLEK RÓŻANEK I AMBASADORZY|||
+2018-12-15|21:00|21:16|HIT SOBOTA|X_JRS_02_slow_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|21:00|21:16|HIT SOBOTA|SAN DAMIANO|SAL SOLO|SAL SOLO|ND|0:3:29|SAL SOLO|POMATON EMI|POMATON EMI|
+2018-12-15|21:00|21:19|HIT SOBOTA|n_POD_16_med_instr|Agim Dżeljilji|nd||0:0:18|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|21:00|21:19|HIT SOBOTA|JINGLE BELLS|Traditional|MEIER DIETER||0:2:39|YELLO|Yello|Mercury|
+2018-12-15|21:00|21:22|HIT SOBOTA|n_WH_TO JEST_04_km|Agim Dżeljilji|Agim Dżeljilji||0:0:6|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-15|21:00|21:22|HIT SOBOTA|THANK GOD IT'S CHRISTMAS|Brian May, Roger Taylor|Brian May, Roger Taylor||0:4:9|QUEEN||EMI|
+2018-12-15|21:00|21:26|HIT SOBOTA|n_POD_15_med_instr|Agim Dżeljilji|nd||0:0:13|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|21:00|21:26|HIT SOBOTA|n_JRS_15_med|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|21:00|21:26|HIT SOBOTA|WONDERFUL DREAM|THORTON , LENNOX|THORTON||0:3:48|MELANIE THORNTON||SONY|
+2018-12-15|21:00|21:30|HIT SOBOTA|WH_HIT SOBOTA_01_m|Ayala - "Airevolve"|PRS||0:0:6|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-15|21:00|21:30|HIT SOBOTA|SANTA'S COMING FOR US|KURSTIN|FURLER||0:3:15|SIA|||
+2018-12-15|21:00|21:33|HIT SOBOTA|n_POD_06_med_instr|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|21:00|21:34|HIT SOBOTA|n_JRS_06_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|21:00|21:34|HIT SOBOTA|ZAŚNIEŻONE MIASTA|Andrzej Gromala, Sara Chmiel|MARCIN PIOTROWSKI||0:3:17|GROMEE FEAT. SOUND'N'GRACE||Kingztown Music|
+2018-12-15|21:00|21:37|HIT SOBOTA|n_WH_TO JEST_06_m|Agim Dżeljilji|Agim Dżeljilji||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|21:00|21:37|HIT SOBOTA|WINTER WONDERLAND|BERNARD|BERNARD|ND.|0:2:53|MACY GRAY|SONY|SONY|
+2018-12-15|21:00|21:40|HIT SOBOTA|n_POD_11_fast_instr|Agim Dżeljilji|nd||0:0:42|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|21:00|21:41|HIT SOBOTA|n_JRS_11_fast_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|21:00|21:41|HIT SOBOTA|HAPPY X-MAS|JOHN LENNON,YOKO ONO|YOKO I JOHN|ND|0:3:32|JOHN LENNON|PARLAPHONE|PARLAPHONE|
+2018-12-15|21:00|21:44|HIT SOBOTA|X_JRS_09_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:6|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|21:00|21:44|HIT SOBOTA|LET IT SNOW! LET IT SNOW! LET IT SNOW!|CAHN / STYNE|CAHN / STYNE||0:2:0|MICHAEL BUBLE|FOSTER|WARNER|
+2018-12-15|21:00|21:46|HIT SOBOTA|X_JRS_02_slow_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|21:00|21:46|HIT SOBOTA|Z KOPYTA KULIG RWIE|ZIELIŃSKI A.|BIBIK J.|ND|0:3:36|QLIGOWSCY|WÓJCICKI W.|QULIGOWSCY|
+2018-12-15|21:00|21:50|HIT SOBOTA|n_POD_06_med_instr|Agim Dżeljilji|nd||0:0:22|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|21:00|21:50|HIT SOBOTA|n_JRS_06_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|21:00|21:50|HIT SOBOTA|DRIVING HOME FOR CHRISTMAS|Chris Rea|Chris Rea||0:3:51|CHRIS REA|Jon Kelly|WEA|
+2018-12-15|21:00|21:54|HIT SOBOTA|X_WH_WEEKEND_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|21:00|21:54|HIT SOBOTA|ONCE UPON A LONG AGO|Paul McCartney|Paul McCartney||0:4:23|PAUL MCCARTNEY||PARLOPHONE|
+2018-12-15|21:00|21:58|HIT SOBOTA|P_TROCHĘ KULTURY 16.12|Laszlo/Wheeler - "Dreams Come True"|PRS||0:1:4|Jacek Brzostyński, Konrad Wojtyła|PRS / Szwaja W.||

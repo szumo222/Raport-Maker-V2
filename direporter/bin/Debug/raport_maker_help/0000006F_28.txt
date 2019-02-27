@@ -1,0 +1,20 @@
+﻿2018-12-10|20:00|20:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:27|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|19:59|RADIO SZCZECIN NA WIECZÓR|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:42|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|00:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|20:00|00:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|20:00|20:00|RADIO SZCZECIN NA WIECZÓR|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:22|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|20:03|RADIO SZCZECIN NA WIECZÓR|n_POD_WIECZÓR|Agim Dżeljilji|Agim Dżeljilji||0:2:1|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|20:03|RADIO SZCZECIN NA WIECZÓR|n_WH_TO JEST_07_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:5|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|20:00|20:04|RADIO SZCZECIN NA WIECZÓR|n_WIECZÓR_SZPILA 01|Agim Dżeljilji|Agim Dżeljilji||0:0:22|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|20:08|RADIO SZCZECIN NA WIECZÓR|n_WIECZÓR_SZPILA 02|Agim Dżeljilji|Agim Dżeljilji||0:0:39|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|20:47|RADIO SZCZECIN NA WIECZÓR|n_POD_WIECZÓR_END|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|21:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:26|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|21:01|RADIO SZCZECIN NA WIECZÓR|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:4:15|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|00:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|20:00|00:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|20:00|21:01|RADIO SZCZECIN NA WIECZÓR|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:23|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|21:03|RADIO SZCZECIN NA WIECZÓR|n_POD_WIECZÓR|Agim Dżeljilji|Agim Dżeljilji||0:0:43|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|21:05|RADIO SZCZECIN NA WIECZÓR|n_WH_TO JEST_07_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:5|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|20:00|21:06|RADIO SZCZECIN NA WIECZÓR|n_WIECZÓR_SZPILA 02|Agim Dżeljilji|Agim Dżeljilji||0:0:39|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|21:37|RADIO SZCZECIN NA WIECZÓR|n_POD_WIECZÓR_END|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|20:00|21:58|RADIO SZCZECIN NA WIECZÓR|P_PRACA 165 AGENT OLEK|Kenny Korade - "We Are Young Tonight"|PRS||0:0:54|Jacek Brzostyński|PRS / Szwaja W.||

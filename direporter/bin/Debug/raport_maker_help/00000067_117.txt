@@ -1,0 +1,7 @@
+﻿2018-12-16|07:00|07:00|RELIGIA NA FALI|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:21|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-16|07:00|06:59|RELIGIA NA FALI|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:53|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-16|07:00|00:00|RELIGIA NA FALI|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-16|07:00|00:00|RELIGIA NA FALI|n_NEWS_to są|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-16|07:00|06:59|RELIGIA NA FALI|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:21|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-16|07:00|07:03|RELIGIA NA FALI|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-16|07:00|07:58|RELIGIA NA FALI|P_TROCHĘ KULTURY 16.12|Laszlo/Wheeler - "Dreams Come True"|PRS||0:1:4|Jacek Brzostyński, Konrad Wojtyła|PRS / Szwaja W.||

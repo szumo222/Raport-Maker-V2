@@ -1,0 +1,12 @@
+﻿2018-12-13|01:00|01:00|CZAS REAKCJI|n_P_CZĘSTOTLIWOŚĆ_02|Agim Dżeljilji|PRS||0:0:24|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||
+2018-12-13|01:00|01:02|CZAS REAKCJI|n_STG_POWTÓRKA czoło|Aumueller, Gargani -"Information Age"|PRS||0:0:6|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-13|01:00|01:44|CZAS REAKCJI|n_STG_POWTÓRKA end|Aumueller, Gargani -"Information Age"|PRS||0:0:7|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-13|01:00|01:44|CZAS REAKCJI|PROWADŹ MNIE|ZIOŁO|KOWALSKA||0:3:39|KASIA KOWALSKA|KOWALSKA|UNIVERSAL|
+2018-12-13|01:00|01:47|CZAS REAKCJI|n_JRS_11_fast (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:17|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|01:00|01:48|CZAS REAKCJI|POMIMO BURZ|Marek Koscikiewicz|Marek Koscikiewicz||0:3:20|ANTEK SMYKIEWICZ||UNIVERSAL|
+2018-12-13|01:00|01:51|CZAS REAKCJI|n_JRS_10_trans|Agim Dzeljilji|Agim Dzeljilji||0:0:17|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|01:00|01:51|CZAS REAKCJI|RUCHOME WYDMY|Ania Dąbrowska, Beata Kozidrak|Beata Kozidrak||0:3:3|BEATA||SONY|
+2018-12-13|01:00|01:54|CZAS REAKCJI|n_JRS_18_med|Agim Dzeljilji|Agim Dzeljilji||0:0:14|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|01:00|01:54|CZAS REAKCJI|WOLNE PTAKI|JANSON ROBERT|LIPNICKA ANITA|ND|0:3:11|VARIUS MANX|ZIC-ZAC MUSIC|1995 ZIC-ZAC MUSIC|
+2018-12-13|01:00|01:57|CZAS REAKCJI|n_JRS_13_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|01:00|01:58|CZAS REAKCJI|LOVE STORY|WILKI|GAWLIŃSKI||0:3:35|WILKI||EMI|

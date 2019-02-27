@@ -1,0 +1,36 @@
+﻿2018-12-15|16:00|16:00|MIĘDZY FILMAMI|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:24|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|16:00|15:59|MIĘDZY FILMAMI|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:46|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|16:00|00:00|MIĘDZY FILMAMI|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|16:00|00:00|MIĘDZY FILMAMI|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|16:00|15:59|MIĘDZY FILMAMI|n_NEWS_poleca|Agim Dżeljilji|Agim Dżeljilji||0:0:56|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|16:00|16:03|MIĘDZY FILMAMI|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:25|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|16:00|16:04|MIĘDZY FILMAMI|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|16:00|16:05|MIĘDZY FILMAMI|ON MY WAY|Sparks, Hicklin, Sawford|Sparks, Hicklin, Sawford||0:3:1|TIESTO FEAT. BRIGHT SPARKS||UNIVERSAL|
+2018-12-15|16:00|16:07|MIĘDZY FILMAMI|n_JRS_13_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|16:00|16:08|MIĘDZY FILMAMI|SHALLOW (A STAR IS BORN)|Gaga/Wyatt/Rossomando/Ronson|Gaga/Wyatt/Rossomando/Ronson||0:3:34|LADY GAGA & BRADLEY COOPER||UNIVERSAL|
+2018-12-15|16:00|16:11|MIĘDZY FILMAMI|n_POD_06_med_instr|Agim Dżeljilji|nd||0:1:14|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|16:00|16:12|MIĘDZY FILMAMI|n_JRS_06_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|16:00|16:12|MIĘDZY FILMAMI|TAMAGOTCHI|Forxst|F. Szcześniak, K. Grabowski||0:3:21|TACONAFIDE||Taconafidex|
+2018-12-15|16:00|16:16|MIĘDZY FILMAMI|X_JRS_02_slow_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|16:00|16:16|MIĘDZY FILMAMI|DO THEY KNOW IT'S CHRISTMAS (2014)|Midge Ure, Bob Geldof|Midge Ure, Bob Geldof||0:3:39|BAND AID 30||UNIVERSAL|
+2018-12-15|16:00|16:19|MIĘDZY FILMAMI|n_POD_14_med_instr|Agim Dżeljilji|nd||0:1:37|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|16:00|16:21|MIĘDZY FILMAMI|n_JRS_14_med2|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|16:00|16:21|MIĘDZY FILMAMI|FADING|Marengo/Montilla/Omar/Gashi/Skött/Deima|Zuber/Oestmann/Zimmer/Dabruck/Kramer/Do||0:3:26|ALLE FARBEN & ILIRA||SONY|
+2018-12-15|16:00|16:24|MIĘDZY FILMAMI|WEŹ NIE PYTAJ|Paweł Domagała, Łukasz Borowiecki|Paweł Domagała||0:4:21|PAWEŁ DOMAGAŁA||Domagała-Borowiecki S.C.|
+2018-12-15|16:00|16:29|MIĘDZY FILMAMI|n_POD_16_med_instr|Agim Dżeljilji|nd||0:0:45|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|16:00|16:29|MIĘDZY FILMAMI|n_JRS_16_slow_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|16:00|16:29|MIĘDZY FILMAMI|HUNGRY HEART|Bruce Springsteen|Bruce Springsteen||0:3:4|BRUCE SPRINGSTEEN||COLUMBIA|
+2018-12-15|16:00|16:32|MIĘDZY FILMAMI|n_WH_TO JEST_06_m|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|16:00|16:32|MIĘDZY FILMAMI|SCARS TO YOUR BEAUTIFUL|Alessia Caracciolo, Coleridge Tillman|Alessia Caracciolo, Coleridge Tillman||0:3:45|ALESSIA CARA||UNIVERSAL MUSIC POLSKA|
+2018-12-15|16:00|16:36|MIĘDZY FILMAMI|n_POD_11_fast_instr|Agim Dżeljilji|nd||0:1:19|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|16:00|16:37|MIĘDZY FILMAMI|n_JRS_11_fast_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|16:00|16:37|MIĘDZY FILMAMI|THE POWER OF LOVE|Gill/Johnson/O'Toole/Nash|Gill/Johnson/O'Toole/Nash||0:3:9|DALTON HARRIS FEAT. JAMES ARTHUR||SYCO|
+2018-12-15|16:00|16:41|MIĘDZY FILMAMI|n_WH_WEEKEND_02_km|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-15|16:00|16:41|MIĘDZY FILMAMI|CAN'T STOP THE FEELING|JUSTIN TIMBERLAKE/MAX MARTIN|JUSTIN TIMBERLAKE/MAX MARTIN||0:3:54|JUSTIN TIMBERLAKE|RCA|RCA|
+2018-12-15|16:00|16:44|MIĘDZY FILMAMI|n_POD_06_med_instr|Agim Dżeljilji|nd||0:1:50|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|16:00|16:46|MIĘDZY FILMAMI|n_JRS_06_med|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|16:00|16:46|MIĘDZY FILMAMI|ŁAWECZKA - BAJECZKA|tanislaw Soyka|tanislaw Soyka||0:3:17|STANISŁAW SOYKA||UNIVERSAL|
+2018-12-15|16:00|16:50|MIĘDZY FILMAMI|X_WH_POD CHOINKĄ_11_km|Agim Dżeljilji|Agim Dżeljilji||0:0:6|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-15|16:00|16:50|MIĘDZY FILMAMI|NOT GIVING UP ON LOVE|O. Nervo/M. Nervo/Sophie Ellis-Bextor|O. Nervo/M. Nervo/Sophie Ellis-Bextor||0:2:50|ARMIN VAN BUUREN & SOPHIE-ELLIS BEXTOR||ARMADA|
+2018-12-15|16:00|16:52|MIĘDZY FILMAMI|n_JRS_06_med_instr2|Agim Dżeljilji|nd||0:0:19|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|16:00|16:53|MIĘDZY FILMAMI|P_PRZEPLATANKA 04|Sans - "Infobahn"|PRS||0:0:49|Jacek Brzostyński|PRS / Szwaja W.||

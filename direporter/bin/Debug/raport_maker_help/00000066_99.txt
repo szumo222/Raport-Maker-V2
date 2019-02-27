@@ -1,0 +1,9 @@
+﻿2018-12-15|03:00|03:00|CZAS REAKCJI|n_P_CZĘSTOTLIWOŚĆ_01|Agim Dżeljilji|PRS||0:0:22|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||
+2018-12-15|03:00|03:00|CZAS REAKCJI|n_STG_POWTÓRKA czoło|Aumueller, Gargani -"Information Age"|PRS||0:0:6|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-15|03:00|03:45|CZAS REAKCJI|n_STG_POWTÓRKA end|Aumueller, Gargani -"Information Age"|PRS||0:0:7|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-15|03:00|03:45|CZAS REAKCJI|ŻYCIE NA CZEKANIE|SIEJKA|PIASECZNY||0:3:46|ŁUKASZ ZAGROBELNY||QL MUSIC|
+2018-12-15|03:00|03:49|CZAS REAKCJI|n_JRS_10_trans_short|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|03:00|03:49|CZAS REAKCJI|BEZSENNI|PAWEŁ KRAWCZYK|KATARZYNA NOSOWSKA||0:3:33|KRZYSZTOF KRAWCZYK & KATARZYNA NOSOWSKA||SONY|
+2018-12-15|03:00|03:53|CZAS REAKCJI|WE DWOJE|KORTEZ|TRAFALSKA||0:3:20|KORTEZ||Jazzboy Records|
+2018-12-15|03:00|03:56|CZAS REAKCJI|X_JRS_21_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|03:00|03:56|CZAS REAKCJI|O! NIE RÓB TYLE HAŁASU|MAANAM|MAANAM|ND|0:3:34|MAANAM|EMI|EMI|

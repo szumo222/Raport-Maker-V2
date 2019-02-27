@@ -1,0 +1,65 @@
+﻿2018-12-12|04:00|04:01|PORANEK RADIA SZCZECIN|ELLA|Soler/Triebel/Zuckowski/Chil/Bernard|Soler/Triebel/Zuckowski/Chil/Bernard||0:3:29|ALVARO SOLER||UNIVERSAL|
+2018-12-12|04:00|04:04|PORANEK RADIA SZCZECIN|AWINION|WIELGOSZ BARTOSZ|CYGAN JACEK||0:4:2|KOMBII||MAGIC|
+2018-12-12|04:00|04:08|PORANEK RADIA SZCZECIN|n_POD_PORANEK_06_med|Agim Dżeljilji|Agim Dżeljilji||0:1:31|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|04:09|PORANEK RADIA SZCZECIN|n_JRS_06_med|Agim Dzeljilji|Agim Dzeljilji||0:0:13|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|04:00|04:09|PORANEK RADIA SZCZECIN|HIGH ON EMOTION|BURGH DE CHRIS|BURGH DE CHRIS|ND|0:4:17|CHRIS DE BURGH|HINE RUPERT|SOUND-POL|
+2018-12-12|04:00|04:14|PORANEK RADIA SZCZECIN|n_WH_TO JEST_02_k|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-12|04:00|04:14|PORANEK RADIA SZCZECIN|NIE MA FAL|Bartek Dziedzic, Dawid Podsiadło|Dawid Podsiadło||0:3:57|DAWID PODSIADŁO||SONY|
+2018-12-12|04:00|04:17|PORANEK RADIA SZCZECIN|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:27|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|04:18|PORANEK RADIA SZCZECIN|X_STRS_PORANEK_01|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|04:00|04:18|PORANEK RADIA SZCZECIN|FADED|ZHU|ZHU||0:3:40|ZHU||Mind Of A Genius|
+2018-12-12|04:00|04:21|PORANEK RADIA SZCZECIN|n_WH_SŁUCHASZ_02_k|Agim Dżeljilji|Agim Dżeljilji||0:0:3|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-12|04:00|04:21|PORANEK RADIA SZCZECIN|CYKADY NA CYKLADACH|JACKOWSKI|JACKOWSKA||0:2:57|MAANAM||WARNER|
+2018-12-12|04:00|04:24|PORANEK RADIA SZCZECIN|n_POD_PORANEK_07_med|Agim Dżeljilji|Agim Dżeljilji||0:2:15|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|04:26|PORANEK RADIA SZCZECIN|n_JRS_07_med|Agim Dzeljilji|Agim Dzeljilji||0:0:13|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|04:00|04:26|PORANEK RADIA SZCZECIN|WHENEVER|Shakira/Mitchell/Estefan/Maynard/Voort/|Francesco/Daalen/Huisman/Huisman/Berkel||0:2:42|KRIS KROSS AMSTERDAM/ THE BOY NEXT DOOR||WARNER|
+2018-12-12|04:00|04:30|PORANEK RADIA SZCZECIN|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:27|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|04:30|PORANEK RADIA SZCZECIN|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|04:00|04:31|PORANEK RADIA SZCZECIN|GDY JESTEŚ TU|Ania Dąbrowska|Ania Dąbrowska||0:3:48|ŁUKASZ ZAGROBELNY||UNIVERSAL|
+2018-12-12|04:00|04:34|PORANEK RADIA SZCZECIN|n_WH_W DOMU_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-12|04:00|04:34|PORANEK RADIA SZCZECIN|PLEASE DON'T LEAVE ME|Pink, Max Martin|Pink, Max Martin||0:3:50|PINK|Max Martin|LaFace|
+2018-12-12|04:00|04:39|PORANEK RADIA SZCZECIN|TALIZMAN|BEDNAREK, MATHEO|MATHEO||0:2:57|KAMIL BEDNAREK||Lou & Rocked Boys|
+2018-12-12|04:00|04:42|PORANEK RADIA SZCZECIN|n_WH_PORANEK_01_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-12|04:00|04:42|PORANEK RADIA SZCZECIN|WITHOUT ME|Bell/Allen/Frangipane/Delacey/|Timberlake/Mosley/Storch||0:3:20|HALSEY||UNIVERSAL|
+2018-12-12|04:00|04:46|PORANEK RADIA SZCZECIN|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:27|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|04:46|PORANEK RADIA SZCZECIN|X_STRS_PORANEK_01|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|04:00|04:46|PORANEK RADIA SZCZECIN|TO JUŻ BYŁO|SIKOROWSKI A.|SIKOROWSKI A.|ND|0:4:29|MARYLA RODOWICZ|RODOWICZ M.|1995 POLYGRAM POLSKA|
+2018-12-12|04:00|04:50|PORANEK RADIA SZCZECIN|n_WH_RS_03_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:6|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-12|04:00|04:50|PORANEK RADIA SZCZECIN|ROCKABYE|Mac/Wroldsen/Malik/Patterson/Henriques|Mac/Wroldsen/Malik/Patterson/Henriques||0:3:12|CLEAN BANDIT FT. SEAN PAUL & ANNE-MARIE||WARNER|
+2018-12-12|04:00|04:54|PORANEK RADIA SZCZECIN|n_POD_PORANEK_08_fast|Agim Dżeljilji|Agim Dżeljilji||0:2:23|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|04:56|PORANEK RADIA SZCZECIN|n_JRS_08_fast|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|04:00|04:56|PORANEK RADIA SZCZECIN|WYSTARCZĘ JA|Paweł Domagała, Łukasz Borowiecki|PAWEŁ DOMAGAŁA||0:3:22|PAWEŁ DOMAGAŁA||Domagała-Borowiecki S.C.|
+2018-12-12|04:00|05:00|PORANEK RADIA SZCZECIN|RELAX, TAKE IT EASY|MIKA|MIKA||0:3:43|MIKA|MIKA|UNIVERSAL|
+2018-12-12|04:00|05:04|PORANEK RADIA SZCZECIN|SCARLETT|Igor Herbut, PIOTR RUBIK, Piotr Walicki|Igor Herbut, Małgorzata Dacko||0:3:33|LEMON||WARNER|
+2018-12-12|04:00|05:07|PORANEK RADIA SZCZECIN|n_POD_PORANEK_08_fast|Agim Dżeljilji|Agim Dżeljilji||0:1:33|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|05:09|PORANEK RADIA SZCZECIN|n_JRS_08_fast|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|04:00|05:09|PORANEK RADIA SZCZECIN|CAN'T FEEL MY FACE|Payami/Svensson/Kotecha/Martin/Tesfaye|Payami/Svensson/Kotecha/Martin/Tesfaye||0:3:31|THE WEEKND||UNIVERSAL|
+2018-12-12|04:00|05:12|PORANEK RADIA SZCZECIN|n_WH_SŁUCHASZ_03_m|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-12|04:00|05:12|PORANEK RADIA SZCZECIN|FRIDAY I'M IN LOVE|Bamonte/Gallup/Smith/Thompson/Williams|Bamonte/Gallup/Smith/Thompson/Williams||0:3:30|THE CURE||FICTION|
+2018-12-12|04:00|05:16|PORANEK RADIA SZCZECIN|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:27|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|05:16|PORANEK RADIA SZCZECIN|X_STRS_PORANEK_01|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|04:00|05:16|PORANEK RADIA SZCZECIN|ANDROMEDA|DONATAN|KLEPKO||0:3:56|EDYTA GÓRNIAK & DON||UNIVERSAL|
+2018-12-12|04:00|05:20|PORANEK RADIA SZCZECIN|n_WH_W DOMU_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-12|04:00|05:20|PORANEK RADIA SZCZECIN|GIRLS GO WILD|Pergolizzi/Gonzalez/Campany|Pergolizzi/Gonzalez/Campany||0:3:35|LP||UNIVERSAL|
+2018-12-12|04:00|05:23|PORANEK RADIA SZCZECIN|n_POD_PORANEK_07_med|Agim Dżeljilji|Agim Dżeljilji||0:0:51|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|05:24|PORANEK RADIA SZCZECIN|n_JRS_07_med|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|04:00|05:24|PORANEK RADIA SZCZECIN|BALKANICA|Adam Asanov, Zbigniew Moździerski|Adam Asanov||0:3:8|PIERSI|||
+2018-12-12|04:00|05:28|PORANEK RADIA SZCZECIN|n_NEWS_poleca|Agim Dżeljilji|Agim Dżeljilji||0:1:7|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|05:29|PORANEK RADIA SZCZECIN|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:29|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|05:29|PORANEK RADIA SZCZECIN|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|04:00|05:30|PORANEK RADIA SZCZECIN|SHAPE OF YOU|Ed Sheeran Steve Mac Johnny McDaid|Ed Sheeran Steve Mac Johnny McDaid||0:3:51|ED SHEERAN||ASYLUM|
+2018-12-12|04:00|05:33|PORANEK RADIA SZCZECIN|n_WH_PORANEK_02_km|Agim Dżeljilji|Agim Dżeljilji||0:0:6|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-12|04:00|05:34|PORANEK RADIA SZCZECIN|ANDZIA I JA|Andrzej Szpilman, Marcin Ciempiel|Andrzej Szpilman, Marcin Ciempiel||0:2:27|ODDZIAŁ ZAMKNIĘTY||Koch International|
+2018-12-12|04:00|05:39|PORANEK RADIA SZCZECIN|KOCHANA|PRZEMYK|SARANIECKA|ND|0:3:43|PRZEMYK / NOSOWSKA|WOJCIECHOWSKI|SONY MUSIC|
+2018-12-12|04:00|05:43|PORANEK RADIA SZCZECIN|n_WH_RS_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-12|04:00|05:43|PORANEK RADIA SZCZECIN|LIAR LIAR|Williams, Cabrerizo, Austin|Williams, Cabrerizo, Austin||0:3:19|CRIS CAB||UNIVERSAL|
+2018-12-12|04:00|05:46|PORANEK RADIA SZCZECIN|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:28|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|05:47|PORANEK RADIA SZCZECIN|X_STRS_PORANEK_01|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|04:00|05:47|PORANEK RADIA SZCZECIN|PRZED EPOKĄ WSTYDU|JANSON|STANKIEWICZ||0:3:17|KASIA STANKIEWICZ & VARIUS MANX||AGORA|
+2018-12-12|04:00|05:50|PORANEK RADIA SZCZECIN|n_WH_TO JEST_04_km|Agim Dżeljilji|Agim Dżeljilji||0:0:6|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-12|04:00|05:50|PORANEK RADIA SZCZECIN|RIVERS|McManus/Woodcock/Jack/Bierbrodt|Kramer/Dohr||0:2:55|THOMAS JACK||WARNER|
+2018-12-12|04:00|05:53|PORANEK RADIA SZCZECIN|n_POD_PORANEK_06_med|Agim Dżeljilji|Agim Dżeljilji||0:0:57|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|05:54|PORANEK RADIA SZCZECIN|n_JRS_06_med|Agim Dzeljilji|Agim Dzeljilji||0:0:13|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|04:00|05:54|PORANEK RADIA SZCZECIN|SOFT|Tomasz Lubert|Justyna Tomańska||0:2:50|VIDEO & ANNA WYSZKONI|VIDEO FEAT. ANNA WYSZKONI|SONY BMG|
+2018-12-12|04:00|05:56|PORANEK RADIA SZCZECIN|n_JRS_06_med_instr|Agim Dżeljilji|nd||0:0:11|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-12|04:00|05:59|PORANEK RADIA SZCZECIN|n_P_CZĘSTOTLIWOŚĆ_03|Agim Dżeljilji|PRS||0:0:22|J. Brzostyński, A. Aleksandrowicz|PRS / Szwaja W.||

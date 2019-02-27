@@ -1,0 +1,79 @@
+﻿2018-12-01|22:00|22:00|DOMÓWKA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:27|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|22:00|21:59|DOMÓWKA|n_NEWS_main_bez_pików_long|Agim Dżeljilji|Agim Dżeljilji||0:5:7|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|22:00|00:00|DOMÓWKA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|22:00|00:00|DOMÓWKA|n_NEWS_to są|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|22:00|00:00|DOMÓWKA|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|22:00|22:00|DOMÓWKA|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:27|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|22:00|22:05|DOMÓWKA|n_STG_DOMÓWKA_05 (non stop)|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:05|DOMÓWKA|INTERNATIONAL LOVE|Perez/Shack/Biker/Hurley/Kelly|Perez/Shack/Biker/Hurley/Kelly||0:3:47|PITBULL FEAT. CHRIS BROWN||POLO GROUNDS|
+2018-12-01|22:00|22:09|DOMÓWKA|n_STG_DOMÓWKA_01|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:09|DOMÓWKA|SWEET BUT PSYCHO|Love/Koci/Walter/Haukeland|Love/Koci/Walter/Haukeland||0:3:4|AVA MAX||WARNER|
+2018-12-01|22:00|22:12|DOMÓWKA|ENCORE UNE FOIS (FUTURE BREEZE EDIT)|Kappmeier, Lappessen, Alisson|Kappmeier, Lappessen, Alisson||0:3:37|SASH!||MIGHTY RECORDS|
+2018-12-01|22:00|22:12|DOMÓWKA|n_STG_DOMÓWKA_10 (100%)|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:15|DOMÓWKA|n_STG_DOMÓWKA_12|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:15|DOMÓWKA|KEEP IT TO MYSELF|JOVANI FEAT. JAZZU|JOVANI FEAT. JAZZU||0:3:31|JOVANI FEAT. JAZZU||Radistai DJs Records|
+2018-12-01|22:00|22:19|DOMÓWKA|DO YA THINK I'M SEXY?|Stewart, Appice, Hitchings|Stewart, Appice, Hitchings||0:3:57|N-TRANCE FEAT. ROD STEWART||SONY|
+2018-12-01|22:00|22:19|DOMÓWKA|n_STG_DOMÓWKA_05 (non stop)|Agim Dżeljilji|Agim Dżeljilji||0:0:4|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:19|DOMÓWKA|n_STG_DOMÓWKA_05 (non stop)|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:23|DOMÓWKA|BREATHE|Lam/Wroldsen/Clarke/Gibson/Emenike|Lam/Wroldsen/Clarke/Gibson/Emenike||0:3:27|JAX JONES FEAT. INA WROLDSEN||UNIVERSAL|
+2018-12-01|22:00|22:23|DOMÓWKA|n_STG_DOMÓWKA_07|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:26|DOMÓWKA|SEXY CHICK|Tuinfort, Thiam, Guetta|Jean-Claude Sindres, Sandy Vee||0:3:12|DAVID GUETTA feat. AKON||Virgin, EMI|
+2018-12-01|22:00|22:26|DOMÓWKA|n_STG_DOMÓWKA_09 (100%)|Agim Dżeljilji|Agim Dżeljilji||0:0:10|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|22:00|22:29|DOMÓWKA|YOU SHOULD BE DANCING|BARRY, MAURICE, ROBIN GIBB|BARRY, MAURICE, ROBIN GIBB||0:4:37|BEE GEES||POLYDOR|
+2018-12-01|22:00|22:29|DOMÓWKA|n_STG_DOMÓWKA_12|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:34|DOMÓWKA|SHOW ME HOW TO LOVE|EXAMPLE|EXAMPLE||0:3:35|EXAMPLE FEAT. HAYLA||Staneric Reccordings|
+2018-12-01|22:00|22:34|DOMÓWKA|n_STG_DOMÓWKA_05 (non stop)|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:38|DOMÓWKA|KISS KISS|SEZEN|JAIMES|ND|0:3:23|HOLLY VALANCE|BENNETT|LONDON RECORDS|
+2018-12-01|22:00|22:38|DOMÓWKA|n_STG_DOMÓWKA_07|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:41|DOMÓWKA|n_STG_DOMÓWKA_04 (100%)|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:41|DOMÓWKA|IN MY MIND|Leoni/Kingsley/Montagner/Di Agostino/|Soon/Sandrini/Forte/Gough||0:2:54|DYNORO & GIGI D'AGOSTINO||SONY|
+2018-12-01|22:00|22:44|DOMÓWKA|SORRY|Stuart Price|Stuart Price||0:3:57|MADONNA|MADONNA|WARNER|
+2018-12-01|22:00|22:44|DOMÓWKA|n_STG_DOMÓWKA_12|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:48|DOMÓWKA|TIRED BONES|L.B. ONE FEAT. LAENZ|L.B. ONE FEAT. LAENZ||0:3:14|L.B. ONE FEAT. LAENZ||Happy Music|
+2018-12-01|22:00|22:48|DOMÓWKA|n_STG_DOMÓWKA_05 (non stop)|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:51|DOMÓWKA|DRAGOSTEA DIN TEI|Dan Bălan|Dan Bălan||0:3:32|O-ZONE||ULTRA, POLYDOR|
+2018-12-01|22:00|22:51|DOMÓWKA|n_STG_DOMÓWKA_07|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|22:54|DOMÓWKA|n_STG_DOMÓWKA_09 (100%)|Agim Dżeljilji|Agim Dżeljilji||0:0:10|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|22:00|22:54|DOMÓWKA|CHAINED TO THE RHYTHM|Perry/Martin/Furler/Payami/Marley|Perry/Martin/Furler/Payami/Marley||0:3:54|KATY PERRY FEAT. SKIP MARLEY||UNIVERSAL|
+2018-12-01|22:00|22:58|DOMÓWKA|FREED FROM DESIRE|Rizzatto/Molella/Carmeni|Rizzatto/Molella/Carmeni||0:3:29|GALA||ZYX|
+2018-12-01|22:00|22:58|DOMÓWKA|n_STG_DOMÓWKA_12|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:02|DOMÓWKA|ROXANNE VS LULLABY|STING,SMITH,GALLUP,O'DONNELL,THOMPSON|TOLHURST,BRANSBY,WILLIAMS,RIGAUX||0:3:19|SKREATCH feat JOHN GREEN|LUC RIGAUX/GENIUS PRODUCTIONS|MY MUSIC|
+2018-12-01|22:00|23:02|DOMÓWKA|n_STG_DOMÓWKA_05 (non stop)|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:05|DOMÓWKA|STARBOY|Tesfaye,Bangalter,Walter, Mckinney|Tesfaye,Bangalter,Walter, Mckinney||0:3:45|THE WEEKND FEAT. DAFT PUNK||UNIVERSAL|
+2018-12-01|22:00|23:05|DOMÓWKA|n_STG_DOMÓWKA_07|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:08|DOMÓWKA|ONLY YOU|ZANETTI|ZANETTI||0:3:34|SAVAGE||SONIC|
+2018-12-01|22:00|23:08|DOMÓWKA|n_STG_DOMÓWKA_10 (100%)|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:12|DOMÓWKA|n_STG_DOMÓWKA_11|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:12|DOMÓWKA|WAITING ALL NIGHT|RUDIMENTAL, ELLA EYRE|RUDIMENTAL, ELLA EYRE||0:3:31|RUDIMENTAL FEAT. ELLA EYRE||WARNER|
+2018-12-01|22:00|23:15|DOMÓWKA|n_STG_DOMÓWKA_05 (non stop)|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:16|DOMÓWKA|TIME IS TICKIN' AWAY|Müller,Ulrich Buchmann,Wagner|Müller,Ulrich Buchmann,Wagner||0:3:59|C-BLOCK||Maad/WEA|
+2018-12-01|22:00|23:20|DOMÓWKA|n_STG_DOMÓWKA_01|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:20|DOMÓWKA|FRIENDS|Bieber/Michaels/Diamond/Tranter|Bieber/Michaels/Diamond/Tranter||0:3:6|JUSTIN BIEBER & BLOODPOP||REPUBLIC|
+2018-12-01|22:00|23:23|DOMÓWKA|n_STG_DOMÓWKA_03 (100%)|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:23|DOMÓWKA|HEY DJ|Trainor/Henriques/Barrera/Wallace/|Miranda/Radosevich/de la Torre||0:3:6|CNCO, MEGHAN TRAINOR & SEAN PAUL||SONY|
+2018-12-01|22:00|23:26|DOMÓWKA|n_STG_DOMÓWKA_12|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:26|DOMÓWKA|WE ARE ONE (OLE OLA)|Leitte/Murcia/Walter/Lopez/Gottwald|Khayat/Furler/Troelsen/C. Perez||0:3:41|PITBULL, JENNIFER LOPEZ, CLAUDIA LEITTE||SONY|
+2018-12-01|22:00|23:29|DOMÓWKA|LADIES NIGHT|COOL AND THE GANG|COOL AND THE GANG||0:3:5|ATOMIC KITTEN|ATOMIC KITTEN|EMI|
+2018-12-01|22:00|23:29|DOMÓWKA|n_STG_DOMÓWKA_05 (non stop)|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:32|DOMÓWKA|GIRLS LIKE|Bennet, Okogwu, Lawson|Bennet, Okogwu, Lawson||0:2:42|TINIE TEMPAH FEAT. ZARA LARSSON||PARLOPHONE|
+2018-12-01|22:00|23:32|DOMÓWKA|n_STG_DOMÓWKA_07|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:35|DOMÓWKA|KEEP ON DANCING!|BAUMANN/PAYER|GAUTSCH|ND|0:3:33|D.J. BOBO|BMG ARIOLA|BMG ARIOLA|
+2018-12-01|22:00|23:35|DOMÓWKA|n_STG_DOMÓWKA_09 (100%)|Agim Dżeljilji|Agim Dżeljilji||0:0:10|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|22:00|23:39|DOMÓWKA|n_STG_DOMÓWKA_12|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:39|DOMÓWKA|RISE|Robi/Drewett/Roman|Robi/Drewett/Roman||0:3:8|JONAS BLUE FEAT. JACK & JACK||UNIVERSAL|
+2018-12-01|22:00|23:42|DOMÓWKA|STAND BY ME|Ben E. King, Jerry Leiber, Mike Stoller|Ben E. King, Jerry Leiber, Mike Stoller||0:2:58|GEENO SMITH||MAGIC RECORDS|
+2018-12-01|22:00|23:42|DOMÓWKA|n_STG_DOMÓWKA_05 (non stop)|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:45|DOMÓWKA|LET YOU LOVE ME|ORA|ORA||0:3:6|RITA ORA|||
+2018-12-01|22:00|23:45|DOMÓWKA|n_STG_DOMÓWKA_07|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:48|DOMÓWKA|PARIS LATINO|Carlos Perez, José Perez|Carlos Perez, José Perez||0:4:10|BANDOLERO||VIRGIN|
+2018-12-01|22:00|23:48|DOMÓWKA|n_STG_DOMÓWKA_10 (100%)|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:52|DOMÓWKA|n_STG_DOMÓWKA_11|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:52|DOMÓWKA|BLACK AND YELLOW|Thomaz/Mikkel Eriksen/Tor Hermansen|Thomaz/Mikkel Eriksen/Tor Hermansen||0:3:36|WIZ KHALIFA||Atlantic Records/Rostrum Records|
+2018-12-01|22:00|23:55|DOMÓWKA|DOMINO DANCING|TENNANT, LOWE|TENNANT, LOWE||0:4:12|PET SHOP BOYS||PARLOPHONE|
+2018-12-01|22:00|23:55|DOMÓWKA|n_STG_DOMÓWKA_12|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|23:59|DOMÓWKA|RAPTURE|IIO|IIO|ND|0:3:10|iiO|UNIVERSAL|UNIVERSAL|
+2018-12-01|22:00|23:59|DOMÓWKA|n_STG_DOMÓWKA_05 (non stop)|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|00:03|DOMÓWKA|STRANGERS BY NIGHT|Dieter Bohlen|Dieter Bohlen||0:3:37|C.C. CATCH||HANSA|
+2018-12-01|22:00|00:03|DOMÓWKA|n_STG_DOMÓWKA_07|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|22:00|00:06|DOMÓWKA|BEST FRIEND|M. NERVO, O.NERVO|PATTERSON||0:3:0|SOFI TUKKER FEAT. NERVO||ULTRA|
+2018-12-01|22:00|00:06|DOMÓWKA|n_STG_DOMÓWKA_09 (100%)|Agim Dżeljilji|Agim Dżeljilji||0:0:10|Jacek Brzostyński|Agim Dżeljilji||

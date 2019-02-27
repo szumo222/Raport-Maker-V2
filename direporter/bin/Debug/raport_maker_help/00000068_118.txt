@@ -1,0 +1,10 @@
+﻿2018-12-16|08:00|08:00|KLASYCZNA STRONA MIASTA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:24|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-16|08:00|07:59|KLASYCZNA STRONA MIASTA|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:38|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-16|08:00|00:00|KLASYCZNA STRONA MIASTA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-16|08:00|08:00|KLASYCZNA STRONA MIASTA|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:18|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-16|08:00|08:03|KLASYCZNA STRONA MIASTA|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-16|08:00|08:03|KLASYCZNA STRONA MIASTA|n_KLASYCZNA STRONA MIASTA - jingiel 2|Bradley/Balmforth - "Cakewalk"|PRS||0:0:13|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-16|08:00|08:13|KLASYCZNA STRONA MIASTA|Oratorium na Boże Narodzenie chór z V kantaty|Johann Sebastian Bach|||0:7:29|Harnoncourt|||
+2018-12-16|08:00|08:22|KLASYCZNA STRONA MIASTA|Ach, wenn wird die Zeit|Johann Sebastian Bach|||0:5:26|Harnoncourt|||
+2018-12-16|08:00|08:49|KLASYCZNA STRONA MIASTA|Magnus Dominus et laudabilis nimis|Penderecki|||0:8:49|Penderecki|||
+2018-12-16|08:00|08:56|KLASYCZNA STRONA MIASTA|P_PRZEPLATANKA 04|Sans - "Infobahn"|PRS||0:0:49|Jacek Brzostyński|PRS / Szwaja W.||

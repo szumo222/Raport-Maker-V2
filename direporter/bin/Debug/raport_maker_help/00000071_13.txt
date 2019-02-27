@@ -1,0 +1,48 @@
+﻿2018-12-01|18:00|18:00|HALO, STADION|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:24|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|17:59|HALO, STADION|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:56|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|00:00|HALO, STADION|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|18:00|00:00|HALO, STADION|n_NEWS_to są|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|18:00|18:00|HALO, STADION|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:30|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|18:03|HALO, STADION|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|18:00|18:04|HALO, STADION|HALO STADION                ZE|ND|ND|ND|0:0:11|EFEKT|PRS|ND|
+2018-12-01|18:00|18:04|HALO, STADION|WALK OF LIFE|KNOPFLER MARK|KNOPFLER MARK|ND|0:3:51|DIRE STRAITS|KNOPFLER MARK/DORFSMAN NEIL|VERTIGO|
+2018-12-01|18:00|18:08|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:3:29|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|18:08|HALO, STADION|n_POD_SPORT_01_END_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|18:11|HALO, STADION|GŁUPCY|KONDRACKI, KARWAN, ŚWIERK|KOZAK, KARWAN||0:3:8|ANIA KARWAN||2trackrecords|
+2018-12-01|18:00|18:14|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:12:42|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|18:26|HALO, STADION|n_POD_SPORT_01_END_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|18:27|HALO, STADION|THUNDER|REYNOLDS, SERMON|MCKEE||0:2:54|IMAGINE DRAGONS||Kidinakorner|
+2018-12-01|18:00|18:30|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:4:4|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|18:34|HALO, STADION|n_POD_SPORT_01_END_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|18:34|HALO, STADION|OTWIERAM WINO|POLAK SIDNEY|POLAK SIDNEY/PEZET|ND|0:3:58|SIDNEY POLAK feat. PEZET|CHŁOPCY W BRZMIENIU|POMATON EMI|
+2018-12-01|18:00|18:38|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:8:50|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|18:46|HALO, STADION|n_POD_SPORT_01_END_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|18:47|HALO, STADION|PROMISES|Jessie Reyez, Sam Smith, Adam Wiles|Jessie Reyez, Sam Smith, Adam Wiles||0:3:27|CALVIN HARRIS FEAT. SAM SMITH||SONY|
+2018-12-01|18:00|18:50|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:4:27|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|18:54|HALO, STADION|n_POD_SPORT_01_END_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|18:55|HALO, STADION|ECHO|Piotr Walicki, Ewa Farna|Starejki/Biderman/Walicki/Jacukowicz||0:3:31|KAEN FEAT. EWA FARNA||WARNER|
+2018-12-01|18:00|18:58|HALO, STADION|P_TROCHĘ KULTURY 02.12|Laszlo/Wheeler - "Dreams Come True"|PRS||0:1:2|Jacek Brzostyński, Konrad Wojtyła|PRS / Szwaja W.||
+2018-12-01|18:00|18:59|HALO, STADION|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:23|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|18:59|HALO, STADION|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:53|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|00:00|HALO, STADION|n_NEWS_czujny tel|nd|nd||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|18:00|00:00|HALO, STADION|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|18:00|19:00|HALO, STADION|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:23|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|19:03|HALO, STADION|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|18:00|19:04|HALO, STADION|HALO STADION                ZE|ND|ND|ND|0:0:11|EFEKT|PRS|ND|
+2018-12-01|18:00|19:04|HALO, STADION|HOLDING OUT FOR A HERO|Jim Steinman, Dean Pitchford|Jim Steinman, Dean Pitchford||0:4:9|BONNIE TYLER||CBS|
+2018-12-01|18:00|19:08|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:2:44|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|19:08|HALO, STADION|n_POD_SPORT_01_END_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|19:11|HALO, STADION|ĆMA (GROMEE REMIX)|Reni Jusis, Stendek|WERONIKA LEWANDOWSKA||0:3:11|RENI JUSIS||SONY|
+2018-12-01|18:00|19:14|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:4:36|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|19:18|HALO, STADION|n_POD_SPORT_01_END_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|19:18|HALO, STADION|UPTOWN FUNK!|Lawrence/Bhasker/Mars/Ronson|Lawrence/Bhasker/Mars/Ronson||0:4:28|MARK RONSON FEAT. BRUNO MARS||SONY|
+2018-12-01|18:00|19:23|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:5:16|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|19:27|HALO, STADION|n_POD_SPORT_01_END_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|19:28|HALO, STADION|TO CO NAM BYŁO|Łukasz Lazer, Joanna Czarnecka|Roch Poliszczuk, Joanna Czarnecka||0:3:30|RED LIPS||MY MUSIC|
+2018-12-01|18:00|19:32|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:8:3|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|19:40|HALO, STADION|n_POD_SPORT_01_END_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|19:40|HALO, STADION|HAPPY NOW|Kyrre G?rvell-Dahll, Sandro Cavazza|Sandro Cavazza||0:3:29|KYGO FEAT. SANDRO CAVAZZA||SONY|
+2018-12-01|18:00|19:43|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:12:4|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|19:54|HALO, STADION|n_POD_SPORT_01_END_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|18:00|19:55|HALO, STADION|MOTYLE I ĆMY|SARSA, Goranson, Lindsmyr|SARSA||0:3:20|SARSA||UNIVERSAL|
+2018-12-01|18:00|19:58|HALO, STADION|P_DOMÓWKA 18 (sob)|Zaremba - "Melbourne"|PRS||0:0:46|Jacek Brzostyński|PRS / Szwaja W.||

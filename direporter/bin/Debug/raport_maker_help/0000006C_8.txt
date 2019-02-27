@@ -1,0 +1,31 @@
+﻿2018-12-01|15:00|15:00|SPÓR W KINIE|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:27|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|15:00|14:59|SPÓR W KINIE|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:50|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|15:00|00:00|SPÓR W KINIE|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|15:00|15:00|SPÓR W KINIE|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:26|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|15:00|15:03|SPÓR W KINIE|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|15:00|15:04|SPÓR W KINIE|WAITING FOR TONIGHT|Christensen, Garvin, Temple|Christensen, Garvin, Temple||0:4:5|JENNIFER LOPEZ||EPIC|
+2018-12-01|15:00|15:08|SPÓR W KINIE|n_JRS_21_slow_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|15:00|15:08|SPÓR W KINIE|BE ALRIGHT|DEAN LEWIS, Jon Hume|DEAN LEWIS, Jon Hume||0:3:11|DEAN LEWIS||UNIVERSAL|
+2018-12-01|15:00|15:11|SPÓR W KINIE|n_POD_SPÓR W KINIE|Loi - "Glitter Swing Symphony"|PRS||0:2:47|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|15:00|15:14|SPÓR W KINIE|n_JRS_15_med|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|15:00|15:14|SPÓR W KINIE|WYSTARCZĘ JA|Paweł Domagała, Łukasz Borowiecki|PAWEŁ DOMAGAŁA||0:3:22|PAWEŁ DOMAGAŁA||Domagała-Borowiecki S.C.|
+2018-12-01|15:00|15:17|SPÓR W KINIE|n_WH_RS_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|15:00|15:17|SPÓR W KINIE|SCARS TO YOUR BEAUTIFUL|Alessia Caracciolo, Coleridge Tillman|Alessia Caracciolo, Coleridge Tillman||0:3:45|ALESSIA CARA||UNIVERSAL MUSIC POLSKA|
+2018-12-01|15:00|15:21|SPÓR W KINIE|n_POD_SPÓR W KINIE|Loi - "Glitter Swing Symphony"|PRS||0:7:39|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|15:00|15:28|SPÓR W KINIE|n_POD_SPÓR W KINIE|Loi - "Glitter Swing Symphony"|PRS||0:0:32|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|15:00|15:29|SPÓR W KINIE|n_JRS_24_med|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|15:00|15:29|SPÓR W KINIE|THE SUN ALWAYS SHINES ON T.V.|Pål Waaktaar|Pål Waaktaar||0:4:60|A-HA||WARNER|
+2018-12-01|15:00|15:34|SPÓR W KINIE|SPOKOJNIE|Rosalie Hoffman, Piotr Suwalski|Rosalie Hoffman, Arek Sitarz||0:2:50|ROSALIE||Alkopoligamia|
+2018-12-01|15:00|15:33|SPÓR W KINIE|n_WH_W DOMU_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|15:00|15:36|SPÓR W KINIE|n_POD_SPÓR W KINIE|Loi - "Glitter Swing Symphony"|PRS||0:3:58|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|15:00|15:40|SPÓR W KINIE|n_JRS_19_fast|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|15:00|15:40|SPÓR W KINIE|JUST BE GOOD TO ME|HARRIS III / LEWIS|HARRIS III / LEWIS||0:3:57|KARMAH|KARMAH|MAGIC|
+2018-12-01|15:00|15:44|SPÓR W KINIE|n_STG_TO JEST_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:8|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|15:00|15:44|SPÓR W KINIE|POWER OVER ME|Kennedy, Kozmeniuk, Harris|Kennedy, Kozmeniuk, Harris||0:3:17|DERMOT KENNEDY||UNIVERSAL|
+2018-12-01|15:00|15:47|SPÓR W KINIE|n_POD_SPÓR W KINIE|Loi - "Glitter Swing Symphony"|PRS||0:1:50|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|15:00|15:49|SPÓR W KINIE|n_JRS_17_med|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|15:00|15:49|SPÓR W KINIE|FILM|DOBROBIT|CLEO||0:3:16|CLEO||UNIVERSAL|
+2018-12-01|15:00|15:53|SPÓR W KINIE|n_JRS_13_med_short (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:16|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|15:00|15:53|SPÓR W KINIE|KING OF THE JUNGLE|SHUNGUY|SHUNGUY||0:2:37|SHANGUY||UNIVERSAL|
+2018-12-01|15:00|15:55|SPÓR W KINIE|n_JRS_15_med_instr2|Agim Dżeljilji|nd||0:0:21|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|15:00|15:56|SPÓR W KINIE|P_OJCOWIE DMOWSKI 02 (od pon)|Yoni Gileadi/Amy Gileadi-"The Company"|PRS||0:0:52|Jacek Brzostyński, Jerzy Zelnik|PRS / Szwaja W.||

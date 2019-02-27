@@ -1,0 +1,39 @@
+﻿2018-12-15|17:00|17:00|FILMÓWKA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:26|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|17:00|16:59|FILMÓWKA|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:4:2|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|17:00|00:00|FILMÓWKA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|17:00|00:00|FILMÓWKA|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|17:00|17:00|FILMÓWKA|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:23|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|17:00|17:04|FILMÓWKA|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|17:00|17:04|FILMÓWKA|NADZIEJA|BARTOSZ ZIELONY|Patrycja Kosiarkiewicz||0:3:36|TABB & SOUND 'N' GRACE||MYMUSIC|
+2018-12-15|17:00|17:07|FILMÓWKA|X_JRS_10_trans|Agim Dzeljilji|Agim Dzeljilji||0:0:13|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|17:00|17:08|FILMÓWKA|WHITE CHRISTMAS|BERLIN|BERLIN|ND|0:3:3|BING CROSBY|MCA|MCA|
+2018-12-15|17:00|17:11|FILMÓWKA|n_POD_06_med_instr|Agim Dżeljilji|nd||0:0:47|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|17:00|17:11|FILMÓWKA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|17:00|17:11|FILMÓWKA|MAIN TITLE FROM HOME ALONE|JOHN WILLIAMS|||0:4:49|JOHN WILLIAMS|SONY MUSIC/ CBS|SONY MUSIC/ CBS|
+2018-12-15|17:00|17:16|FILMÓWKA|X_WH_WEEKEND_03_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|17:00|17:16|FILMÓWKA|PLEASE COME HOME FOR CHRISTMAS|JOHN WILLIAMS|BROWN/REDD||0:2:38|JOHN WILLIAMS FEAT.SOUTHSIDE JOHNNY|SONY MUSIC/ CBS|SONY MUSIC/ CBS|
+2018-12-15|17:00|17:19|FILMÓWKA|n_POD_14_med_instr|Agim Dżeljilji|nd||0:0:32|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|17:00|17:19|FILMÓWKA|n_JRS_14_med3|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|17:00|17:19|FILMÓWKA|WHAT THE WORLD NEEDS NOW|Hal David, Burt Bacharach|Hal David, Burt Bacharach||0:3:9|ANNA KARWAN||WARNER|
+2018-12-15|17:00|17:23|FILMÓWKA|X_WH_POD CHOINKĄ_12_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-15|17:00|17:23|FILMÓWKA|MIŁOŚĆ JEST WSZYSTKIM|DACKO/HERBUT|DACKO/HERBUT||0:3:54|IGOR HERBUT|WMI|WMI|
+2018-12-15|17:00|17:26|FILMÓWKA|n_POD_16_med_instr|Agim Dżeljilji|nd||0:0:37|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|17:00|17:27|FILMÓWKA|n_JRS_16_slow_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|17:00|17:27|FILMÓWKA|RUDOLPH THE RED NOSE REINDEER|JOHNNY MARKS|JOHNNY MARKS||0:2:13|DEAN MARTIN|WMI|WMI|
+2018-12-15|17:00|17:29|FILMÓWKA|X_WH_SŁUCHASZ_03_k|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-15|17:00|17:29|FILMÓWKA|YOU'RE A MEAN ONE, MR GRINCH|JAMES HORNER|GEISEL/HAGUE||0:3:8|JIM CARREY|INTERSCOPE|INTERSCOPE|
+2018-12-15|17:00|17:32|FILMÓWKA|n_POD_14_med_instr|Agim Dżeljilji|nd||0:0:32|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|17:00|17:33|FILMÓWKA|n_JRS_14_med3|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|17:00|17:33|FILMÓWKA|THE POLAR EXPRESS SYMPHONY|ALAN SILVESTRI|||0:5:58|ALAN SILVESTRI|WARNER BROS|WARNER BROS|
+2018-12-15|17:00|17:39|FILMÓWKA|X_JRS_22_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|17:00|17:39|FILMÓWKA|HERE WITH ME|ARMSTRONG|GABRIEL|ND|0:4:6|DIDO|DIDO|BMG|
+2018-12-15|17:00|17:43|FILMÓWKA|n_POD_06_med_instr|Agim Dżeljilji|nd||0:0:46|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|17:00|17:44|FILMÓWKA|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|17:00|17:44|FILMÓWKA|HOT CHOCOLATE|BALLARD/ SILVESTRI|BALLARD/ SILVESTRI||0:2:28|TOM HANKS|WARNER BROS|WARNER BROS|
+2018-12-15|17:00|17:46|FILMÓWKA|X_JRS_21_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|17:00|17:47|FILMÓWKA|HARRY IN WINTER|PATRICK DOYLE|||0:2:52|PATRICK DOYLE|WARNER BROS|WARNER BROS|
+2018-12-15|17:00|17:50|FILMÓWKA|n_POD_18_med_instr|Agim Dżeljilji|nd||0:0:32|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|17:00|17:50|FILMÓWKA|n_JRS_18_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:10|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|17:00|17:50|FILMÓWKA|HAVE YOURSELF A MERRY LITTLE CHRISTMAS|JOHN WILLIAMS|BLANE/MARTIN||0:3:3|JOHN WILLIAMS FEAT.MEL TORME|SONY MUSIC/ CBS|SONY MUSIC/ CBS|
+2018-12-15|17:00|17:53|FILMÓWKA|n_JRS_06_med_instr|Agim Dżeljilji|nd||0:0:10|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|17:00|17:53|FILMÓWKA|P_DOMÓWKA 19 (sob)|Zaremba - "Melbourne"|PRS||0:0:43|Jacek Brzostyński|PRS / Szwaja W.||

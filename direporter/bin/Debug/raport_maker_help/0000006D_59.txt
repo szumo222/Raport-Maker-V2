@@ -1,0 +1,22 @@
+﻿2018-12-12|16:00|16:00|WSZYSTKO NA GORĄCO|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:20|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|15:59|WSZYSTKO NA GORĄCO|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:30|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|00:00|WSZYSTKO NA GORĄCO|n_NEWS_czujny tel|nd|nd||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-12|16:00|00:00|WSZYSTKO NA GORĄCO|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-12|16:00|00:00|WSZYSTKO NA GORĄCO|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-12|16:00|00:00|WSZYSTKO NA GORĄCO|n_NEWS_to są|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-12|16:00|15:59|WSZYSTKO NA GORĄCO|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:36|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|16:03|WSZYSTKO NA GORĄCO|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|16:00|16:03|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:7:47|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|16:10|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:4:9|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|16:15|WSZYSTKO NA GORĄCO|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:42|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|16:16|WSZYSTKO NA GORĄCO|X_STRS_POD CHOINKĄ_02|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-12|16:00|16:16|WSZYSTKO NA GORĄCO|n_POD_WNG_LONG_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:27|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|16:16|WSZYSTKO NA GORĄCO|n_POD_WNG_Samorządowa przeplatanka|Sans - "Infobahn"|PRS||0:10:13|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-12|16:00|16:17|WSZYSTKO NA GORĄCO|n_POD_WNG_LONG_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:27|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|16:27|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_END|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|16:27|WSZYSTKO NA GORĄCO|n_NEWS_head v.3 do flesza|Agim Dżeljilji|nd||0:1:10|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|16:32|WSZYSTKO NA GORĄCO|n_POD_WNG_Skandynawia po mojemu|Agim Dżeljilji|Agim Dżeljilji||0:3:50|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|16:37|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:8:5|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|16:44|WSZYSTKO NA GORĄCO|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:34|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|16:45|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:6:27|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-12|16:00|16:52|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_END|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||

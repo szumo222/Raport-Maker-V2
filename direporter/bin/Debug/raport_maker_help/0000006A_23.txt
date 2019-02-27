@@ -1,0 +1,103 @@
+﻿2018-12-10|09:00|09:00|RADIO SZCZECIN W PRACY|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:19|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|08:59|RADIO SZCZECIN W PRACY|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:20|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|00:00|RADIO SZCZECIN W PRACY|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|09:00|08:59|RADIO SZCZECIN W PRACY|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:51|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|09:03|RADIO SZCZECIN W PRACY|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|09:03|RADIO SZCZECIN W PRACY|SERCE NIE SŁUGA|A. Dąbrowska|A. Dąbrowska, D. Melosik, M. Melosik||0:3:9|ANIA DĄBROWSKA||SONY|
+2018-12-10|09:00|09:06|RADIO SZCZECIN W PRACY|DON'T YOU|FORSEY K.|CHIFF S.|ND|0:4:18|SIMPLE MINDS|FORSEY K.|EMI REC.|
+2018-12-10|09:00|09:06|RADIO SZCZECIN W PRACY|n_STG_PRACA_02_m|Agim Dżeljilji|Agim Dżeljilji||0:0:9|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|09:00|09:10|RADIO SZCZECIN W PRACY|n_POD_08_fast_instr|Agim Dżeljilji|nd||0:0:37|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|09:11|RADIO SZCZECIN W PRACY|n_JRS_08_fast_short|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|09:11|RADIO SZCZECIN W PRACY|HEY DJ|Trainor/Henriques/Barrera/Wallace/|Miranda/Radosevich/de la Torre||0:3:6|CNCO, MEGHAN TRAINOR & SEAN PAUL||SONY|
+2018-12-10|09:00|09:14|RADIO SZCZECIN W PRACY|OCEAN DRIVE|Dyment/Ritson/Fabian/Aluo/Norton|Dyment/Ritson/Fabian/Aluo/Norton||0:3:24|DUKE DUMONT||UNIVERSAL|
+2018-12-10|09:00|09:14|RADIO SZCZECIN W PRACY|n_WH_SŁUCHASZ_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|09:00|09:17|RADIO SZCZECIN W PRACY|X_POD_13_med_instr|Agim Dżeljilji|nd||0:0:26|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|09:18|RADIO SZCZECIN W PRACY|n_JRS_02_slow_short1|Agim Dzeljilji|Agim Dzeljilji||0:0:10|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|09:18|RADIO SZCZECIN W PRACY|NIE MA FAL|Bartek Dziedzic, Dawid Podsiadło|Dawid Podsiadło||0:3:57|DAWID PODSIADŁO||SONY|
+2018-12-10|09:00|09:22|RADIO SZCZECIN W PRACY|X_WH_TO JEST_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|09:00|09:22|RADIO SZCZECIN W PRACY|LET IT SNOW! LET IT SNOW! LET IT SNOW!|Cahn Sammy, Styne Jule|Cahn Sammy, Styne Jule||0:2:42|STEVE WARINER||MCA|
+2018-12-10|09:00|09:25|RADIO SZCZECIN W PRACY|n_JRS_02_slow_instr|Agim Dżeljilji|nd||0:0:13|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|09:25|RADIO SZCZECIN W PRACY|P_PORANEK 98 RATOWNICY|Jaco Caraco - "Im Gonna Find A Way"|PRS||0:1:1|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-10|09:00|09:31|RADIO SZCZECIN W PRACY|n_NEWS_sport|Agim Dżeljilji|Agim Dżeljilji||0:4:46|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|09:31|RADIO SZCZECIN W PRACY|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|09:35|RADIO SZCZECIN W PRACY|CLOSE TO ME|ELLIE GOULDING, DIPLO, SWAE LEE|ELLIE GOULDING, DIPLO, SWAE LEE||0:2:60|ELLIE GOULDING & DIPLO FEAT. SWAE LEE||UNIVERSAL|
+2018-12-10|09:00|09:38|RADIO SZCZECIN W PRACY|WHEREVER YOU WILL GO|CALLING, THE|CALLING, THE|ND|0:3:27|THE CALLING|TANNER|BMG|
+2018-12-10|09:00|09:38|RADIO SZCZECIN W PRACY|n_WH_PRACA_07_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|09:00|09:38|RADIO SZCZECIN W PRACY|n_WH_RS_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|09:00|09:42|RADIO SZCZECIN W PRACY|n_JRS_08_fast_instr|Agim Dżeljilji|nd||0:0:12|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|09:46|RADIO SZCZECIN W PRACY|NA JEDEN MOMENT|Bartosz Zielony Tabb|Arek Kłusowski||0:3:11|ZOUZY|||
+2018-12-10|09:00|09:50|RADIO SZCZECIN W PRACY|MANEATER|OATES/HALL/ALLEN|OATES/HALL/ALLEN||0:4:28|HALL & OATES||BMG|
+2018-12-10|09:00|09:50|RADIO SZCZECIN W PRACY|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|09:00|09:54|RADIO SZCZECIN W PRACY|n_JRS_16_med_instr|Agim Dżeljilji|nd||0:0:15|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|10:00|RADIO SZCZECIN W PRACY|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:24|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|09:59|RADIO SZCZECIN W PRACY|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:47|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|00:00|RADIO SZCZECIN W PRACY|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|09:00|00:00|RADIO SZCZECIN W PRACY|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|09:00|09:59|RADIO SZCZECIN W PRACY|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:49|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|10:04|RADIO SZCZECIN W PRACY|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|10:04|RADIO SZCZECIN W PRACY|CAN'T GET YOU OUT OF MY HEAD|Cathy Dennis / Rob Davis|Cathy Dennis / Rob Davis||0:3:39|KYLIE MINOGUE||PARLOPHONE|
+2018-12-10|09:00|10:07|RADIO SZCZECIN W PRACY|n_JRS_14_med_instr|Agim Dżeljilji|nd||0:0:11|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|10:08|RADIO SZCZECIN W PRACY|n_JRS_14_med1|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|10:08|RADIO SZCZECIN W PRACY|HIGH HOPES|URIE|SINCLAIR||0:3:9|PANIC! AT THE DISCO|||
+2018-12-10|09:00|10:11|RADIO SZCZECIN W PRACY|KTO WIE|ZIELIŃSKI|INTRATOR||0:3:46|DE SU|DE SU|ZIC ZAC|
+2018-12-10|09:00|10:11|RADIO SZCZECIN W PRACY|X_WH_TO JEST_07_km|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|09:00|10:14|RADIO SZCZECIN W PRACY|n_POD_24_med_instr|Agim Dżeljilji|nd||0:0:38|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|10:15|RADIO SZCZECIN W PRACY|n_JRS_24_med|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|10:15|RADIO SZCZECIN W PRACY|FADING|Marengo/Montilla/Omar/Gashi/Skött/Deima|Zuber/Oestmann/Zimmer/Dabruck/Kramer/Do||0:3:26|ALLE FARBEN & ILIRA||SONY|
+2018-12-10|09:00|10:19|RADIO SZCZECIN W PRACY|THE SHOW MUST GO ON|QUEEN|QUEEN|ND|0:4:6|QUEEN|QUEEN/RICHARDS DAVID|PARLOPHONE|
+2018-12-10|09:00|10:22|RADIO SZCZECIN W PRACY|n_WH_PRACA_02_k|Agim Dżeljilji|Agim Dżeljilji||0:0:4|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|09:00|10:23|RADIO SZCZECIN W PRACY|NIE MA MNIE|Uściłowska, Krupski, Morange|Uściłowska, Krupski, Morange||0:3:28|LANBERRY||UNIVERSAL|
+2018-12-10|09:00|10:26|RADIO SZCZECIN W PRACY|n_POD_06_med_instr|Agim Dżeljilji|nd||0:0:12|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|10:27|RADIO SZCZECIN W PRACY|P_OJCOWIE DMOWSKI 02|Yoni Gileadi/Amy Gileadi-"The Company"|PRS||0:0:52|Jacek Brzostyński, Jerzy Zelnik|PRS / Szwaja W.||
+2018-12-10|09:00|10:31|RADIO SZCZECIN W PRACY|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|10:31|RADIO SZCZECIN W PRACY|LOVE ME AGAIN|John Newman, Steve Booker|John Newman, Steve Booker||0:3:27|JOHN NEWMAN||UNIVERSAL / ISLAND|
+2018-12-10|09:00|10:35|RADIO SZCZECIN W PRACY|n_JRS_17_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|10:35|RADIO SZCZECIN W PRACY|NOTHING BREAKS LIKE A HEART|Cyrus/Ronson/Szymanski/Picard/|Picard/Juber/Brenneck||0:3:35|MARK RONSON FEAT. MILEY CYRUS||SONY|
+2018-12-10|09:00|10:38|RADIO SZCZECIN W PRACY|n_STG_PRACA_02_m|Agim Dżeljilji|Agim Dżeljilji||0:0:9|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|09:00|10:38|RADIO SZCZECIN W PRACY|I BELIEVE I CAN FLY (RADIO EDIT)|R. KELLY|R. KELLY||0:4:42|R. KELLY||JIVE|
+2018-12-10|09:00|10:43|RADIO SZCZECIN W PRACY|n_JRS_21_slow_instr|Agim Dżeljilji|nd||0:0:14|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|10:44|RADIO SZCZECIN W PRACY|PECH TO NIE GRZECH|Grzegorz Hyży, Konrad Biliński|Grzegorz Hyży||0:3:38|GRZEGORZ HYŻY||SONY|
+2018-12-10|09:00|10:48|RADIO SZCZECIN W PRACY|TITANIUM|Furler, Guetta, Tuinfort, Van De Wall|Furler, Guetta, Tuinfort, Van De Wall||0:3:53|DAVID GUETTA FEAT. SIA||EMI|
+2018-12-10|09:00|10:48|RADIO SZCZECIN W PRACY|n_STG_SŁUCHASZ_04_km|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|09:00|10:52|RADIO SZCZECIN W PRACY|FEELS LIKE HEAVEN|PATTERSON K.|JORDAN E.|ND|0:3:28|FICTION FACTORY|COLUMBIA|COLUMBIA|
+2018-12-10|09:00|10:52|RADIO SZCZECIN W PRACY|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|09:00|10:52|RADIO SZCZECIN W PRACY|n_WH_RS_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|09:00|10:55|RADIO SZCZECIN W PRACY|n_JRS_02_slow_instr2|Agim Dżeljilji|nd||0:0:23|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|11:00|RADIO SZCZECIN W PRACY|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:22|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|10:59|RADIO SZCZECIN W PRACY|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:2:33|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|00:00|RADIO SZCZECIN W PRACY|n_NEWS_czujny tel|nd|nd||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|09:00|00:00|RADIO SZCZECIN W PRACY|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|09:00|00:00|RADIO SZCZECIN W PRACY|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|09:00|11:00|RADIO SZCZECIN W PRACY|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:53|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|11:03|RADIO SZCZECIN W PRACY|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|11:04|RADIO SZCZECIN W PRACY|LITTLE LIES|CHRISTINE MCVIE/EDDY QUINTELA|CHRISTINE MCVIE/EDDY QUINTELA|ND|0:3:21|FLEETWOOD MAC|DASHUT RICHARD|WARNER|
+2018-12-10|09:00|11:06|RADIO SZCZECIN W PRACY|n_JRS_13_med_short (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:16|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|11:06|RADIO SZCZECIN W PRACY|MOVES|Broadus Jr./Malik/Sheeran/Mac|Broadus Jr./Malik/Sheeran/Mac||0:2:43|OLLY MURS FEAT. SNOOP DOGG||SONY|
+2018-12-10|09:00|11:09|RADIO SZCZECIN W PRACY|MIMOCHODEM|Bidiuk, Cugowski, Raduli|MACIEJ DURCZAK||0:4:9|ANNA WYSZKONI||UNIVERSAL|
+2018-12-10|09:00|11:09|RADIO SZCZECIN W PRACY|n_WH_SŁUCHASZ_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|09:00|11:13|RADIO SZCZECIN W PRACY|X_POD_07_med_instr|Agim Dżeljilji|nd||0:0:41|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|11:14|RADIO SZCZECIN W PRACY|X_JRS_07_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:6|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|11:14|RADIO SZCZECIN W PRACY|HEROES|Segerstad/Joy Deb/Linnea Deb|Segerstad/Joy Deb/Linnea Deb||0:3:4|MANS ZELMERLOW||WARNER|
+2018-12-10|09:00|11:17|RADIO SZCZECIN W PRACY|ELECTRICITY (FEAT. DIPLO & MARK RONSON)|PICARD, GORDON, LIPA|OLOFSON, RONSON||0:4:2|SILK CITY & DUA LIPA|||
+2018-12-10|09:00|11:21|RADIO SZCZECIN W PRACY|n_JRS_20_med|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|11:21|RADIO SZCZECIN W PRACY|DZIEŃ JEDEN W ROKU|KRAJEWSKI S.|DZIKOWSKI K.|ND|0:2:46|CZERWONE GITARY|POLSKIE NAGRANIA|DIGITON|
+2018-12-10|09:00|11:24|RADIO SZCZECIN W PRACY|X_POD_08_fast_instr|Agim Dżeljilji|nd||0:0:20|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|11:24|RADIO SZCZECIN W PRACY|n_JRS_02_slow_instr|Agim Dżeljilji|nd||0:0:13|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|11:24|RADIO SZCZECIN W PRACY|P_PRZEPLATANKA 04|Sans - "Infobahn"|PRS||0:0:49|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-10|09:00|11:29|RADIO SZCZECIN W PRACY|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|11:29|RADIO SZCZECIN W PRACY|NO TEARS LEFT TO CRY|Grande/Martin/Salmanzadeh/Kotecha|Grande/Martin/Salmanzadeh/Kotecha||0:3:23|ARIANA GRANDE||UNIVERSAL|
+2018-12-10|09:00|11:33|RADIO SZCZECIN W PRACY|n_JRS_20_med2|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|11:33|RADIO SZCZECIN W PRACY|(I JUST) DIED IN YOUR ARMS|EEDE N.|EEDE N.|ND|0:4:44|CUTTING CREW|VIRGIN REC.|VIRGIN REC.|
+2018-12-10|09:00|11:37|RADIO SZCZECIN W PRACY|n_STG_SŁUCHASZ_02_m|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|09:00|11:37|RADIO SZCZECIN W PRACY|NIE MUSZĘ|Julia Wieniawa, Wojtek Urbański|Arek Sitarz (Ras)||0:2:59|JULIA WIENIAWA|||
+2018-12-10|09:00|11:40|RADIO SZCZECIN W PRACY|n_POD_14_med_instr|Agim Dżeljilji|nd||0:1:53|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|11:42|RADIO SZCZECIN W PRACY|n_JRS_14_med1|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|09:00|11:42|RADIO SZCZECIN W PRACY|JUST GIVE ME A REASON|P!nk, Jeff Bhasker, Nate Ruess|P!nk, Jeff Bhasker, Nate Ruess||0:4:1|PINK feat. NATE RUESS||SONY MUSIC POLSKA|
+2018-12-10|09:00|11:46|RADIO SZCZECIN W PRACY|n_WH_PRACA_07_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|09:00|11:46|RADIO SZCZECIN W PRACY|POLAROID|Robin/Roman/Drewett/Cooper|Robin/Roman/Drewett/Cooper||0:3:7|JONAS BLUE / LIAM PAYNE / LENNON STELLA||UNIVERSAL|
+2018-12-10|09:00|11:49|RADIO SZCZECIN W PRACY|n_JRS_22_slow_instr2|Agim Dżeljilji|nd||0:0:12|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|11:49|RADIO SZCZECIN W PRACY|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|09:00|11:49|RADIO SZCZECIN W PRACY|n_JRS_22_slow_instr|Agim Dżeljilji|nd||0:0:12|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|11:49|RADIO SZCZECIN W PRACY|ALWAYS THE SUN|BURNEL,BLACK|CORNWELL,GREENFIELD||0:3:50|THE STRANGLERS|SONY MUSIC|SONY MUSIC|
+2018-12-10|09:00|11:53|RADIO SZCZECIN W PRACY|n_JRS_13_med_instr|Agim Dżeljilji|nd||0:0:23|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|09:00|11:58|RADIO SZCZECIN W PRACY|n_P_CZĘSTOTLIWOŚĆ_02|Agim Dżeljilji|PRS||0:0:20|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||

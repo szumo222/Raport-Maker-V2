@@ -1,0 +1,20 @@
+﻿2018-12-13|20:00|20:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:26|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|20:00|20:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:40|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|20:00|00:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|20:00|00:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|20:00|20:00|RADIO SZCZECIN NA WIECZÓR|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:21|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|20:00|20:03|RADIO SZCZECIN NA WIECZÓR|n_POD_WIECZÓR|Agim Dżeljilji|Agim Dżeljilji||0:2:17|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|20:00|20:04|RADIO SZCZECIN NA WIECZÓR|n_WH_TO JEST_07_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:5|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-13|20:00|20:04|RADIO SZCZECIN NA WIECZÓR|n_WIECZÓR_SZPILA 01|Agim Dżeljilji|Agim Dżeljilji||0:0:22|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|20:00|20:35|RADIO SZCZECIN NA WIECZÓR|n_POD_WIECZÓR_END|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|20:00|21:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|20:00|21:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:52|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|20:00|00:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|20:00|00:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|20:00|21:00|RADIO SZCZECIN NA WIECZÓR|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:7|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|20:00|00:00|RADIO SZCZECIN NA WIECZÓR|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|20:00|21:01|RADIO SZCZECIN NA WIECZÓR|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:22|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|20:00|21:03|RADIO SZCZECIN NA WIECZÓR|n_POD_WIECZÓR|Agim Dżeljilji|Agim Dżeljilji||0:0:28|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|20:00|21:04|RADIO SZCZECIN NA WIECZÓR|n_WH_TO JEST_07_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:5|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-13|20:00|21:06|RADIO SZCZECIN NA WIECZÓR|n_WIECZÓR_SZPILA 02|Agim Dżeljilji|Agim Dżeljilji||0:0:39|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|20:00|21:32|RADIO SZCZECIN NA WIECZÓR|n_POD_WIECZÓR_END|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński, Agim Dżeljilji|Agim Dżeljilji||

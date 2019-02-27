@@ -1,0 +1,12 @@
+﻿2018-12-10|12:00|12:00|CZAS REAKCJI|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:21|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-10|12:00|11:59|CZAS REAKCJI|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:36|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|12:00|00:00|CZAS REAKCJI|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|12:00|00:00|CZAS REAKCJI|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-10|12:00|11:59|CZAS REAKCJI|n_NEWS_poleca|Agim Dżeljilji|Agim Dżeljilji||0:1:43|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|12:00|12:04|CZAS REAKCJI|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:38|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-10|12:00|12:05|CZAS REAKCJI|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-10|12:00|12:03|CZAS REAKCJI|n_POD_CZR|Tomasz Lewandowski|PRS||0:27:23|Jacek Brzostyński, Tomasz Lewandowski|PRS / Szwaja W.||
+2018-12-10|12:00|12:22|CZAS REAKCJI|n_POD_CZR_END|Tomasz Lewandowski|PRS||0:0:10|Jacek Brzostyński, Tomasz Lewandowski|PRS / Szwaja W.||
+2018-12-10|12:00|12:32|CZAS REAKCJI|P_PRACA 162 BARDZO DOBRE POŁĄCZENIE|Kenny Korade - "We Are Young Tonight"|PRS||0:1:4|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-10|12:00|12:37|CZAS REAKCJI|n_POD_CZR|Tomasz Lewandowski|PRS||0:18:19|Jacek Brzostyński, Tomasz Lewandowski|PRS / Szwaja W.||
+2018-12-10|12:00|12:55|CZAS REAKCJI|n_POD_CZR_END|Tomasz Lewandowski|PRS||0:0:10|Jacek Brzostyński, Tomasz Lewandowski|PRS / Szwaja W.||

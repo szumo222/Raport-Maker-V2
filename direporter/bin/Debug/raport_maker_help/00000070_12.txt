@@ -1,0 +1,79 @@
+﻿2018-12-01|20:00|20:00|HIT SOBOTA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|19:59|HIT SOBOTA|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:35|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|00:00|HIT SOBOTA|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|20:00|00:00|HIT SOBOTA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|20:00|20:00|HIT SOBOTA|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:23|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|20:03|HIT SOBOTA|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|20:00|20:03|HIT SOBOTA|IT'S DECEMBER|KOPP|KOPP|ND|0:3:43|AUDREY HANNAH|EDEL|EDEL RECORDS|
+2018-12-01|20:00|20:07|HIT SOBOTA|n_WH_TO JEST_04_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|20:00|20:07|HIT SOBOTA|ORINOCO FLOW|Enya, Roma Ryan|Enya, Roma Ryan||0:4:24|ENYA||WARNER|
+2018-12-01|20:00|20:11|HIT SOBOTA|n_POD_06_med_instr|Agim Dżeljilji|nd||0:0:20|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|20:12|HIT SOBOTA|n_WH_HIT SOBOTA_GWIAZDA_01_m|Burns - "Electro Bubble"|PRS||0:0:7|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-01|20:00|20:12|HIT SOBOTA|PROMISCUOUS|Clayton/Mosley/Furtado/Hills|Clayton/Mosley/Furtado/Hills||0:4:2|NELLY FURTADO feat TIMBALAND|NELLY FURTADO|Geffen Records/Mosley Music Group LLC|
+2018-12-01|20:00|20:16|HIT SOBOTA|n_WH_W DOMU_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|20:00|20:16|HIT SOBOTA|DON'T LOOK ANY FURTHER|LAMBERT/GOLDE|HUTCHINS|ND|0:3:20|M PEOPLE|M PEOPLE|BMG REC.|
+2018-12-01|20:00|20:19|HIT SOBOTA|n_POD_19_fast_instr|Agim Dżeljilji|nd||0:0:31|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|20:19|HIT SOBOTA|n_WH_HIT SOBOTA_EUROPA_m_01|Baker/Marlo - "Sky Chariot 3"|PRS||0:0:11|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-01|20:00|20:19|HIT SOBOTA|EVERY LITTLE THING SHE DOES IS MAGIC|Sting|Sting||0:3:53|THE POLICE||A&M|
+2018-12-01|20:00|20:23|HIT SOBOTA|THRIFT SHOP|BEN HAGGERTY|BEN HAGGERTY||0:3:56|MACKLEMORE & RYAN LEWIS FEAT. WANZ|RYAN LEWIS|Macklemore LLC|
+2018-12-01|20:00|20:23|HIT SOBOTA|n_WH_SŁUCHASZ_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|20:00|20:27|HIT SOBOTA|n_POD_11_fast_instr|Agim Dżeljilji|nd||0:0:15|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|20:27|HIT SOBOTA|n_JRS_11_fast_short|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|20:00|20:27|HIT SOBOTA|MR.VAIN|LEVIS|ZWEIER|ND|0:4:17|CULTURE BEAT|EMI|EMI|
+2018-12-01|20:00|20:32|HIT SOBOTA|n_WH_NOWOŚĆ_02_m|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-01|20:00|20:32|HIT SOBOTA|DIFFERENT WORLD|ALAN WALKER|ALAN WALKER||0:3:19|ALAN WALKER/SOFIA CARSON/K-391/CORSAK||SONY|
+2018-12-01|20:00|20:35|HIT SOBOTA|n_POD_24_med_instr|Agim Dżeljilji|nd||0:0:36|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|20:35|HIT SOBOTA|n_STG_PŁYTA NA BIS|Burns - "Morph"|PRS||0:0:7|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|20:00|20:35|HIT SOBOTA|SUMMER LOVE|RUDIMENTAL|ORA, BLAKE||0:4:14|RITA ORA FEAT. RUDIMENTAL|||
+2018-12-01|20:00|20:40|HIT SOBOTA|n_JRS_10_trans_short|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|20:00|20:40|HIT SOBOTA|EVERYTHINGS GONNA BE ALRIGHT|Geoman, Tina Harris, J. S. Bach|Geoman, Tina Harris, J. S. Bach||0:3:9|SWEETBOX||BMG|
+2018-12-01|20:00|20:43|HIT SOBOTA|n_POD_16_med_instr|Agim Dżeljilji|nd||0:0:24|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|20:43|HIT SOBOTA|n_WH_HIT SOBOTA_GWIAZDA_01_m|Burns - "Electro Bubble"|PRS||0:0:7|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-01|20:00|20:43|HIT SOBOTA|PIPE DREAMS|Furtado Congleton|Furtado Congleton||0:4:5|NELLY FURTADO|||
+2018-12-01|20:00|20:47|HIT SOBOTA|n_WH_WEEKEND_03_k|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|20:00|20:47|HIT SOBOTA|30 MINUTE LOVE AFFAIR|Faith, Chris Braide|Faith, Chris Braide||0:3:18|PALOMA FAITH||RCA|
+2018-12-01|20:00|20:51|HIT SOBOTA|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|20:00|20:51|HIT SOBOTA|DO I HAVE TO SAY THE WORDS?|ADAMS/LANGE|VALLANCE|ND|0:6:3|BRYAN ADAMS|ADAMS BRYAN|A&M|
+2018-12-01|20:00|20:57|HIT SOBOTA|P_PRACA 165 AGENT OLEK|Kenny Korade - "We Are Young Tonight"|PRS||0:0:54|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|20:00|20:59|HIT SOBOTA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|20:59|HIT SOBOTA|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:12|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|00:00|HIT SOBOTA|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|20:00|00:00|HIT SOBOTA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|20:00|00:00|HIT SOBOTA|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|20:00|21:00|HIT SOBOTA|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:22|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|21:03|HIT SOBOTA|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|20:00|21:03|HIT SOBOTA|LOCO IN ACAPULCO|Phil Collins, Lamont Dozier|Phil Collins, Lamont Dozier||0:3:22|FOUR TOPS|||
+2018-12-01|20:00|21:06|HIT SOBOTA|n_JRS_19_fast|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|20:00|21:07|HIT SOBOTA|ALWAYS REMEMBER US THIS WAY|GAGA/HEMBY/LINDSEY/MCKENNA|GAGA/HEMBY/LINDSEY/MCKENNA||0:3:30|LADY GAGA|INTERSCOPE|INTERSCOPE|
+2018-12-01|20:00|21:10|HIT SOBOTA|n_POD_17_med_instr|Agim Dżeljilji|nd||0:0:29|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|21:10|HIT SOBOTA|n_WH_HIT SOBOTA_USA_01_m|Baker/Marlo - "Sippy Swoosh"|PRS||0:0:10|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-01|20:00|21:10|HIT SOBOTA|ONE SWEET DAY|Carey, Afanassief|Norman||0:4:38|MARIAH CAREY FEAT. BOYZ II MEN|||
+2018-12-01|20:00|21:15|HIT SOBOTA|THE ONE AND ONLY|Nik Kershaw|Nik Kershaw||0:3:39|CHESNEY HAWKES||Chrysalis|
+2018-12-01|20:00|21:15|HIT SOBOTA|n_STG_WEEKEND_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|20:00|21:18|HIT SOBOTA|n_JRS_18_med_instr|Agim Dżeljilji|nd||0:0:15|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|21:19|HIT SOBOTA|n_JRS_18_med|Agim Dzeljilji|Agim Dzeljilji||0:0:14|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|20:00|21:19|HIT SOBOTA|MR. VAIN (FEAT. ANASTACIA & SKI)|LEVIS|ZWEIER||0:4:18|ALEX CHRISTENSEN & THE BERLIN ORCHESTRA|||
+2018-12-01|20:00|21:23|HIT SOBOTA|n_WH_W DOMU_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|20:00|21:23|HIT SOBOTA|WINGS|HAERTS|HAERTS||0:4:28|HAERTS||HeavyRoc Music|
+2018-12-01|20:00|21:28|HIT SOBOTA|n_POD_20_med_instr|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|21:28|HIT SOBOTA|n_WH_HIT SOBOTA_GWIAZDA_01_m|Burns - "Electro Bubble"|PRS||0:0:7|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-01|20:00|21:28|HIT SOBOTA|WHO WANTS TO BE ALONE|Verwest/Reijers-Fraaij/Furtado/Nowels|Verwest/Reijers-Fraaij/Furtado/Nowels||0:3:32|TIESTO FEAT. NELLY FURTADO||Musical Freedom|
+2018-12-01|20:00|21:31|HIT SOBOTA|n_WH_NOWOŚĆ_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-01|20:00|21:31|HIT SOBOTA|FIRE IN MY HEAD|Grzegorz "C-BooL" Cebula|Grzegorz "C-BooL" Cebula||0:2:57|C-BOOL FEAT. CADENCE XYZ||C-Wave Records|
+2018-12-01|20:00|21:35|HIT SOBOTA|n_POD_04_instr|J. Yeshua Gileadi-"Sleeping After Dawn"|nd||0:0:53|nd|PRS / Szwaja W.||
+2018-12-01|20:00|21:35|HIT SOBOTA|n_WH_HIT SOBOTA_SLIP_01_m|Burns - "Sizzle Hit"|PRS||0:0:8|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-01|20:00|21:35|HIT SOBOTA|SUPERGIRL|Garvey/Bossert/Padotzke/Rauenbusch/Gomm|Garvey/Bossert/Padotzke/Rauenbusch/Gomm||0:3:32|ANNA NAKLAB FEAT ALLE FARBEN & YOUNOTUS||B1 Recordings|
+2018-12-01|20:00|21:39|HIT SOBOTA|W SIECI|Mączyński Robert , Laura Samojłowicz|Rafał Poniedzielski , Rafał Kazan||0:3:29|ROZBÓJNIK ALIBABA feat. PONO||Prosto Label|
+2018-12-01|20:00|21:39|HIT SOBOTA|n_STG_SŁUCHASZ_04_km|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|20:00|21:42|HIT SOBOTA|n_POD_15_med_instr|Agim Dżeljilji|nd||0:0:42|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|21:43|HIT SOBOTA|n_SLIP PREMIERA TYGODNIA|Arthur Schaer - "Low Rumbler 05"|PRS||0:0:8|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-01|20:00|21:43|HIT SOBOTA|NOTHING BREAKS LIKE A HEART|Cyrus/Ronson/Szymanski/Picard/|Picard/Juber/Brenneck||0:3:35|MARK RONSON FEAT. MILEY CYRUS||SONY|
+2018-12-01|20:00|21:46|HIT SOBOTA|ONE DAY|Asaf Avidan|Asaf Avidan||0:3:29|ASAF AVIDAN||SONY MUSIC POLSKA|
+2018-12-01|20:00|21:50|HIT SOBOTA|n_JRS_19_fast_instr3|Agim Dżeljilji|nd||0:0:27|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|20:00|21:50|HIT SOBOTA|n_WH_NOWOŚĆ_02_m|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-01|20:00|21:50|HIT SOBOTA|PLAY|Aluo/Alexander/Ralph/Emenike|Aluo/Alexander/Ralph/Emenike||0:3:6|JAX JONES AND YEARS & YEARS||POLYDOR|
+2018-12-01|20:00|21:53|HIT SOBOTA|n_JRS_17_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|20:00|21:53|HIT SOBOTA|CLOSER|GREG KURSTIN, SARA QUIN, TEGAN QUIN|GREG KURSTIN, SARA QUIN, TEGAN QUIN||0:3:27|TEGAN AND SARA||warner bros|
+2018-12-01|20:00|21:57|HIT SOBOTA|n_WH_W DOMU_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|20:00|21:57|HIT SOBOTA|CANCION DEL MARIACHI|Cesar Rosas|Cesar Rosas||0:2:3|LOS LOBOS & ANTONIO BANDERAS||EPIC|
+2018-12-01|20:00|21:59|HIT SOBOTA|P_DOMÓWKA 17 (sob)|Zaremba - "Melbourne"|PRS||0:0:44|Jacek Brzostyński|PRS / Szwaja W.||

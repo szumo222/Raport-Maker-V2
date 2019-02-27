@@ -1,0 +1,32 @@
+﻿2018-12-15|15:00|15:00|SPÓR W KINIE|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:28|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|15:00|14:59|SPÓR W KINIE|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:51|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|15:00|00:00|SPÓR W KINIE|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|15:00|00:00|SPÓR W KINIE|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|15:00|15:00|SPÓR W KINIE|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:23|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|15:00|15:03|SPÓR W KINIE|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|15:00|15:04|SPÓR W KINIE|MANEATER|OATES/HALL/ALLEN|OATES/HALL/ALLEN||0:4:28|HALL & OATES||BMG|
+2018-12-15|15:00|15:08|SPÓR W KINIE|n_WH_WEEKEND_03_k|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-15|15:00|15:08|SPÓR W KINIE|NOTHING BREAKS LIKE A HEART|Cyrus/Ronson/Szymanski/Picard/|Picard/Juber/Brenneck||0:3:35|MARK RONSON FEAT. MILEY CYRUS||SONY|
+2018-12-15|15:00|15:11|SPÓR W KINIE|n_POD_SPÓR W KINIE|Loi - "Glitter Swing Symphony"|PRS||0:2:37|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-15|15:00|15:14|SPÓR W KINIE|n_JRS_04_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|15:00|15:14|SPÓR W KINIE|PECH TO NIE GRZECH|Grzegorz Hyży, Konrad Biliński|Grzegorz Hyży||0:3:38|GRZEGORZ HYŻY||SONY|
+2018-12-15|15:00|15:18|SPÓR W KINIE|X_JRS_08_fast_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|15:00|15:18|SPÓR W KINIE|LAST CHRISTMAS|GEORGE MICHAEL|GEORGE MICHAEL||0:4:24|WHAM||EPIC|
+2018-12-15|15:00|15:22|SPÓR W KINIE|n_POD_SPÓR W KINIE|Loi - "Glitter Swing Symphony"|PRS||0:2:16|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-15|15:00|15:24|SPÓR W KINIE|n_JRS_05_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|15:00|15:24|SPÓR W KINIE|CLOSE TO ME|ELLIE GOULDING, DIPLO, SWAE LEE|ELLIE GOULDING, DIPLO, SWAE LEE||0:2:60|ELLIE GOULDING & DIPLO FEAT. SWAE LEE||UNIVERSAL|
+2018-12-15|15:00|15:27|SPÓR W KINIE|W PŁOMIENIACH|Czyżewski/Puk/Chrzanowska/Bartoszak|Czyżewski/Puk/Chrzanowska/Bartoszak||0:3:26|MATEUSZ ZIÓŁKO||WARNER|
+2018-12-15|15:00|15:31|SPÓR W KINIE|n_POD_SPÓR W KINIE|Loi - "Glitter Swing Symphony"|PRS||0:2:40|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-15|15:00|15:33|SPÓR W KINIE|n_JRS_13_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|15:00|15:34|SPÓR W KINIE|DOMINO DANCING|TENNANT, LOWE|TENNANT, LOWE||0:4:15|PET SHOP BOYS||PARLOPHONE|
+2018-12-15|15:00|15:38|SPÓR W KINIE|X_WH_TO JEST_04_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-15|15:00|15:38|SPÓR W KINIE|ELLA|Soler/Triebel/Zuckowski/Chil/Bernard|Soler/Triebel/Zuckowski/Chil/Bernard||0:3:29|ALVARO SOLER||UNIVERSAL|
+2018-12-15|15:00|15:41|SPÓR W KINIE|n_POD_SPÓR W KINIE|Loi - "Glitter Swing Symphony"|PRS||0:2:26|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-15|15:00|15:43|SPÓR W KINIE|X_JRS_11_fast_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|15:00|15:44|SPÓR W KINIE|CORAZ BLIŻEJ ŚWIĘTA|Naftali/Nettlesbey//Nairolf/Thornton/|Lennox/Aris/Temper/Coffey||0:3:26|MARGARET||UNIVERSAL|
+2018-12-15|15:00|15:47|SPÓR W KINIE|n_WH_TO JEST_06_m|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|15:00|15:47|SPÓR W KINIE|HOT2TOUCH|FELIX JAEHN, HIGHT, ALEX AIONO|FELIX JAEHN, HIGHT, ALEX AIONO||0:2:39|FELIX JAEHN, HIGHT & ALEX AIONO||UNIVERSAL|
+2018-12-15|15:00|15:50|SPÓR W KINIE|n_WH_WEEKEND_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:9|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|15:00|15:50|SPÓR W KINIE|LONELY TOGETHER|LEVINE, TAMPOSI|BERGLING||0:2:59|AVICII FEAT. RITA ORA|||
+2018-12-15|15:00|15:52|SPÓR W KINIE|n_JRS_06_med_instr2|Agim Dżeljilji|nd||0:0:19|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|15:00|15:53|SPÓR W KINIE|P_TROCHĘ KULTURY 16.12|Laszlo/Wheeler - "Dreams Come True"|PRS||0:1:4|Jacek Brzostyński, Konrad Wojtyła|PRS / Szwaja W.||

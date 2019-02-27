@@ -1,0 +1,73 @@
+﻿2018-12-14|17:00|17:00|RADIO SZCZECIN PO GODZINACH|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|16:59|RADIO SZCZECIN PO GODZINACH|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:4:3|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|00:00|RADIO SZCZECIN PO GODZINACH|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-14|17:00|00:00|RADIO SZCZECIN PO GODZINACH|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-14|17:00|17:00|RADIO SZCZECIN PO GODZINACH|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:34|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|17:03|RADIO SZCZECIN PO GODZINACH|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|17:03|RADIO SZCZECIN PO GODZINACH|LIGHTS (SINGLE VERSION)|Ash Howes, Goulding , Richard Stannard|Ash Howes, Goulding , Richard Stannard||0:3:30|ELLIE GOULDING||Polydor|
+2018-12-14|17:00|17:07|RADIO SZCZECIN PO GODZINACH|n_STG_PO GODZINACH_02_m|Agim Dżeljilji|Agim Dżeljilji||0:0:8|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-14|17:00|17:07|RADIO SZCZECIN PO GODZINACH|JA IKAR|Ukeje, Marcin Bors|Ukeje, Kasia Lins, Elżbieta Grymuza||0:3:33|DAMIAN UKEJE||UNIVERSAL|
+2018-12-14|17:00|17:11|RADIO SZCZECIN PO GODZINACH|X_POD_08_fast_instr|Agim Dżeljilji|nd||0:1:29|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|17:11|RADIO SZCZECIN PO GODZINACH|X_JRS_08_fast_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:6|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|17:12|RADIO SZCZECIN PO GODZINACH|ALL I WANT FOR CHRISTMAS IS YOU|AFANSIEFF W.|CAREY MARIAH|ND|0:3:53|MARIAH CAREY|AFANASIEFF W./CAREY M.|COLUMBIA|
+2018-12-14|17:00|17:16|RADIO SZCZECIN PO GODZINACH|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:56|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|17:18|RADIO SZCZECIN PO GODZINACH|X_STRS_POD CHOINKĄ_02|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|17:18|RADIO SZCZECIN PO GODZINACH|IN MY MIND|Leoni/Kingsley/Montagner/Di Agostino/|Soon/Sandrini/Forte/Gough||0:2:54|DYNORO & GIGI D'AGOSTINO||SONY|
+2018-12-14|17:00|17:21|RADIO SZCZECIN PO GODZINACH|X_JRS_07_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|17:21|RADIO SZCZECIN PO GODZINACH|I'M STILL HERE|Sia Furler, Jesse Shatkin|Sia Furler, Jesse Shatkin||0:3:57|SIA||ATLANTIC|
+2018-12-14|17:00|17:25|RADIO SZCZECIN PO GODZINACH|n_STG_WEEKEND_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-14|17:00|17:25|RADIO SZCZECIN PO GODZINACH|SŁODKIEGO MIŁEGO ŻYCIA|ŁOSOWSKI SŁAWOMIR|DUTKIEWICZ MAREK||0:5:2|KOMBII||UNIVERSAL|
+2018-12-14|17:00|17:30|RADIO SZCZECIN PO GODZINACH|n_JRS_17_med_instr3|Agim Dżeljilji|nd||0:0:33|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|17:35|RADIO SZCZECIN PO GODZINACH|n_STG_PŁYTA TYGODNIA|Burns - "Morph"|PRS||0:0:6|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-14|17:00|17:35|RADIO SZCZECIN PO GODZINACH|n_POD_06_med_instr|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|17:35|RADIO SZCZECIN PO GODZINACH|n_JRS_06_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|17:35|RADIO SZCZECIN PO GODZINACH|DIE FOR YOUR LOVE|LP|LP||0:3:40|LP|||
+2018-12-14|17:00|17:39|RADIO SZCZECIN PO GODZINACH|n_JRS_14_med2|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|17:39|RADIO SZCZECIN PO GODZINACH|BREAK YOUR HEART|Cruz, Fraser T. Smith, Bridges|Cruz, Fraser T. Smith, Bridges||0:3:12|TAIO CRUZ FEAT. LUDACRIS||Island Records|
+2018-12-14|17:00|17:42|RADIO SZCZECIN PO GODZINACH|X_POD_11_fast_instr|Agim Dżeljilji|nd||0:1:1|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|17:43|RADIO SZCZECIN PO GODZINACH|n_JRS_11_fast_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|17:43|RADIO SZCZECIN PO GODZINACH|RENEGADES|Levin/Harris/Feldshuh/Harris/Da Kid|Levin/Harris/Feldshuh/Harris/Da Kid||0:3:14|X AMBASSADORS||UNIVERSAL|
+2018-12-14|17:00|17:46|RADIO SZCZECIN PO GODZINACH|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:19|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|17:46|RADIO SZCZECIN PO GODZINACH|X_STRS_POD CHOINKĄ_02|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|17:47|RADIO SZCZECIN PO GODZINACH|ELLA ELLE LA|BERGER MICHEL|BERGER MICHEL|ND|0:4:47|FRANCE GALL|APACHE|APACHE|
+2018-12-14|17:00|17:52|RADIO SZCZECIN PO GODZINACH|n_JRS_16_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|17:52|RADIO SZCZECIN PO GODZINACH|GŁUPCY|KONDRACKI, KARWAN, ŚWIERK|KOZAK, KARWAN||0:3:8|ANIA KARWAN||2trackrecords|
+2018-12-14|17:00|17:55|RADIO SZCZECIN PO GODZINACH|n_JRS_06_med_instr2|Agim Dżeljilji|nd||0:0:19|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|18:00|RADIO SZCZECIN PO GODZINACH|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:22|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|17:59|RADIO SZCZECIN PO GODZINACH|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:30|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|00:00|RADIO SZCZECIN PO GODZINACH|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-14|17:00|17:59|RADIO SZCZECIN PO GODZINACH|n_NEWS_poleca|Agim Dżeljilji|Agim Dżeljilji||0:1:40|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|18:04|RADIO SZCZECIN PO GODZINACH|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:37|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|18:04|RADIO SZCZECIN PO GODZINACH|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|18:04|RADIO SZCZECIN PO GODZINACH|FRIDAY I'M IN LOVE|Bamonte/Gallup/Smith/Thompson/Williams|Bamonte/Gallup/Smith/Thompson/Williams||0:3:30|THE CURE||FICTION|
+2018-12-14|17:00|18:08|RADIO SZCZECIN PO GODZINACH|X_JRS_17_med2|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|18:08|RADIO SZCZECIN PO GODZINACH|SWEET BUT PSYCHO|Love/Koci/Walter/Haukeland|Love/Koci/Walter/Haukeland||0:3:4|AVA MAX||WARNER|
+2018-12-14|17:00|18:11|RADIO SZCZECIN PO GODZINACH|n_JRS_21_slow_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|18:11|RADIO SZCZECIN PO GODZINACH|NIECH POMYŚLĄ, ŻE TO JA|Grzegorz Hyży, Konrad Biliński|Grzegorz Hyży, Karolina Kozak||0:3:42|GRZEGORZ HYŻY||SONY|
+2018-12-14|17:00|18:15|RADIO SZCZECIN PO GODZINACH|X_POD_16_med_instr|Agim Dżeljilji|nd||0:0:56|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|18:16|RADIO SZCZECIN PO GODZINACH|n_JRS_16_slow_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|18:16|RADIO SZCZECIN PO GODZINACH|DRIVING HOME FOR CHRISTMAS|Chris Rea|Chris Rea||0:3:54|CHRIS REA|Jon Kelly|WEA|
+2018-12-14|17:00|18:20|RADIO SZCZECIN PO GODZINACH|n_JRS_09_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:6|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|18:20|RADIO SZCZECIN PO GODZINACH|WISH YOU WERE MINE|Sylvia Moy, Henry Cosby, Stevie Wonder|Sylvia Moy, Henry Cosby, Stevie Wonder||0:2:54|PHILIP GEORGE||UNIVERSAL|
+2018-12-14|17:00|18:23|RADIO SZCZECIN PO GODZINACH|SHALLOW (A STAR IS BORN)|Gaga/Wyatt/Rossomando/Ronson|Gaga/Wyatt/Rossomando/Ronson||0:3:34|LADY GAGA & BRADLEY COOPER||UNIVERSAL|
+2018-12-14|17:00|18:23|RADIO SZCZECIN PO GODZINACH|n_WH_WEEKEND_02_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-14|17:00|18:26|RADIO SZCZECIN PO GODZINACH|n_POD_16_med_instr|Agim Dżeljilji|nd||0:0:36|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|18:26|RADIO SZCZECIN PO GODZINACH|n_JRS_16_slow_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|18:34|RADIO SZCZECIN PO GODZINACH|SYRENY|ROJEK/DZIEDZIC/ŁUKASIEWICZ|ROJEK/DZIEDZIC/ŁUKASIEWICZ||0:3:23|ARTUR ROJEK||KAYAX|
+2018-12-14|17:00|18:38|RADIO SZCZECIN PO GODZINACH|n_JRS_05_med_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|17:00|18:38|RADIO SZCZECIN PO GODZINACH|SURVIVE|Schipper, Sande, Davis|Schipper, Sande, Davis||0:3:8|DON DIABLO FT. EMELI SANDE & GUCCI MANE||UNIVERSAL|
+2018-12-14|17:00|18:41|RADIO SZCZECIN PO GODZINACH|n_JRS_23_med_instr2|Agim Dżeljilji|nd||0:0:27|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|18:41|RADIO SZCZECIN PO GODZINACH|n_POD_KAPITAN GOWIN|Dury/Lemay - "Digital Mystery"|PRS||0:3:13|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-14|17:00|18:44|RADIO SZCZECIN PO GODZINACH|n_POD_KAPITAN GOWIN_END|Van Alstine/Stolar-"Black Out the Sun"|PRS||0:0:9|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-14|17:00|18:44|RADIO SZCZECIN PO GODZINACH|DO THEY KNOW IT'S CHRISTMAS?|BAND AID|BAND AID||0:3:39|BAND AID|BAND AID|MERCURY|
+2018-12-14|17:00|18:48|RADIO SZCZECIN PO GODZINACH|X_WH_POD CHOINKĄ_11_km|Agim Dżeljilji|Agim Dżeljilji||0:0:6|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-14|17:00|18:48|RADIO SZCZECIN PO GODZINACH|ANYONE I WANT TO BE|Cottone/Duvall/Cutfather/Wallevik/|Davidsen/Uscilowska/Kumor||0:2:56|ROKSANA WĘGIEL||UNIVERSAL|
+2018-12-14|17:00|18:51|RADIO SZCZECIN PO GODZINACH|n_WH_SŁUCHASZ_03_m|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-14|17:00|18:51|RADIO SZCZECIN PO GODZINACH|BROTHERS IN ARMS|Zürkler/Wellenbrink/Scherer/Stein/Miche|Zürkler/Wellenbrink/Scherer/Stein/Miche||0:2:42|MICAR FEAT. NICO SANTOS||MAGIC RECORDS|
+2018-12-14|17:00|18:54|RADIO SZCZECIN PO GODZINACH|X_POD_07_med_instr|Agim Dżeljilji|nd||0:0:31|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|19:00|RADIO SZCZECIN PO GODZINACH|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:26|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|19:00|RADIO SZCZECIN PO GODZINACH|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:35|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|00:00|RADIO SZCZECIN PO GODZINACH|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-14|17:00|19:00|RADIO SZCZECIN PO GODZINACH|n_NEWS_sport|Agim Dżeljilji|Agim Dżeljilji||0:1:55|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|19:03|RADIO SZCZECIN PO GODZINACH|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:21|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|17:00|19:05|RADIO SZCZECIN PO GODZINACH|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||

@@ -1,0 +1,103 @@
+﻿2018-12-14|20:00|20:00|SZCZECIŃSKA LISTA PRZEBOJÓW|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:26|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|19:59|SZCZECIŃSKA LISTA PRZEBOJÓW|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:27|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|00:00|SZCZECIŃSKA LISTA PRZEBOJÓW|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-14|20:00|00:00|SZCZECIŃSKA LISTA PRZEBOJÓW|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-14|20:00|19:59|SZCZECIŃSKA LISTA PRZEBOJÓW|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:22|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:03|SZCZECIŃSKA LISTA PRZEBOJÓW|n_STRS SLIP_01|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:03|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:51|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:04|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP NASZ TYP_01|Peppos - "Monkey Love"|PRS||0:0:5|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-14|20:00|20:04|SZCZECIŃSKA LISTA PRZEBOJÓW|SAY MY NAME (FEAT. BEBE REXHA AND J. BALVIN)|GUETTA|BALVIN||0:3:15|DAVID GUETTA|||
+2018-12-14|20:00|20:07|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP NASZ TYP_02|Peppos - "Integrated Circus"|PRS||0:0:6|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-14|20:00|20:07|SZCZECIŃSKA LISTA PRZEBOJÓW|BREATHE|Scala/Whelan/Costigan/Cooke|Scala/Whelan/Costigan/Cooke||0:3:10|CAMELPHAT X CRISTOPH FEAT. JEM COOKE||SONY|
+2018-12-14|20:00|20:10|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:19|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:10|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP POCZEKALNIA_02|Burns - "Speeding Turn"|PRS||0:0:7|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-14|20:00|20:11|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:40|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:11|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 31|Baker/Marlo - "Wild Hit 3"|PRS||0:0:5|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|20:11|SZCZECIŃSKA LISTA PRZEBOJÓW|JA IKAR|Ukeje, Marcin Bors|Ukeje, Kasia Lins, Elżbieta Grymuza||0:3:33|DAMIAN UKEJE||UNIVERSAL|
+2018-12-14|20:00|20:15|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP NASZ TYP_03|Baker/Marlo-"Misty Morning Heartbeat 1"|PRS||0:0:8|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-14|20:00|20:15|SZCZECIŃSKA LISTA PRZEBOJÓW|DON'T SLEEP|Allen/Kharbouch/Douglas/Jerkins/|Macklovitch/Gemayel||0:3:18|CHROMEO / FRENCH MONTANA / STEFFLON DON||WARNER|
+2018-12-14|20:00|20:18|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:47|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:19|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 28a|Robert Etoll - "Intense Swoosh 14"|PRS||0:0:4|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|20:19|SZCZECIŃSKA LISTA PRZEBOJÓW|ZA SWOJE|Kamil/Kożuchowski/Pękacki|Kamil/Kożuchowski/Pękacki||0:3:24|ŻELKA||UNIVERSAL|
+2018-12-14|20:00|20:22|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP NOWOŚĆ_02|Peppos - "Exclusion Of Light"|PRS||0:0:7|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-14|20:00|20:22|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 26a|Robert Etoll - "Intense Swoosh 14"|PRS||0:0:5|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|20:22|SZCZECIŃSKA LISTA PRZEBOJÓW|SPEECHLESS|Dohr/Bierbrodt/Schulz/Brunila/Dabruck/|Kramer/Braide||0:3:28|ROBIN SCHULZ FEAT. ERIKA SIROLA||WARNER|
+2018-12-14|20:00|20:26|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:9|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:26|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP NOWOŚĆ_01|Peppos - "Exclusion Of Light"|PRS||0:0:7|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-14|20:00|20:26|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:11|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:26|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 25a|Robert Etoll - "Intense Swoosh 14"|PRS||0:0:4|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|20:26|SZCZECIŃSKA LISTA PRZEBOJÓW|ANYONE I WANT TO BE|Cottone/Duvall/Cutfather/Wallevik/|Davidsen/Uscilowska/Kumor||0:2:56|ROKSANA WĘGIEL||UNIVERSAL|
+2018-12-14|20:00|20:29|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP NOWOŚĆ_02|Peppos - "Exclusion Of Light"|PRS||0:0:7|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-14|20:00|20:29|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 23a|Robert Etoll - "Intense Swoosh 14"|PRS||0:0:5|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|20:29|SZCZECIŃSKA LISTA PRZEBOJÓW|NIE MA MNIE|Uściłowska, Krupski, Morange|Uściłowska, Krupski, Morange||0:3:28|LANBERRY||UNIVERSAL|
+2018-12-14|20:00|20:33|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:23|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:33|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 18a|Robert Etoll - "Intense Swoosh 14"|PRS||0:0:4|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|20:33|SZCZECIŃSKA LISTA PRZEBOJÓW|FADING|Marengo/Montilla/Omar/Gashi/Skött/Deima|Zuber/Oestmann/Zimmer/Dabruck/Kramer/Do||0:3:26|ALLE FARBEN & ILIRA||SONY|
+2018-12-14|20:00|20:36|SZCZECIŃSKA LISTA PRZEBOJÓW|n_JRS_13_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:23|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|20:00|20:37|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 17a|Robert Etoll - "Intense Swoosh 14"|PRS||0:0:4|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|20:37|SZCZECIŃSKA LISTA PRZEBOJÓW|KTO NIE KOCHAŁ|Piotr Cugowski, Marcin Trojanowicz|WOJCIECH BYRSKI||0:3:24|PIOTR CUGOWSKI||SONY|
+2018-12-14|20:00|20:40|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:12|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:40|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP NOWOŚĆ_01|Peppos - "Exclusion Of Light"|PRS||0:0:7|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-14|20:00|20:40|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:8|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:40|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 16a|Robert Etoll - "Intense Swoosh 14"|PRS||0:0:4|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|20:40|SZCZECIŃSKA LISTA PRZEBOJÓW|NOTHING BREAKS LIKE A HEART|Cyrus/Ronson/Szymanski/Picard/|Picard/Juber/Brenneck||0:3:35|MARK RONSON FEAT. MILEY CYRUS||SONY|
+2018-12-14|20:00|20:44|SZCZECIŃSKA LISTA PRZEBOJÓW|X_JRS_22_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:13|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|20:00|20:44|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 15a|Robert Etoll - "Intense Swoosh 14"|PRS||0:0:5|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|20:44|SZCZECIŃSKA LISTA PRZEBOJÓW|SURVIVE|Schipper, Sande, Davis|Schipper, Sande, Davis||0:3:8|DON DIABLO FT. EMELI SANDE & GUCCI MANE||UNIVERSAL|
+2018-12-14|20:00|20:47|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:17|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:48|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 11b|Baker/Marlo - "Wild Hit 3"|PRS||0:0:4|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|20:48|SZCZECIŃSKA LISTA PRZEBOJÓW|HEY DJ|Trainor/Henriques/Barrera/Wallace/|Miranda/Radosevich/de la Torre||0:3:6|CNCO, MEGHAN TRAINOR & SEAN PAUL||SONY|
+2018-12-14|20:00|20:51|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP ŚWIEŻY TOWAR_01|Holter - "Laser Fall"|PRS||0:0:6|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-14|20:00|20:51|SZCZECIŃSKA LISTA PRZEBOJÓW|SUNDAY MORNING|Kirkland/Reunamäki/Dean/Miettinen/|/Lagergren||0:3:1|MATOMA FEAT. JOSIE DUNNE||WARNER|
+2018-12-14|20:00|20:54|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:18|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:54|SZCZECIŃSKA LISTA PRZEBOJÓW|n_STRS SLIP_01|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:54|SZCZECIŃSKA LISTA PRZEBOJÓW|P_SPÓR W KINIE 15.12|Loi - "Glitter Swing Symphony"|PRS||0:0:35|Jacek Brzostyński, Krzysztof Spór|PRS / Szwaja W.||
+2018-12-14|20:00|21:00|SZCZECIŃSKA LISTA PRZEBOJÓW|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|20:59|SZCZECIŃSKA LISTA PRZEBOJÓW|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:42|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|00:00|SZCZECIŃSKA LISTA PRZEBOJÓW|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-14|20:00|20:59|SZCZECIŃSKA LISTA PRZEBOJÓW|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:21|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|21:03|SZCZECIŃSKA LISTA PRZEBOJÓW|n_STRS SLIP_01|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|21:03|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 10b|Baker/Marlo - "Wild Hit 3"|PRS||0:0:5|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|21:03|SZCZECIŃSKA LISTA PRZEBOJÓW|ĆMA (GROMEE REMIX)|Reni Jusis, Stendek|WERONIKA LEWANDOWSKA||0:3:11|RENI JUSIS||SONY|
+2018-12-14|20:00|21:06|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:36|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|21:07|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 9b|Baker/Marlo - "Wild Hit 3"|PRS||0:0:4|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|21:07|SZCZECIŃSKA LISTA PRZEBOJÓW|NATURAL|Reynolds/Sermon/McKee/Fredriksson|Larsson/Tranter/Platzman||0:3:6|IMAGINE DRAGONS||UNIVERSAL|
+2018-12-14|20:00|21:10|SZCZECIŃSKA LISTA PRZEBOJÓW|n_STG_WEEKEND_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:5|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-14|20:00|21:10|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 8b|Baker/Marlo - "Wild Hit 3"|PRS||0:0:5|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|21:10|SZCZECIŃSKA LISTA PRZEBOJÓW|GIRLS GO WILD|Pergolizzi/Gonzalez/Campany|Pergolizzi/Gonzalez/Campany||0:3:35|LP||UNIVERSAL|
+2018-12-14|20:00|21:14|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:31|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|21:14|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP PREMIERA TYGODNIA|Arthur Schaer - "Low Rumbler 05"|PRS||0:0:8|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-14|20:00|21:14|SZCZECIŃSKA LISTA PRZEBOJÓW|THE POWER OF LOVE|Gill/Johnson/O'Toole/Nash|Gill/Johnson/O'Toole/Nash||0:3:9|DALTON HARRIS FEAT. JAMES ARTHUR||SYCO|
+2018-12-14|20:00|21:17|SZCZECIŃSKA LISTA PRZEBOJÓW|n_STRS SLIP_01|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|21:17|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 7b|Baker/Marlo - "Wild Hit 3"|PRS||0:0:4|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|21:17|SZCZECIŃSKA LISTA PRZEBOJÓW|NIE MA FAL|Bartek Dziedzic, Dawid Podsiadło|Dawid Podsiadło||0:3:57|DAWID PODSIADŁO||SONY|
+2018-12-14|20:00|21:21|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:45|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|21:22|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP Z ARCHIWUM|Burns - "Sizzle Hit"|PRS||0:0:9|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-14|20:00|21:22|SZCZECIŃSKA LISTA PRZEBOJÓW|NO ORDINARY LOVE|Sade Adu, Stuart Matthewman|Sade Adu, Stuart Matthewman||0:3:58|SADE||EPIC|
+2018-12-14|20:00|21:26|SZCZECIŃSKA LISTA PRZEBOJÓW|n_STG_SŁUCHASZ_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-14|20:00|21:26|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 6b|Baker/Marlo - "Wild Hit 3"|PRS||0:0:5|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|21:26|SZCZECIŃSKA LISTA PRZEBOJÓW|FIJI (CLEAN VERSION)|BORUCCI|FILIP SZCZEŚNIAK||0:4:0|TACO HEMINGWAY|BORUCCI|Taco Corp. Asfalt Records|
+2018-12-14|20:00|21:30|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:52|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|21:31|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP NASZ TYP_02|Peppos - "Integrated Circus"|PRS||0:0:6|Jacek Brzostyński|PRS / Kowalski K.||
+2018-12-14|20:00|21:31|SZCZECIŃSKA LISTA PRZEBOJÓW|PŁAKAŁA|Ignatchenko Andrii, Yermolaiev Serhii|Lokshin Sergii||0:3:42|KAZKA|||
+2018-12-14|20:00|21:35|SZCZECIŃSKA LISTA PRZEBOJÓW|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|20:00|21:35|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 5b|Baker/Marlo - "Wild Hit 3"|PRS||0:0:4|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|21:35|SZCZECIŃSKA LISTA PRZEBOJÓW|HIGH HOPES|URIE|SINCLAIR||0:3:9|PANIC! AT THE DISCO|||
+2018-12-14|20:00|21:38|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:14|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|21:38|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 49|Baker/Marlo - "Wild Hit 3"|PRS||0:0:5|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|21:38|SZCZECIŃSKA LISTA PRZEBOJÓW|I'M STILL HERE|Sia Furler, Jesse Shatkin|Sia Furler, Jesse Shatkin||0:3:57|SIA||ATLANTIC|
+2018-12-14|20:00|21:42|SZCZECIŃSKA LISTA PRZEBOJÓW|n_JRS_10_trans_short|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|20:00|21:42|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 4b|Baker/Marlo - "Wild Hit 3"|PRS||0:0:4|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|21:42|SZCZECIŃSKA LISTA PRZEBOJÓW|LET YOU LOVE ME|ORA|ORA||0:3:6|RITA ORA|||
+2018-12-14|20:00|21:45|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:22|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|21:46|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 3b|Baker/Marlo - "Wild Hit 3"|PRS||0:0:4|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|21:46|SZCZECIŃSKA LISTA PRZEBOJÓW|WYSTARCZĘ JA|Paweł Domagała, Łukasz Borowiecki|PAWEŁ DOMAGAŁA||0:3:22|PAWEŁ DOMAGAŁA||Domagała-Borowiecki S.C.|
+2018-12-14|20:00|21:49|SZCZECIŃSKA LISTA PRZEBOJÓW|n_JRS_23_med|Agim Dzeljilji|Agim Dzeljilji||0:0:14|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-14|20:00|21:49|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 2b|Baker/Marlo - "Wild Hit 3"|PRS||0:0:5|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|21:49|SZCZECIŃSKA LISTA PRZEBOJÓW|SWEET BUT PSYCHO|Love/Koci/Walter/Haukeland|Love/Koci/Walter/Haukeland||0:3:4|AVA MAX||WARNER|
+2018-12-14|20:00|21:52|SZCZECIŃSKA LISTA PRZEBOJÓW|n_POD_12_fast_instr|Agim Dżeljilji|nd||0:0:24|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|21:53|SZCZECIŃSKA LISTA PRZEBOJÓW|n_SLIP MIEJSCE 1b|Baker/Marlo-"Misty Morning Heartbeat 1"|PRS||0:0:5|Agnieszka Aleksandrowicz|PRS / Kowalski K.||
+2018-12-14|20:00|21:53|SZCZECIŃSKA LISTA PRZEBOJÓW|SHALLOW (A STAR IS BORN)|Gaga/Wyatt/Rossomando/Ronson|Gaga/Wyatt/Rossomando/Ronson||0:3:34|LADY GAGA & BRADLEY COOPER||UNIVERSAL|
+2018-12-14|20:00|21:56|SZCZECIŃSKA LISTA PRZEBOJÓW|n_STRS SLIP_01|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-14|20:00|21:56|SZCZECIŃSKA LISTA PRZEBOJÓW|P_RS NA ROCKOWO 05|Nash/Ruff - "Badcats"|PRS||0:0:55|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-14|20:00|21:59|SZCZECIŃSKA LISTA PRZEBOJÓW|n_P_CZĘSTOTLIWOŚĆ_01|Agim Dżeljilji|PRS||0:0:22|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||

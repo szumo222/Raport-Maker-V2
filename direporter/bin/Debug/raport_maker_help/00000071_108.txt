@@ -1,0 +1,53 @@
+﻿2018-12-15|18:00|18:00|HALO, STADION|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:32|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|17:59|HALO, STADION|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:23|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|00:00|HALO, STADION|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|18:00|00:00|HALO, STADION|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|18:00|18:00|HALO, STADION|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:25|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|18:03|HALO, STADION|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|18:00|18:03|HALO, STADION|HALO STADION                ZE|ND|ND|ND|0:0:11|EFEKT|PRS|ND|
+2018-12-15|18:00|18:03|HALO, STADION|EYE OF THE TIGER|Frankie Sullivan, Jim Peterik|Frankie Sullivan, Jim Peterik||0:3:46|SURVIVOR||EMI|
+2018-12-15|18:00|18:07|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:3:34|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|18:07|HALO, STADION|n_JRS_04_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|18:00|18:11|HALO, STADION|ĆMA (GROMEE REMIX)|Reni Jusis, Stendek|WERONIKA LEWANDOWSKA||0:3:11|RENI JUSIS||SONY|
+2018-12-15|18:00|18:14|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:1:16|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|18:14|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:56|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|18:25|HALO, STADION|n_JRS_08_fast_short|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|18:00|18:26|HALO, STADION|POWER OVER ME|Kennedy, Kozmeniuk, Harris|Kennedy, Kozmeniuk, Harris||0:3:17|DERMOT KENNEDY||UNIVERSAL|
+2018-12-15|18:00|18:29|HALO, STADION|n_WH_WEEKEND_02_km|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-15|18:00|18:29|HALO, STADION|DACH|BARTOSZ ZIELONY|Patrycja Kosiarkiewicz||0:3:46|TABB & SOUND 'N' GRACE||MYMUSIC|
+2018-12-15|18:00|18:33|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:35|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|18:33|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:27|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|18:39|HALO, STADION|n_JRS_11_fast_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|18:00|18:40|HALO, STADION|ANGELS (LOVE IS THE ANSWER)|Marius Moga, Andrei Ropcea|Marius Moga, Andrei Ropcea||0:3:45|MORANDI|MORANDI|UNIVERSAL|
+2018-12-15|18:00|18:43|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:28|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|18:43|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:24|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|18:50|HALO, STADION|n_JRS_21_slow_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|18:00|18:50|HALO, STADION|KTO NIE KOCHAŁ|Piotr Cugowski, Marcin Trojanowicz|WOJCIECH BYRSKI||0:3:24|PIOTR CUGOWSKI||SONY|
+2018-12-15|18:00|18:53|HALO, STADION|n_JRS_06_med_instr2|Agim Dżeljilji|nd||0:0:19|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|18:54|HALO, STADION|P_TROCHĘ KULTURY 16.12|Laszlo/Wheeler - "Dreams Come True"|PRS||0:1:4|Jacek Brzostyński, Konrad Wojtyła|PRS / Szwaja W.||
+2018-12-15|18:00|19:00|HALO, STADION|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:29|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|18:59|HALO, STADION|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:22|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|00:00|HALO, STADION|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|18:00|00:00|HALO, STADION|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|18:00|19:00|HALO, STADION|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:23|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|19:03|HALO, STADION|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|18:00|19:04|HALO, STADION|HALO STADION                ZE|ND|ND|ND|0:0:11|EFEKT|PRS|ND|
+2018-12-15|18:00|19:03|HALO, STADION|SELF CONTROL|BRIGAZZI|REIFOLI|ND|0:4:3|LAURA BRANIGAN|EMI|EMI|
+2018-12-15|18:00|19:07|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:1:1|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|19:08|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:12|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|19:10|HALO, STADION|n_JRS_19_fast|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|18:00|19:10|HALO, STADION|DYM|Wojciech Baranowski|Wojciech Baranowski||0:3:33|BARANOVSKI||POMATON|
+2018-12-15|18:00|19:14|HALO, STADION|n_STG_WEEKEND_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-15|18:00|19:14|HALO, STADION|PROMISES|Jessie Reyez, Sam Smith, Adam Wiles|Jessie Reyez, Sam Smith, Adam Wiles||0:3:33|CALVIN HARRIS FEAT. SAM SMITH||SONY|
+2018-12-15|18:00|19:18|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:11:55|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|19:18|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:52|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|19:30|HALO, STADION|n_JRS_14_med3|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|18:00|19:31|HALO, STADION|KRÓLOWA ŁEZ|Bartosz Krolik, Marek Piotrowski|Agnieszka Chylińska||0:4:21|AGNIESZKA CHYLIŃSKA||WARNER MUSIC POLSKA|
+2018-12-15|18:00|19:35|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:9:19|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|19:45|HALO, STADION|n_JRS_11_fast_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|18:00|19:45|HALO, STADION|FIRE IN MY HEAD|Grzegorz "C-BooL" Cebula|Grzegorz "C-BooL" Cebula||0:2:57|C-BOOL FEAT. CADENCE XYZ||C-Wave Records|
+2018-12-15|18:00|19:48|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:3:28|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|19:51|HALO, STADION|n_JRS_08_fast_short|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|18:00|19:51|HALO, STADION|OSTATNI MOST|PIOTR SIEJKA|LANBERRY||0:3:40|LANBERRY||UNIVERSAL|
+2018-12-15|18:00|19:55|HALO, STADION|n_POD_SPORT_01_fast_instr|Agim Dżeljilji|Agim Dżeljilji||0:1:15|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-15|18:00|19:55|HALO, STADION|P_PRACA 164 KUBICA WRACA|Kenny Korade - "We Are Young Tonight"|PRS||0:0:53|Jacek Brzostyński|PRS / Szwaja W.||

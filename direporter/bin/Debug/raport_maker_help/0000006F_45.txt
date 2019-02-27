@@ -1,0 +1,9 @@
+﻿2018-12-11|22:00|22:00|FONOSFERA|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:26|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-11|22:00|21:59|FONOSFERA|n_NEWS_main_bez_pików_long|Agim Dżeljilji|Agim Dżeljilji||0:3:52|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-11|22:00|00:00|FONOSFERA|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-11|22:00|00:00|FONOSFERA|n_NEWS_więcej|nd|nd||0:0:2|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-11|22:00|22:00|FONOSFERA|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:25|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-11|22:00|22:04|FONOSFERA|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-11|22:00|22:55|FONOSFERA|NA JEDEN MOMENT|Bartosz Zielony Tabb|Arek Kłusowski||0:3:11|ZOUZY|||
+2018-12-11|22:00|22:58|FONOSFERA|n_WH_TO JEST_01_km|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-11|22:00|22:58|FONOSFERA|NIC TU PO MNIE|Kumór/Pietrzak/|Buczkowski-Wojtaszek/Bielecki||0:2:37|MICHAŁ SZCZYGIEŁ||UNIVERSAL|

@@ -1,0 +1,97 @@
+﻿2018-12-13|06:00|06:00|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:24|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|05:59|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:4:20|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|00:00|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|06:00|00:00|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|06:00|05:59|RADIO SZCZECIN NA DZIEŃ DOBRY|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:36|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|06:04|RADIO SZCZECIN NA DZIEŃ DOBRY|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|06:03|RADIO SZCZECIN NA DZIEŃ DOBRY|THIS IS THE WORLD WE LIVE IN|EDWARDS/ROGERS/COLLINS/BANKS/RUTHERFORD|EDWARDS/ROGERS/COLLINS/BANKS/RUTHERFORD|ND|0:3:32|ALCAZAR|VON DER BURG JONAS|BMG|
+2018-12-13|06:00|06:08|RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_09_med|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|06:08|RADIO SZCZECIN NA DZIEŃ DOBRY|POWER OVER ME|Kennedy, Kozmeniuk, Harris|Kennedy, Kozmeniuk, Harris||0:3:17|DERMOT KENNEDY||UNIVERSAL|
+2018-12-13|06:00|06:11|RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_22_slow_instr|Agim Dżeljilji|nd||0:1:6|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|06:13|RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_22_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:13|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|06:13|RADIO SZCZECIN NA DZIEŃ DOBRY|CORAZ BLIŻEJ ŚWIĘTA|Naftali/Nettlesbey//Nairolf/Thornton/|Lennox/Aris/Temper/Coffey||0:3:26|MARGARET||UNIVERSAL|
+2018-12-13|06:00|06:16|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:16|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|06:16|RADIO SZCZECIN NA DZIEŃ DOBRY|X_STRS_PORANEK_01|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|06:17|RADIO SZCZECIN NA DZIEŃ DOBRY|IGNITE  (FEAT. SEUNGRI & JULIE BERGAN)|K-391, ALAN WALKER|KARLSEN||0:3:25|K-391 & ALAN WALKER|||
+2018-12-13|06:00|06:21|RADIO SZCZECIN NA DZIEŃ DOBRY|X_POD_08_fast_instr|Agim Dżeljilji|nd||0:0:47|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|06:21|RADIO SZCZECIN NA DZIEŃ DOBRY|X_JRS_08_fast_sting|Agim Dzeljilji|Agim Dzeljilji||0:0:6|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|06:22|RADIO SZCZECIN NA DZIEŃ DOBRY|JESUS HE KNOWS ME|BANKS TONY,RUTHERFORD MIKE|COLLINS PHIL||0:4:13|GENESIS|VIRGIN RECORDS LTD.|VIRGIN RECORDS LTD.|
+2018-12-13|06:00|06:26|RADIO SZCZECIN NA DZIEŃ DOBRY|P_DOMÓWKA 17 (sob)|Zaremba - "Melbourne"|PRS||0:0:44|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-13|06:00|06:28|RADIO SZCZECIN NA DZIEŃ DOBRY|n_P_CZĘSTOTLIWOŚĆ_01|Agim Dżeljilji|PRS||0:0:22|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||
+2018-12-13|06:00|06:29|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:1:26|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|06:29|RADIO SZCZECIN NA DZIEŃ DOBRY|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:38|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|06:30|RADIO SZCZECIN NA DZIEŃ DOBRY|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|06:31|RADIO SZCZECIN NA DZIEŃ DOBRY|ZASKAKUJ MNIE|MARCIN SÓJKA|MARCIN SÓJKA||0:2:39|MARCIN SÓJKA||UNIVERSAL|
+2018-12-13|06:00|06:33|RADIO SZCZECIN NA DZIEŃ DOBRY|SWEET LOVIN'|Bruce Fielder, Bryn Christopher|Bruce Fielder, Bryn Christopher||0:3:21|SIGALA||MAGIC RECORDS|
+2018-12-13|06:00|06:33|RADIO SZCZECIN NA DZIEŃ DOBRY|n_STG_PORANEK_03_m|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|06:00|06:37|RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_14_med_instr|Agim Dżeljilji|nd||0:1:9|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|06:37|RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_14_med1|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|06:38|RADIO SZCZECIN NA DZIEŃ DOBRY|DO THEY KNOW IT'S CHRISTMAS (2014)|Midge Ure, Bob Geldof|Midge Ure, Bob Geldof||0:3:33|BAND AID 30||UNIVERSAL|
+2018-12-13|06:00|06:41|RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_06_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|06:41|RADIO SZCZECIN NA DZIEŃ DOBRY|LA CINTURA (REMIX)|ALVARO SOLER|ALVARO SOLER||0:2:56|ALVARO SOLER FEAT. FLO RIDA & TINI||UNIVERSAL|
+2018-12-13|06:00|06:44|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:12|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|06:44|RADIO SZCZECIN NA DZIEŃ DOBRY|X_STRS_PORANEK_01|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|06:45|RADIO SZCZECIN NA DZIEŃ DOBRY|SERCE NIE SŁUGA|A. Dąbrowska|A. Dąbrowska, D. Melosik, M. Melosik||0:3:9|ANIA DĄBROWSKA||SONY|
+2018-12-13|06:00|06:49|RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_PORANEK_03_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-13|06:00|06:49|RADIO SZCZECIN NA DZIEŃ DOBRY|RADIO GA GA|TAYLOR ROGER|TAYLOR ROGER|ND|0:5:41|QUEEN|QUEEN/MACK|PARLOPHONE|
+2018-12-13|06:00|06:54|RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-13|06:00|06:54|RADIO SZCZECIN NA DZIEŃ DOBRY|KING OF THE JUNGLE|SHUNGUY|SHUNGUY||0:2:37|SHANGUY||UNIVERSAL|
+2018-12-13|06:00|06:57|RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_20_med_instr2|Agim Dżeljilji|nd||0:0:13|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|06:57|RADIO SZCZECIN NA DZIEŃ DOBRY|P_PRACA 164 KUBICA WRACA|Kenny Korade - "We Are Young Tonight"|PRS||0:0:53|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-13|06:00|07:00|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:00|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:4:34|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|00:00|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_komentuj|nd|nd||0:0:4|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|06:00|00:00|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|06:00|07:00|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_sport|Agim Dżeljilji|Agim Dżeljilji||0:1:53|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:06|RADIO SZCZECIN NA DZIEŃ DOBRY|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:49|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:07|RADIO SZCZECIN NA DZIEŃ DOBRY|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|07:04|RADIO SZCZECIN NA DZIEŃ DOBRY|ON TOP OF THE WORLD|Imagine Dragons, Alex da Kid|Imagine Dragons, Alex da Kid||0:3:5|IMAGINE DRAGONS||UNIVERSAL|
+2018-12-13|06:00|07:10|RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_16_med_instr|Agim Dżeljilji|nd||0:1:40|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:12|RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_16_slow_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|07:12|RADIO SZCZECIN NA DZIEŃ DOBRY|SPEECHLESS|Dohr/Bierbrodt/Schulz/Brunila/Dabruck/|Kramer/Braide||0:3:28|ROBIN SCHULZ FEAT. ERIKA SIROLA||WARNER|
+2018-12-13|06:00|07:15|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:30|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:17|RADIO SZCZECIN NA DZIEŃ DOBRY|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:49|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:17|RADIO SZCZECIN NA DZIEŃ DOBRY|X_STRS_PORANEK_01|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|07:18|RADIO SZCZECIN NA DZIEŃ DOBRY|MERRY CHRISTMAS EVERYONE|B.HEATLE|B.HEATLE|ND|0:3:39|SHAKIN' STEVENS|RTL TELEVISION|RTL TELEVISION|
+2018-12-13|06:00|07:21|RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_08_fast_instr2|Agim Dżeljilji|nd||0:0:20|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:23|RADIO SZCZECIN NA DZIEŃ DOBRY|OSTATNI MOST|PIOTR SIEJKA|LANBERRY||0:3:40|LANBERRY||UNIVERSAL|
+2018-12-13|06:00|07:26|RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_02_slow_instr|Agim Dżeljilji|nd||0:0:13|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:31|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:1:21|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:31|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_poleca|Agim Dżeljilji|Agim Dżeljilji||0:1:9|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:32|RADIO SZCZECIN NA DZIEŃ DOBRY|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:51|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:34|RADIO SZCZECIN NA DZIEŃ DOBRY|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|07:34|RADIO SZCZECIN NA DZIEŃ DOBRY|SHOW ME HOW TO LOVE|EXAMPLE|EXAMPLE||0:3:35|EXAMPLE FEAT. HAYLA||Staneric Reccordings|
+2018-12-13|06:00|07:38|RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_14_med_instr|Agim Dżeljilji|nd||0:0:11|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:38|RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_KAPITAN GOWIN|Dury/Lemay - "Digital Mystery"|PRS||0:3:22|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-13|06:00|07:41|RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_KAPITAN GOWIN_END|Van Alstine/Stolar-"Black Out the Sun"|PRS||0:0:9|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-13|06:00|07:41|RADIO SZCZECIN NA DZIEŃ DOBRY|WHAT THE WORLD NEEDS NOW|Hal David, Burt Bacharach|Hal David, Burt Bacharach||0:3:9|ANNA KARWAN||WARNER|
+2018-12-13|06:00|07:44|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:33|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:46|RADIO SZCZECIN NA DZIEŃ DOBRY|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:58|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:46|RADIO SZCZECIN NA DZIEŃ DOBRY|X_STRS_PORANEK_01|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|07:47|RADIO SZCZECIN NA DZIEŃ DOBRY|POCZĄTEK|KRZYSZTOF ZALEWSKI|KRZYSZTOF ZALEWSKI||0:3:53|KORTEZ / PODSIADŁO / ZALEWSKI||KAYAX|
+2018-12-13|06:00|07:50|RADIO SZCZECIN NA DZIEŃ DOBRY|REALITY|van de Polder/Miedema/Felix de Laet|van de Polder/Miedema/Felix de Laet||0:2:30|LOST FREQUENCIES FEAT. JANIECK DEVY||MAGIC RECORDS|
+2018-12-13|06:00|07:50|RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-13|06:00|07:51|RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_RS_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-13|06:00|07:53|RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_16_med_instr|Agim Dżeljilji|nd||0:0:15|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:59|RADIO SZCZECIN NA DZIEŃ DOBRY|n_P_CZĘSTOTLIWOŚĆ_02|Agim Dżeljilji|PRS||0:0:24|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||
+2018-12-13|06:00|08:00|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:28|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|07:59|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:57|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|00:00|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_czujny tel|nd|nd||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|06:00|00:00|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|06:00|07:59|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_sport|Agim Dżeljilji|Agim Dżeljilji||0:2:13|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|08:05|RADIO SZCZECIN NA DZIEŃ DOBRY|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:50|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|08:06|RADIO SZCZECIN NA DZIEŃ DOBRY|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|08:04|RADIO SZCZECIN NA DZIEŃ DOBRY|A SKY FULL OF STARS|COLDPLAY/AVICII|COLDPLAY/AVICII||0:3:54|COLDPLAY||WARNER|
+2018-12-13|06:00|08:10|RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_16_med_instr|Agim Dżeljilji|nd||0:1:17|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|08:10|RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_16_slow_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|08:11|RADIO SZCZECIN NA DZIEŃ DOBRY|KTO WIE|ZIELIŃSKI|INTRATOR||0:3:46|DE SU|DE SU|ZIC ZAC|
+2018-12-13|06:00|08:15|RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:38|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|08:16|RADIO SZCZECIN NA DZIEŃ DOBRY|X_STRS_PORANEK_01|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|08:17|RADIO SZCZECIN NA DZIEŃ DOBRY|SWEET BUT PSYCHO|Love/Koci/Walter/Haukeland|Love/Koci/Walter/Haukeland||0:3:4|AVA MAX||WARNER|
+2018-12-13|06:00|08:20|RADIO SZCZECIN NA DZIEŃ DOBRY|BEAT IT|JACKSON M.|JACKSON M.||0:4:16|MICHAEL JACKSON||EPIC|
+2018-12-13|06:00|08:20|RADIO SZCZECIN NA DZIEŃ DOBRY|n_STG_PORANEK_06_m|Agim Dżeljilji|Agim Dżeljilji||0:0:9|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|06:00|08:24|RADIO SZCZECIN NA DZIEŃ DOBRY|P_KRAWAT 04|Di/Portal - "Digitoys"|PRS||0:0:50|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-13|06:00|08:30|RADIO SZCZECIN NA DZIEŃ DOBRY|n_ST_KRAWAT|Tomasz Lewandowski|PRS||0:0:9|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-13|06:00|08:52|RADIO SZCZECIN NA DZIEŃ DOBRY|X_STRS_POD CHOINKĄ_02|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|06:00|08:53|RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_08_fast_instr|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|06:00|08:53|RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_08_fast_instr|Agim Dżeljilji|nd||0:0:12|Agim Dżeljilji|Agim Dżeljilji||

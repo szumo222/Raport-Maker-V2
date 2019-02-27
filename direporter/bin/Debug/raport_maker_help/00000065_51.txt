@@ -1,0 +1,10 @@
+﻿2018-12-12|01:00|01:00|CZAS REAKCJI|n_P_CZĘSTOTLIWOŚĆ_02|Agim Dżeljilji|PRS||0:0:24|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||
+2018-12-12|01:00|01:00|CZAS REAKCJI|n_STG_POWTÓRKA czoło|Aumueller, Gargani -"Information Age"|PRS||0:0:6|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-12|01:00|01:46|CZAS REAKCJI|n_STG_POWTÓRKA end|Aumueller, Gargani -"Information Age"|PRS||0:0:7|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-12|01:00|01:46|CZAS REAKCJI|LUGOLA|BARBARA WROŃSKA|RADOSŁAW ŁUKASIEWICZ||0:3:26|PUSTKI||AGORA SA|
+2018-12-12|01:00|01:49|CZAS REAKCJI|n_WH_TO JEST_02_k|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-12|01:00|01:49|CZAS REAKCJI|TA DROGA BYŁA DALEKA|LEMBICZ,WAWRZYNIAK,STRZELECKI,ŻMUDA,STA|STANISŁAW STASZEWSKI||0:3:26|KAZIK I KWARTET PROFORMA||S.P. RECORDS|
+2018-12-12|01:00|01:53|CZAS REAKCJI|n_STG_TO JEST_03_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-12|01:00|01:53|CZAS REAKCJI|DOBRE MYŚLI|Sylwia Grzeszczak|Marcin Liber Piotrowski||0:3:19|SYLWIA GRZESZCZAK & LIBER||WARNER|
+2018-12-12|01:00|01:56|CZAS REAKCJI|NASZE RENDEZ-VOUS|TKACZYK|TKACZYK||0:4:16|KOMBII||UNIVERSAL|
+2018-12-12|01:00|01:56|CZAS REAKCJI|n_WH_SŁUCHASZ_03_m|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński|Agim Dżeljilji||

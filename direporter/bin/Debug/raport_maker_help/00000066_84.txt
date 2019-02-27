@@ -1,0 +1,12 @@
+﻿2018-12-14|01:00|01:00|CZAS REAKCJI|n_P_CZĘSTOTLIWOŚĆ_02|Agim Dżeljilji|PRS||0:0:24|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||
+2018-12-14|01:00|01:00|CZAS REAKCJI|n_STG_POWTÓRKA czoło|Aumueller, Gargani -"Information Age"|PRS||0:0:6|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-14|01:00|01:44|CZAS REAKCJI|n_STG_POWTÓRKA end|Aumueller, Gargani -"Information Age"|PRS||0:0:7|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-14|01:00|01:44|CZAS REAKCJI|CHARLIE CHARLIE|FRISK / MATTSON|FRISK / MATTSON|WARSZAWSKA|0:2:57|ANIA|KONDRACKI / ANIA|BMG|
+2018-12-14|01:00|01:47|CZAS REAKCJI|n_WH_TO JEST_02_k|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-14|01:00|01:47|CZAS REAKCJI|GOTOWI NA WSZYSTKO|Manovski, Kupicha, Uściłowska|Manovski, Kupicha, Uściłowska||0:3:35|FEEL & LANBERRY||UNIVERSAL|
+2018-12-14|01:00|01:50|CZAS REAKCJI|n_WH_SŁUCHASZ_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-14|01:00|01:50|CZAS REAKCJI|WSZYSTKO DOBRZE|ANIA DĄBROWSKA|ANDRZEJ PIASECZNY||0:3:30|ANDRZEJ PIASECZNY||SONY|
+2018-12-14|01:00|01:54|CZAS REAKCJI|n_WH_W DOMU_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-14|01:00|01:54|CZAS REAKCJI|LUBIĘ WRACAĆ TAM GDZIE BYŁEM|WODECKI|MŁYNARSKI||0:4:17|ZBIGNIEW WODECKI||MAGIC RECORDS|
+2018-12-14|01:00|01:58|CZAS REAKCJI|n_WH_RS_02_km|Agim Dżeljilji|Agim Dżeljilji||0:0:6|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-14|01:00|01:58|CZAS REAKCJI|ŻYCIE KOCHAM CIĘ NAD ŻYCIE|KORCZ W.|MŁYNARSKI W.|ND|0:2:56|EDYTA GEPPERT|POLSKIE RADIO SA|POLSKIE RADIO SA|

@@ -1,0 +1,12 @@
+﻿2018-12-11|01:00|01:00|CZAS REAKCJI|n_P_CZĘSTOTLIWOŚĆ_02|Agim Dżeljilji|PRS||0:0:24|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||
+2018-12-11|01:00|01:00|CZAS REAKCJI|n_STG_POWTÓRKA czoło|Aumueller, Gargani -"Information Age"|PRS||0:0:6|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-11|01:00|01:44|CZAS REAKCJI|n_STG_POWTÓRKA end|Aumueller, Gargani -"Information Age"|PRS||0:0:7|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-11|01:00|01:44|CZAS REAKCJI|NA CZEŚĆ WARIATA|Wojciech Klich|Wojciech Klich||0:2:43|ANIA WYSZKONI||SONY|
+2018-12-11|01:00|01:47|CZAS REAKCJI|n_WH_RS_02_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-11|01:00|01:47|CZAS REAKCJI|KRÓLOWA ŁEZ|Bartosz Krolik, Marek Piotrowski|Agnieszka Chylińska||0:4:21|AGNIESZKA CHYLIŃSKA||WARNER MUSIC POLSKA|
+2018-12-11|01:00|01:51|CZAS REAKCJI|n_STG_TO JEST_04_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-11|01:00|01:51|CZAS REAKCJI|NOC I DZIEŃ|Grzegorz Hyży, Konrad Biliński|Grzegorz Hyży, Maciej Tacher||0:3:17|GRZEGORZ HYŻY||SONY|
+2018-12-11|01:00|01:55|CZAS REAKCJI|n_WH_W DOMU_05_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-11|01:00|01:55|CZAS REAKCJI|JESZCZE BLIŻEJ|BANAŚ T.|PIASECZNY A.|ND|0:3:53|ANDRZEJ PIASECZNY|PRZYTUŁA M.|BMG POLAND|
+2018-12-11|01:00|01:58|CZAS REAKCJI|n_WH_SŁUCHASZ_03_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-11|01:00|01:58|CZAS REAKCJI|ACIDLAND|KUDERSKI|MYSZOR|ND|0:4:8|MYSLOVITZ|SONY|SONY MUSIC|

@@ -1,0 +1,20 @@
+﻿2018-12-13|16:00|16:00|WSZYSTKO NA GORĄCO|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:31|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|15:59|WSZYSTKO NA GORĄCO|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:4:14|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|00:00|WSZYSTKO NA GORĄCO|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-13|16:00|16:00|WSZYSTKO NA GORĄCO|X_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:35|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:04|WSZYSTKO NA GORĄCO|X_STRS_POD CHOINKĄ_01|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|16:00|16:04|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:5:59|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:09|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:4:13|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:14|WSZYSTKO NA GORĄCO|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:1:20|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:15|WSZYSTKO NA GORĄCO|X_STRS_POD CHOINKĄ_02|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-13|16:00|16:16|WSZYSTKO NA GORĄCO|n_POD_WNG_LONG_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:21|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:16|WSZYSTKO NA GORĄCO|n_POD_WNG_Samorządowa przeplatanka|Sans - "Infobahn"|PRS||0:10:13|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-13|16:00|16:16|WSZYSTKO NA GORĄCO|n_POD_WNG_LONG_instr|Agim Dżeljilji|Agim Dżeljilji||0:0:16|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:26|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_END|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:31|WSZYSTKO NA GORĄCO|n_NEWS_head v.3 do flesza|Agim Dżeljilji|nd||0:1:37|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:31|WSZYSTKO NA GORĄCO|n_POD_WNG_prasa niemiecka|Agim Dżeljilji|Agim Dżeljilji||0:0:20|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:36|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:9:29|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:45|WSZYSTKO NA GORĄCO|n_NEWS_auto|Agim Dżeljilji|Agim Dżeljilji||0:0:56|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:46|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_LONG|Agim Dżeljilji|Agim Dżeljilji||0:6:52|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:53|WSZYSTKO NA GORĄCO|n_POD_WNG_otwarte_END|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-13|16:00|16:53|WSZYSTKO NA GORĄCO|P_PORANEK 96 DRWALE|Jaco Caraco - "Im Gonna Find A Way"|PRS||0:0:59|Jacek Brzostyński|PRS / Szwaja W.||

@@ -1,0 +1,110 @@
+﻿2018-12-01|07:00|07:00|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:18|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|06:59|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:22|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|00:00|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_czujny tel|nd|nd||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|07:00|00:00|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|07:00|06:59|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:46|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|07:03|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|07:03|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|YOU CAN'T STOP THE BEAT|Lopez Alvarez/Ian Dench/Tendai Tyson|Lopez Alvarez/Ian Dench/Tendai Tyson||0:3:24|WALLY LOPEZ FEAT. JAMIE SCOTT||EMI|
+2018-12-01|07:00|07:07|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_12_fast_short|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|07:07|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|KTO NIE KOCHAŁ|Piotr Cugowski, Marcin Trojanowicz|WOJCIECH BYRSKI||0:3:24|PIOTR CUGOWSKI||SONY|
+2018-12-01|07:00|07:10|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|VOYAGE VOYAGE|RIVAT|DUBOIS||0:4:17|DESIRELESS||UNIVERSAL/SONY|
+2018-12-01|07:00|07:10|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_STG_PORANEK_02_m|Agim Dżeljilji|Agim Dżeljilji||0:0:9|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|07:00|07:14|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_16_med_instr|Agim Dżeljilji|nd||0:2:46|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|07:16|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_16_slow_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|07:17|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|PROMISES|Jessie Reyez, Sam Smith, Adam Wiles|Jessie Reyez, Sam Smith, Adam Wiles||0:3:33|CALVIN HARRIS FEAT. SAM SMITH||SONY|
+2018-12-01|07:00|07:21|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_PORANEK_01_km|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|07:00|07:21|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|OBJECTION TANGO|SHAKIRA|SHAKIRA|ND|0:3:42|SHAKIRA|SHAKIRA|SONY MUSIC|
+2018-12-01|07:00|07:24|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_17_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|07:24|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|WYSTARCZĘ JA|Paweł Domagała, Łukasz Borowiecki|PAWEŁ DOMAGAŁA||0:3:22|PAWEŁ DOMAGAŁA||Domagała-Borowiecki S.C.|
+2018-12-01|07:00|07:27|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_16_med_instr|Agim Dżeljilji|nd||0:1:47|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|07:29|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_16_med_instr|Agim Dżeljilji|nd||0:0:15|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|07:29|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|P_PRACA 165 AGENT OLEK|Kenny Korade - "We Are Young Tonight"|PRS||0:0:54|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|07:00|07:30|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:37|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|07:30|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_STRS_PORANEK_05|Agim Dżeljilji|Agim Dżeljilji||0:0:10|Brzostyński, Aleksandrowicz, Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|07:31|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|THRILLER (SINGLE EDIT)|TEMPERTON R.|TEMPERTON R.||0:5:11|MICHAEL JACKSON||SONY|
+2018-12-01|07:00|07:36|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_17_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|07:36|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|KEEP IT TO MYSELF|JOVANI FEAT. JAZZU|JOVANI FEAT. JAZZU||0:3:31|JOVANI FEAT. JAZZU||Radistai DJs Records|
+2018-12-01|07:00|07:39|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_PORANEK_03_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:7|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|07:00|07:39|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|O PANI!|Konrad Bliński, Grzegorz Hyży|MACIEJ TACHER, GRZEGORZ HYŻY||0:2:56|GRZEGORZ HYŻY||SONY|
+2018-12-01|07:00|07:42|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_06_med_instr|Agim Dżeljilji|nd||0:1:0|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|07:42|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|POD_1_KUCHNIA PANA DZIDKA|Tomasz Lewandowski|Tomasz Lewandowski||0:4:23|Ćwiek Tomasz||StudioZET|
+2018-12-01|07:00|07:47|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_08_fast_short|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|07:47|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|THE ROAD TO HELL|REA CHRIS|REA CHRIS|ND|0:4:13|CHRIS REA|REA CHRIS|EAST WEST|
+2018-12-01|07:00|07:52|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_08_fast_instr2|Agim Dżeljilji|nd||0:0:7|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|07:52|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|07:00|07:52|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_08_fast_instr|Agim Dżeljilji|nd||0:0:12|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|07:52|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|ALEJANDRO|Stefani Germanotta, Nadir Khayat|Stefani Germanotta, Nadir Khayat||0:4:8|LADY GAGA||Interscope|
+2018-12-01|07:00|07:56|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_06_med_instr3|Agim Dżeljilji|nd||0:0:27|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|07:56|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|P_SPÓR W KINIE 01.12|Loi - "Glitter Swing Symphony"|PRS||0:0:39|Jacek Brzostyński, Krzysztof Spór|PRS / Szwaja W.||
+2018-12-01|07:00|08:00|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:21|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|07:59|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:60|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|00:00|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_czujny tel|nd|nd||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|07:00|00:00|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|07:00|07:59|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:32|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|08:03|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|08:04|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|SELF CONTROL|BRIGAZZI|REIFOLI|ND|0:3:55|LAURA BRANIGAN|EMI|EMI|
+2018-12-01|07:00|08:08|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_TO JEST_02_k|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|07:00|08:08|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|MOVES|Broadus Jr./Malik/Sheeran/Mac|Broadus Jr./Malik/Sheeran/Mac||0:2:43|OLLY MURS FEAT. SNOOP DOGG||SONY|
+2018-12-01|07:00|08:10|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_STG_WEEKEND_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|07:00|08:10|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|FEEL|WILLIAMS|CHAMBERS|ND|0:3:40|ROBBIE WILLIAMS|CHAMBERS|CHRYSALIS|
+2018-12-01|07:00|08:14|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_06_med_instr|Agim Dżeljilji|nd||0:0:44|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|08:16|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|NIE MUSZĘ|Julia Wieniawa, Wojtek Urbański|Arek Sitarz (Ras)||0:2:60|JULIA WIENIAWA|||
+2018-12-01|07:00|08:19|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|INVISIBLE TOUCH|BANKS / COLLINS / RUTHERFORD|BANKS / COLLINS / RUTHERFORD||0:3:13|GENESIS|GENESIS||
+2018-12-01|07:00|08:19|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_STG_PORANEK_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:8|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|07:00|08:22|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_08_fast_short|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|08:22|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|CLOSE TO ME|ELLIE GOULDING, DIPLO, SWAE LEE|ELLIE GOULDING, DIPLO, SWAE LEE||0:2:60|ELLIE GOULDING & DIPLO FEAT. SWAE LEE||UNIVERSAL|
+2018-12-01|07:00|08:25|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_PORANEK_05_k|Agim Dżeljilji|Agim Dżeljilji||0:0:7|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|07:00|08:25|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|LILI|Sołoducha, Ortyński|Ortyński||0:3:15|ENEJ||ROCKERS PUBLISHING|
+2018-12-01|07:00|08:28|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_24_med_instr|Agim Dżeljilji|nd||0:2:29|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|08:30|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_24_med|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|08:31|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|P_OJCOWIE DMOWSKI 02 (od pon)|Yoni Gileadi/Amy Gileadi-"The Company"|PRS||0:0:52|Jacek Brzostyński, Jerzy Zelnik|PRS / Szwaja W.||
+2018-12-01|07:00|08:32|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:33|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|08:32|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_STRS_PORANEK_03|Agim Dżeljilji|Agim Dżeljilji||0:0:11|Brzostyński, Aleksandrowicz, Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|08:32|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|ELLA|Soler/Triebel/Zuckowski/Chil/Bernard|Soler/Triebel/Zuckowski/Chil/Bernard||0:3:29|ALVARO SOLER||UNIVERSAL|
+2018-12-01|07:00|08:36|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|AUTOMATIC (I'M TALKING TO YOU)|Torsten Stenzel/Adrian Zagoritis|Torsten Stenzel/Adrian Zagoritis||0:3:10|ELIZE||SPINNIN' RECORDS|
+2018-12-01|07:00|08:36|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_RS_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|07:00|08:39|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|100|Patrycja Kosiarkiewicz, Łukasz Bartosza|BARTOSZ ZIELONY||0:3:14|SOUND'N'GRACE & FILIP LATO||GORGO|
+2018-12-01|07:00|08:42|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_24_med_instr|Agim Dżeljilji|nd||0:1:58|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|08:44|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_24_med|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|08:44|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|BORN TO BE YOURS|Kygo/Reynolds/Sermon/McKee/Platzman|Kygo/Reynolds/Sermon/McKee/Platzman||0:3:7|KYGO FEAT. IMAGINE DRAGONS||SONY|
+2018-12-01|07:00|08:47|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|EVERYTIME WE TOUCH|REILLY M. .|RISAVY|ND|0:3:46|MAGGIE REILLY|EMI|EMII|
+2018-12-01|07:00|08:47|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_STG_PORANEK_04_m|Agim Dżeljilji|Agim Dżeljilji||0:0:8|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|07:00|08:51|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_06_med_instr2|Agim Dżeljilji|nd||0:0:19|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|08:51|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|07:00|08:51|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|I FEEL IT COMING|Tesfaye, Bangalter, Walter|Cirkut||0:4:22|THE WEEKND FEAT. DAFT PUNK|||
+2018-12-01|07:00|08:55|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_06_med_instr|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|08:55|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_06_med_instr|Agim Dżeljilji|nd||0:0:10|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|08:56|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|P_TROCHĘ KULTURY 02.12|Laszlo/Wheeler - "Dreams Come True"|PRS||0:1:2|Jacek Brzostyński, Konrad Wojtyła|PRS / Szwaja W.||
+2018-12-01|07:00|09:00|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_head v.2|Agim Dżeljilji|nd||0:0:25|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|08:59|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_main_bez_pików|Agim Dżeljilji|Agim Dżeljilji||0:3:53|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|00:00|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_czujny tel|nd|nd||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|07:00|00:00|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_słuchasz|nd|nd||0:0:3|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|07:00|08:59|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_poleca|Agim Dżeljilji|Agim Dżeljilji||0:1:22|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|09:03|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_pogoda|Agim Dżeljilji|Agim Dżeljilji||0:0:29|A. Aleksandrowicz, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|09:04|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_STRS_WD WP WS_06|Agim Dzeljilji|Agim Dzeljilji||0:0:9|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|09:04|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|PRAYER IN C|Nili Hadida, Benjamin Cotto|Nili Hadida, Benjamin Cotto||0:3:9|LILLY WOOD & THE PRICK AND ROBIN SCHULZ||Choke Industry / Tonspiel|
+2018-12-01|07:00|09:08|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|ZA SWOJE|Kamil/Kożuchowski/Pękacki|Kamil/Kożuchowski/Pękacki||0:3:24|ŻELKA||UNIVERSAL|
+2018-12-01|07:00|09:08|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_STG_WEEKEND_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|07:00|09:11|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_11_fast_short|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|09:11|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|CARELESS WHISPER|MICHAEL/RIDGELEY|MICHAEL|ND|0:4:60|GEORGE MICHAEL / WHAM|MICHAEL|EPIC|
+2018-12-01|07:00|09:16|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_22_slow_instr|Agim Dżeljilji|nd||0:2:56|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|09:19|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_22_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:13|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|07:00|09:19|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|SWEET BUT PSYCHO|Love/Koci/Walter/Haukeland|Love/Koci/Walter/Haukeland||0:3:4|AVA MAX||WARNER|
+2018-12-01|07:00|09:22|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|ANGEL IN BLUE JEANS|TRAIN|TRAIN||0:3:21|TRAIN||SONY|
+2018-12-01|07:00|09:22|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_TO JEST_01_km|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|07:00|09:25|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|MAŁOMIASTECZKOWY|Bartek Dziedzic, Dawid Podsiadło|Dawid Podsiadło||0:3:23|DAWID PODSIADŁO||SONY|
+2018-12-01|07:00|09:26|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_RS_01_k|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Agnieszka Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|07:00|09:29|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_POD_08_fast_instr|Agim Dżeljilji|nd||0:1:0|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|09:30|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_08_fast_instr|Agim Dżeljilji|nd||0:0:12|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|09:30|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|P_DOMÓWKA 20 (sob)|Zaremba - "Melbourne"|PRS||0:0:46|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|07:00|09:31|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_NEWS_sport|Agim Dżeljilji|Agim Dżeljilji||0:3:45|J. Brzostyński, A. Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|09:31|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_STRS_PORANEK_05|Agim Dżeljilji|Agim Dżeljilji||0:0:10|Brzostyński, Aleksandrowicz, Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|09:34|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|FOREIGN AFFAIR|Tony Joe White|Tony Joe White||0:4:18|TINA TURNER|Tony Joe White & Roger Davies|Capitol|
+2018-12-01|07:00|09:39|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|PHOTOGRAPH (FELIX JAEHN REMIX)|Ed Sheeran/Johnny McDaid|Ed Sheeran/Johnny McDaid||0:3:21|ED SHEERAN||ASYLUM RECORDS|
+2018-12-01|07:00|09:39|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_WEEKEND_06_km|Agim Dżeljilji|Agim Dżeljilji||0:0:10|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|07:00|09:42|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_02_slow_instr|Agim Dżeljilji|nd||0:0:13|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|09:48|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|LOSING MY RELIGION|Berry/Buck/Mills/Stipe|Berry/Buck/Mills/Stipe||0:4:26|R.E.M.||WARNER|
+2018-12-01|07:00|09:52|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|07:00|09:52|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|WHENEVER|Shakira/Mitchell/Estefan/Maynard/Voort/|Francesco/Daalen/Huisman/Huisman/Berkel||0:2:42|KRIS KROSS AMSTERDAM/ THE BOY NEXT DOOR||WARNER|
+2018-12-01|07:00|09:55|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|n_JRS_06_med_instr2|Agim Dżeljilji|nd||0:0:19|Agim Dżeljilji|Agim Dżeljilji||
+2018-12-01|07:00|09:55|WEEKENDOWE RADIO SZCZECIN NA DZIEŃ DOBRY|P_PRACA 163 PIERWSZE SOLARKI|Kenny Korade - "We Are Young Tonight"|PRS||0:0:51|Jacek Brzostyński|PRS / Szwaja W.||

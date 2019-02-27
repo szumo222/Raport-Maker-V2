@@ -1,0 +1,14 @@
+﻿2018-12-01|06:00|06:00|NA SZCZECIŃSKIEJ ZIEMI|n_P_CZĘSTOTLIWOŚĆ_03|Agim Dżeljilji|PRS||0:0:22|J. Brzostyński, A. Aleksandrowicz|PRS / Szwaja W.||
+2018-12-01|06:00|06:00|NA SZCZECIŃSKIEJ ZIEMI|NSZ_POD_SPONSOR Izba Rolnicza|Ingo Herrmann - "Momental"|PRS||0:3:49|Ćwiek Tomasz|PRS / Szwaja W.||
+2018-12-01|06:00|06:04|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_24_med|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|06:00|06:09|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_01_trans|Agim Dzeljilji|Agim Dzeljilji||0:0:14|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|06:00|06:14|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_08_fast (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:13|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|06:00|06:23|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_21_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:23|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|06:00|06:30|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_02_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:14|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|06:00|06:48|NA SZCZECIŃSKIEJ ZIEMI|TAK BLISKO|Marek Kościkiewicz|Marek Kościkiewicz||0:3:2|RAFAŁ BRZOZOWSKI||Universal Music Polska|
+2018-12-01|06:00|06:48|NA SZCZECIŃSKIEJ ZIEMI|n_STG_PORANEK_03_m|Agim Dżeljilji|Agim Dżeljilji||0:0:5|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|06:00|06:51|NA SZCZECIŃSKIEJ ZIEMI|Akademia Działkowca-sygnał bez sponsora|Stelita - "Solo Tu"|PRS||0:0:15|Ćwiek Tomasz|PRS / Szwaja W.||
+2018-12-01|06:00|06:56|NA SZCZECIŃSKIEJ ZIEMI|Akademia Działkowca-sygnał bez sponsora|Stelita - "Solo Tu"|PRS||0:0:15|Ćwiek Tomasz|PRS / Szwaja W.||
+2018-12-01|06:00|06:56|NA SZCZECIŃSKIEJ ZIEMI|ANDZIA I JA|Andrzej Szpilman, Marcin Ciempiel|Andrzej Szpilman, Marcin Ciempiel||0:2:30|ODDZIAŁ ZAMKNIĘTY||Koch International|
+2018-12-01|06:00|06:56|NA SZCZECIŃSKIEJ ZIEMI|n_WH_NEWS_PARĘ MINUT_01|Agim Dżeljilji|nd||0:0:14|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|06:00|06:59|NA SZCZECIŃSKIEJ ZIEMI|n_P_CZĘSTOTLIWOŚĆ_01|Agim Dżeljilji|PRS||0:0:22|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||

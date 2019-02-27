@@ -1,0 +1,84 @@
+﻿2018-12-01|00:00|00:08|NOCNE RADIO|RIPTIDE|James Keogh|James Keogh||0:3:18|VANCE JOY||Liberation|
+2018-12-01|00:00|00:11|NOCNE RADIO|ONE DAY (RADIO EDIT)|Asaf Avidan|Asaf Avidan||0:2:44|ASAF AVIDAN||SONY MUSIC POLSKA|
+2018-12-01|00:00|00:14|NOCNE RADIO|KOCHAĆ CIĘ - ZA PÓŹNO|ŁOSOWSKI|TKACZYK|ND|0:4:14|KOMBI|S.P. RECORDS|S.P. RECORDS|
+2018-12-01|00:00|00:14|NOCNE RADIO|n_STG_WEEKEND_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|00:00|00:18|NOCNE RADIO|n_JRS_10_trans|Agim Dzeljilji|Agim Dzeljilji||0:0:17|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|00:18|NOCNE RADIO|WEŹ NIE PYTAJ|Paweł Domagała, Łukasz Borowiecki|Paweł Domagała||0:4:21|PAWEŁ DOMAGAŁA||Domagała-Borowiecki S.C.|
+2018-12-01|00:00|00:23|NOCNE RADIO|FUOCO NEL FUOCO|RAMAZZOTTI, GUIDETTI|COGLIATI, RAMAZZOTTI|ND|0:4:2|EROS RAMAZZOTTI|NOWELLS|BMG|
+2018-12-01|00:00|00:23|NOCNE RADIO|n_WH_W DOMU_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|00:00|00:27|NOCNE RADIO|NIGDY WIĘCEJ NIE TAŃCZ ZE MNĄ|DĄBROWSKA|DĄBROWSKA||0:2:38|ANIA|DĄBROWSKA|SONY BMG|
+2018-12-01|00:00|00:27|NOCNE RADIO|n_WH_TO JEST_04_km|Agim Dżeljilji|Agim Dżeljilji||0:0:6|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|00:00|00:29|NOCNE RADIO|P_OJCOWIE DMOWSKI 02 (od pon)|Yoni Gileadi/Amy Gileadi-"The Company"|PRS||0:0:52|Jacek Brzostyński, Jerzy Zelnik|PRS / Szwaja W.||
+2018-12-01|00:00|00:30|NOCNE RADIO|DRAPACZ CHMUR (THE FOXXES REMIX)|Natalia Wójcik|Natalia Wójcik||0:3:20|ZAGI||POMATON|
+2018-12-01|00:00|00:33|NOCNE RADIO|n_JRS_21_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:23|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|00:33|NOCNE RADIO|STOP|BROWN SAM|SUTTON GREGG|ND|0:3:56|SAM BROWN|EMI ELECTROLA|EMI ELECTROLA|
+2018-12-01|00:00|00:37|NOCNE RADIO|n_JRS_14_med2|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|00:37|NOCNE RADIO|WITHOUT ME|Bell/Allen/Frangipane/Delacey/|Timberlake/Mosley/Storch||0:3:20|HALSEY||UNIVERSAL|
+2018-12-01|00:00|00:41|NOCNE RADIO|n_JRS_13_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|00:41|NOCNE RADIO|DOBRE MYŚLI|Sylwia Grzeszczak|Marcin Liber Piotrowski||0:3:19|SYLWIA GRZESZCZAK & LIBER||WARNER|
+2018-12-01|00:00|00:44|NOCNE RADIO|n_STG_WEEKEND_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|00:00|00:44|NOCNE RADIO|JUST LIKE FIRE|P!nk/Martin/Shellback/Holter|P!nk/Martin/Shellback/Holter||0:3:33|PINK||SONY|
+2018-12-01|00:00|00:48|NOCNE RADIO|n_JRS_23_med|Agim Dzeljilji|Agim Dzeljilji||0:0:15|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|00:48|NOCNE RADIO|I'VE SEEN THAT FACE BEFORE|Piazzolla/Reynolds/Wilkey/Delon|Piazzolla/Reynolds/Wilkey/Delon|ND|0:4:29|GRACE JONES|BLACKWELL|ISLAND RECORDS|
+2018-12-01|00:00|00:52|NOCNE RADIO|POCZĄTEK|KRZYSZTOF ZALEWSKI|KRZYSZTOF ZALEWSKI||0:3:53|KORTEZ / PODSIADŁO / ZALEWSKI||KAYAX|
+2018-12-01|00:00|00:56|NOCNE RADIO|n_JRS_13_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|00:57|NOCNE RADIO|MOVE YOUR BODY (ALAN WALKER REMIX)|Sia Furler, Greg Kurstin|Sia Furler, Greg Kurstin||0:3:32|SIA||SONY|
+2018-12-01|00:00|01:01|NOCNE RADIO|BEHIND BLUE EYES|THE WHO|THE WHO|ND|0:4:29|LIMP BIZKIT|DURST|INTERSCOPE RECORDS|
+2018-12-01|00:00|01:05|NOCNE RADIO|WYŚLIJ SOBIE POCZTÓWKĘ|Webber|Łona||0:2:56|ŁONA I WEBBER||Dobrzewiesz Nagrania|
+2018-12-01|00:00|01:08|NOCNE RADIO|n_JRS_09_med|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|01:08|NOCNE RADIO|DON'T BE SO SHY (FILATOV & KARAS REMIX)|IMANY|IMANY||0:3:8|IMANY||WARNER|
+2018-12-01|00:00|01:11|NOCNE RADIO|n_JRS_13_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|01:12|NOCNE RADIO|SEX ON FIRE|FOLLOWILL CELEB|FOLLOWILL CELEB||0:3:24|KINGS OF LEON||SONY/BMG|
+2018-12-01|00:00|01:15|NOCNE RADIO|n_JRS_21_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:23|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|01:15|NOCNE RADIO|RUCHOME PIASKI|ROBERT JANSON|ANDRZEJ IGNATOWSKI|ND.|0:4:51|VARIUS MANX|POLYGRAM POLSKA|POLYGRAM POLSKA|
+2018-12-01|00:00|01:20|NOCNE RADIO|n_JRS_10_trans|Agim Dzeljilji|Agim Dzeljilji||0:0:17|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|01:20|NOCNE RADIO|KARWOSKI|Pablopavo i Ludziki|Pablopavo||0:5:0|PABLOPAVO I LUDZIKI||KARROT|
+2018-12-01|00:00|01:25|NOCNE RADIO|n_STG_WEEKEND_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|00:00|01:25|NOCNE RADIO|PERSONAL JESUS|GORE|GORE||0:3:40|DEPECHE MODE||MUTE|
+2018-12-01|00:00|01:29|NOCNE RADIO|TYLKO Z TOBĄ CHCĘ BYĆ SOBĄ|Erik Nyholm / Eric Palmqwist|Federkiewicz/Sochacka/Szczepanek/Trafal||0:3:53|ŁUKASZ ZAGROBELNY||Sony|
+2018-12-01|00:00|01:33|NOCNE RADIO|P_DOMÓWKA 19 (sob)|Zaremba - "Melbourne"|PRS||0:0:43|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|00:00|01:33|NOCNE RADIO|LEGENDARY|Sam Getz, Jimmy Weaver|Sam Getz||0:3:49|WELSHLY ARMS||UNIVERSAL|
+2018-12-01|00:00|01:37|NOCNE RADIO|n_STG_WEEKEND_01_m|Agim Dżeljilji|Agim Dżeljilji||0:0:6|Jacek Brzostyński|Agim Dżeljilji||
+2018-12-01|00:00|01:37|NOCNE RADIO|SAVE ME|Andrei Ropcea, Marius Moga|Andrei Ropcea, Marius Moga||0:3:10|MORANDI FEAT. HELENE|Andrei Ropcea, Marius Moga|UNIVERSAL|
+2018-12-01|00:00|01:40|NOCNE RADIO|n_JRS_13_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|01:41|NOCNE RADIO|PECH TO NIE GRZECH|Grzegorz Hyży, Konrad Biliński|Grzegorz Hyży||0:3:38|GRZEGORZ HYŻY||SONY|
+2018-12-01|00:00|01:44|NOCNE RADIO|n_JRS_21_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:23|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|01:45|NOCNE RADIO|I LOVE ROCK'N ROLL|Alan Merrill, Jake Hooker|Alan Merrill, Jake Hooker||0:2:54|JOAN JETT & THE BLACKHEARTS||Boardwalk|
+2018-12-01|00:00|01:47|NOCNE RADIO|n_JRS_10_trans_short2|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|01:48|NOCNE RADIO|THANK U, NEXT|Grande/Anderson/Foster/Parks/Brown/|McCants||0:3:22|ARIANA GRANDE||REPUBLIC|
+2018-12-01|00:00|01:51|NOCNE RADIO|n_JRS_20_med2|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|01:51|NOCNE RADIO|T-SHIRT|Wiergowski/Podolski/Dąbrowski/Baran/|Lisowska||0:3:31|EWELINA LISOWSKA||UNIVERSAL|
+2018-12-01|00:00|01:54|NOCNE RADIO|n_JRS_13_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|01:55|NOCNE RADIO|COME ALONG|SVENSSON|SVENSSON|ND|0:3:42|TITIYO|JOHANSSON|WEA|
+2018-12-01|00:00|01:58|NOCNE RADIO|n_JRS_09_med|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|01:59|NOCNE RADIO|RED RED WINE|Neil Diamond|Neil Diamond||0:2:53|UB40||VIRGIN|
+2018-12-01|00:00|02:01|NOCNE RADIO|n_JRS_05_med_short|Agim Dzeljilji|Agim Dzeljilji||0:0:7|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|02:01|NOCNE RADIO|TELEFON|Cyprys/Wochna/Graczyk/Grudzinski|Jakub Koźba||0:2:59|POWER OF TRINITY||UNIVERSAL|
+2018-12-01|00:00|02:05|NOCNE RADIO|SWISH SWISH|Perry/Dumont/Hudson|Hazzard/PJ Promnite/Sledge/Miraj||0:3:60|KATY PERRY FEAT. NICKI MINAJ||Universal|
+2018-12-01|00:00|02:09|NOCNE RADIO|n_JRS_04_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|02:09|NOCNE RADIO|LET HER GO|MIKE ROSENBERG|MIKE ROSENBERG||0:3:50|PASSENGER||SONY|
+2018-12-01|00:00|02:13|NOCNE RADIO|n_STG_WEEKEND_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|00:00|02:13|NOCNE RADIO|ŻYCIE JEST PIĘKNE|Dzierżawa/Adam Konkol/Wieczorek/Chmiel|Trzaskalik/Krzykała/Angelina Konkol||0:3:45|ŁZY||WARNER|
+2018-12-01|00:00|02:17|NOCNE RADIO|n_JRS_13_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|02:17|NOCNE RADIO|THE OCEAN|Sara Hjellström Nirob Islam|Sara Hjellström Nirob Islam||0:2:58|MIKE PERRY FEAT. SHY MARTIN||SONY|
+2018-12-01|00:00|02:20|NOCNE RADIO|n_JRS_21_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:23|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|02:20|NOCNE RADIO|MY LOVE|Rowan Jones|Rowan Jones||0:4:17|ROUTE 94 FEAT. JESS GLYNNE||UNIVERSAL|
+2018-12-01|00:00|02:25|NOCNE RADIO|n_JRS_08_fast|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|02:25|NOCNE RADIO|THE REASON|Robb, Estrin, Hesse, Lappalainen|Robb, Estrin, Hesse, Lappalainen||0:3:49|HOOBASTANK||ISLAND|
+2018-12-01|00:00|02:28|NOCNE RADIO|n_JRS_21_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:23|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|02:29|NOCNE RADIO|MIJA MNIE CZAS|Zdzisław Zioło|JACEK CYGAN||0:3:12|DE MONO||SONY|
+2018-12-01|00:00|02:32|NOCNE RADIO|n_JRS_20_med2|Agim Dzeljilji|Agim Dzeljilji||0:0:12|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|02:32|NOCNE RADIO|W MOJE OCZY PATRZ|MARCIN KINDLA|Wojciech Jarosław Byrski||0:3:10|AGNIESZKA ADAMCZEWSKA||UNIVERSAL|
+2018-12-01|00:00|02:35|NOCNE RADIO|n_STG_SŁUCHASZ_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:9|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|00:00|02:35|NOCNE RADIO|AIN'T THAT JUST THE WAY|Belland, Larson, Phillips|Belland, Larson, Phillips||0:3:31|LUTRICIA MCNEAL||WARNER|
+2018-12-01|00:00|02:39|NOCNE RADIO|P_PRACA 160 SŁUCHALNOŚĆ NUDA|Kenny Korade - "We Are Young Tonight"|PRS||0:0:57|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-01|00:00|02:40|NOCNE RADIO|LIŚCIE NA WIETRZE|Robert Janson, Andrzej Ignatowski|Robert Janson, Andrzej Ignatowski||0:2:51|MACIEJ CZACZYK||HQT Music Group|
+2018-12-01|00:00|02:42|NOCNE RADIO|n_JRS_13_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:24|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|02:43|NOCNE RADIO|ONE LAST TIME|Tillerli/Jenset/Bjelvin/Gromala|Tillerli/Jenset/Bjelvin/Gromala||0:3:26|GROMEE FEAT. JESPER JENSET||SONY|
+2018-12-01|00:00|02:46|NOCNE RADIO|n_JRS_07_med|Agim Dzeljilji|Agim Dzeljilji||0:0:13|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|02:46|NOCNE RADIO|WILDEST MOMENTS|JESSIE WARE|JESSIE WARE||0:3:29|JESSIE WARE|Dave Okumu|PMR Records|
+2018-12-01|00:00|02:50|NOCNE RADIO|NIE MA MNIE|Uściłowska, Krupski, Morange|Uściłowska, Krupski, Morange||0:3:28|LANBERRY||UNIVERSAL|
+2018-12-01|00:00|02:53|NOCNE RADIO|n_STG_WEEKEND_02_mk|Agim Dżeljilji|Agim Dżeljilji||0:0:8|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-01|00:00|02:53|NOCNE RADIO|WALKING AWAY|Craig David, Mark Hill|Craig David, Mark Hill||0:3:19|CRAIG DAVID||Wildstar, Edel, Atlantic|
+2018-12-01|00:00|02:56|NOCNE RADIO|n_JRS_06_med|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-01|00:00|02:56|NOCNE RADIO|LOST IN JAPAN (REMIX)|Mendes/Harris/Mercereau/Geiger|Mendes/Harris/Mercereau/Geiger||0:3:13|SHAWN MENDES & ZEDD||ISLAND|

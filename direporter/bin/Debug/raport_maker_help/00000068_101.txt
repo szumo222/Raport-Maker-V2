@@ -1,0 +1,11 @@
+﻿2018-12-15|06:00|06:00|NA SZCZECIŃSKIEJ ZIEMI|n_P_CZĘSTOTLIWOŚĆ_03|Agim Dżeljilji|PRS||0:0:22|J. Brzostyński, A. Aleksandrowicz|PRS / Szwaja W.||
+2018-12-15|06:00|06:00|NA SZCZECIŃSKIEJ ZIEMI|NSZ_POD_SPONSOR Izba Rolnicza|Ingo Herrmann - "Momental"|PRS||0:3:14|Ćwiek Tomasz|PRS / Szwaja W.||
+2018-12-15|06:00|06:03|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_02_slow|Agim Dzeljilji|Agim Dzeljilji||0:0:14|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|06:00|06:09|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_06_med (wd wp ws)|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|06:00|06:18|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_08_fast_short|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|06:00|06:26|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_09_med|Agim Dzeljilji|Agim Dzeljilji||0:0:11|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|06:00|06:33|NA SZCZECIŃSKIEJ ZIEMI|n_JRS_15_med|Agim Dzeljilji|Agim Dzeljilji||0:0:8|Agim Dżeljilji, Aleksandra Warchoł|Agim Dzeljilji||
+2018-12-15|06:00|06:47|NA SZCZECIŃSKIEJ ZIEMI|Akademia Działkowca-sygnał bez sponsora|Stelita - "Solo Tu"|PRS||0:0:15|Ćwiek Tomasz|PRS / Szwaja W.||
+2018-12-15|06:00|06:53|NA SZCZECIŃSKIEJ ZIEMI|Akademia Działkowca-sygnał bez sponsora|Stelita - "Solo Tu"|PRS||0:0:15|Ćwiek Tomasz|PRS / Szwaja W.||
+2018-12-15|06:00|06:53|NA SZCZECIŃSKIEJ ZIEMI|DRAPACZ CHMUR (THE FOXXES REMIX)|Natalia Wójcik|Natalia Wójcik||0:3:20|ZAGI||POMATON|
+2018-12-15|06:00|06:59|NA SZCZECIŃSKIEJ ZIEMI|n_P_CZĘSTOTLIWOŚĆ_01|Agim Dżeljilji|PRS||0:0:22|Brzostyński, Aleksandrowicz, Warchoł|PRS / Szwaja W.||

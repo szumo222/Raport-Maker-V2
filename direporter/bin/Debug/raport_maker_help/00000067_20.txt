@@ -1,0 +1,6 @@
+﻿2018-12-10|03:00|03:00|RELIGIA NA FALI|n_P_CZĘSTOTLIWOŚĆ_03|Agim Dżeljilji|PRS||0:0:22|J. Brzostyński, A. Aleksandrowicz|PRS / Szwaja W.||
+2018-12-10|03:00|03:00|RELIGIA NA FALI|n_STG_POWTÓRKA czoło|Aumueller, Gargani -"Information Age"|PRS||0:0:6|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-10|03:00|03:55|RELIGIA NA FALI|n_STG_POWTÓRKA end|Aumueller, Gargani -"Information Age"|PRS||0:0:7|Jacek Brzostyński|PRS / Szwaja W.||
+2018-12-10|03:00|03:55|RELIGIA NA FALI|SPOWIEDŹ|Kasia Kowalska, Jarek Rynkowski|KOWALSKA||0:3:10|KASIA KOWALSKA|KOWALSKA|Universal Music Polska|
+2018-12-10|03:00|03:58|RELIGIA NA FALI|n_WH_W DOMU_03_km|Agim Dżeljilji|Agim Dżeljilji||0:0:11|J. Brzostyński, A. Aleksandrowicz|Agim Dżeljilji||
+2018-12-10|03:00|03:58|RELIGIA NA FALI|ZRÓB TO|EWELINA LISOWSKA|EWELINA LISOWSKA||0:3:15|EWELINA LISOWSKA||UNIVERSAL|
